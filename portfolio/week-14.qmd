@@ -18,4 +18,8 @@ Memilih dan membatasi peran AI sambil menjaga human competence, authority, dan r
 - AI role, prompt/output, serta human revision.
 - Privacy/authority/risk review dan alasan tidak menggunakan lebih banyak AI.
 
+::: {.callout-tip title="Lihat contoh pengisian"}
+[Buka contoh fiktif Minggu 14](../examples/week-14.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+:::
+
 {{< include ../includes/evidence-template.md >}}

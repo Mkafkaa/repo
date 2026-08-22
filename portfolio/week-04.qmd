@@ -18,4 +18,8 @@ Mengadaptasi repertoire dan language tanpa mengubah core meaning.
 - Alasan perubahan language dan repertoire.
 - Feedback understanding dari sedikitnya satu target.
 
+::: {.callout-tip title="Lihat contoh pengisian"}
+[Buka contoh fiktif Minggu 4](../examples/week-04.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+:::
+
 {{< include ../includes/evidence-template.md >}}

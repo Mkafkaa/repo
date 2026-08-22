@@ -18,4 +18,8 @@ Mengintegrasikan person, character, objective, state, repertoire, language, resp
 - Rekaman/transcript, observer feedback, serta decisive adaptation.
 - Agreement/action atau specific disagreement, relationship outcome, AI critique, dan reflection.
 
+::: {.callout-tip title="Lihat contoh pengisian"}
+[Buka contoh fiktif Minggu 15](../examples/week-15.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+:::
+
 {{< include ../includes/evidence-template.md >}}

@@ -18,3 +18,6 @@ listing:
 
 Perbarui metadata di bagian atas setiap file `week-XX.qmd`. Nilai `status` yang disarankan: `Belum dimulai`, `Draft`, `Siap dinilai`, `Perlu revisi`, atau `Tercapai`.
 
+::: {.callout-tip title="Butuh contoh?"}
+Lihat [contoh portfolio lengkap untuk Minggu 1–15](../examples/index.qmd). Semua contoh menggunakan mahasiswa, person, percakapan, dan artefak fiktif. Gunakan sebagai acuan mutu dan struktur, bukan sebagai jawaban untuk disalin.
+:::

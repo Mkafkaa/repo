@@ -8,6 +8,7 @@ pencapaian mata kuliah **Komunikasi Inter Personal dan Publik**.
 - `course/`: pengantar, hasil belajar, slide, quiz, dan arahan evidence untuk 15 minggu.
 - `slides/`: 15 deck RevealJS yang dapat dirender bersama situs.
 - `portfolio/`: satu halaman evidence yang dapat diedit untuk setiap minggu.
+- `examples/`: contoh portfolio fiktif yang telah terisi untuk 15 minggu.
 - `assessment/`: siklus assessment, status pencapaian, dan rubrik universal.
 - `.github/workflows/publish.yml`: publikasi otomatis ke GitHub Pages.
 - `.github/ISSUE_TEMPLATE/assessment-request.yml`: formulir permintaan penilaian.
@@ -32,6 +33,7 @@ Untuk setiap minggu:
 1. Baca halaman pada `course/week-XX.qmd`.
 2. Buka slide dan kerjakan quiz formatif.
 3. Isi `portfolio/week-XX.qmd` dengan evidence dan reflection.
+   Gunakan `examples/week-XX.qmd` sebagai acuan, bukan sebagai jawaban untuk disalin.
 4. Isi self-assessment, lalu ubah `status` menjadi `Siap dinilai`.
 5. Commit dan push perubahan.
 6. Buat issue **Permintaan assessment**.
@@ -67,4 +69,3 @@ branch `gh-pages` digunakan sebagai sumber publikasi.
 - Bedakan kontribusi individual dari hasil kelompok.
 - Minta deklarasi penggunaan AI.
 - Berikan satu prioritas perbaikan yang dapat diuji melalui replay atau evidence berikutnya.
-

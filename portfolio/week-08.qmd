@@ -18,4 +18,8 @@ Mengintegrasikan person recognition, state recognition, repertoire, language, re
 - Rekaman/transcript serta observer sheet.
 - Feedback, replay, evidence improvement, dan reflection.
 
+::: {.callout-tip title="Lihat contoh pengisian"}
+[Buka contoh fiktif Minggu 8](../examples/week-08.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+:::
+
 {{< include ../includes/evidence-template.md >}}

@@ -18,4 +18,8 @@ Menghubungkan solution mechanism dengan problem, benefit, dan value yang relevan
 - Interest pitch dengan evidence atau demonstration.
 - Response, state assessment, hidden concern, dan adaptation.
 
+::: {.callout-tip title="Lihat contoh pengisian"}
+[Buka contoh fiktif Minggu 7](../examples/week-07.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+:::
+
 {{< include ../includes/evidence-template.md >}}

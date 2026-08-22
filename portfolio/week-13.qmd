@@ -18,4 +18,8 @@ Mengomunikasikan core meaning kepada public secara sederhana, benar, dan bertang
 - Public artifact serta sumber evidence.
 - Context-collapse/reputation check, response, dan correction bila diperlukan.
 
+::: {.callout-tip title="Lihat contoh pengisian"}
+[Buka contoh fiktif Minggu 13](../examples/week-13.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+:::
+
 {{< include ../includes/evidence-template.md >}}

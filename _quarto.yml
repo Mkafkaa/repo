@@ -1,12 +1,13 @@
 project:
   type: website
-  output-dir: _site
+  output-dir: docs
   resources:
     - "assets/**"
   render:
     - "*.qmd"
     - "course/*.qmd"
     - "portfolio/*.qmd"
+    - "examples/*.qmd"
     - "assessment/*.qmd"
     - "slides/*.qmd"
 
@@ -26,6 +27,8 @@ website:
         text: Perkuliahan
       - href: portfolio/index.qmd
         text: Portfolio
+      - href: examples/index.qmd
+        text: Contoh
       - href: assessment/index.qmd
         text: Assessment
     right:
@@ -85,6 +88,33 @@ website:
       contents:
         - assessment/index.qmd
         - assessment/rubric.qmd
+    - id: examples
+      title: "Contoh Portfolio"
+      style: docked
+      collapse-level: 1
+      contents:
+        - examples/index.qmd
+        - section: "Minggu 1–5"
+          contents:
+            - examples/week-01.qmd
+            - examples/week-02.qmd
+            - examples/week-03.qmd
+            - examples/week-04.qmd
+            - examples/week-05.qmd
+        - section: "Minggu 6–10"
+          contents:
+            - examples/week-06.qmd
+            - examples/week-07.qmd
+            - examples/week-08.qmd
+            - examples/week-09.qmd
+            - examples/week-10.qmd
+        - section: "Minggu 11–15"
+          contents:
+            - examples/week-11.qmd
+            - examples/week-12.qmd
+            - examples/week-13.qmd
+            - examples/week-14.qmd
+            - examples/week-15.qmd
   page-footer:
     left: "Portfolio KIPP-2 · {{< var student.name >}}"
     right: "Dibangun dengan Quarto"

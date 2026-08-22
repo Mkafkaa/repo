@@ -18,4 +18,8 @@ Memfasilitasi beberapa person dengan objective, constraint, authority, dan state
 - Position–interest analysis, common ground, dan options.
 - Negotiation evidence, agreement/dissent, dan relationship review.
 
+::: {.callout-tip title="Lihat contoh pengisian"}
+[Buka contoh fiktif Minggu 11](../examples/week-11.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+:::
+
 {{< include ../includes/evidence-template.md >}}

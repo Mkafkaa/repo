@@ -18,4 +18,8 @@ Melakukan personal conversation dengan listening, clarity, boundary, dan relatio
 - Evidence listening dan response.
 - Analisis relationship state sebelum dan sesudah.
 
+::: {.callout-tip title="Lihat contoh pengisian"}
+[Buka contoh fiktif Minggu 3](../examples/week-03.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+:::
+
 {{< include ../includes/evidence-template.md >}}

@@ -18,4 +18,8 @@ Memisahkan event, fact, story, emotion, internal character, choice, dan action.
 - Initial story dan sedikitnya dua alternative narratives.
 - Internal agreement dan bukti tindakan berikutnya.
 
+::: {.callout-tip title="Lihat contoh pengisian"}
+[Buka contoh fiktif Minggu 2](../examples/week-02.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+:::
+
 {{< include ../includes/evidence-template.md >}}

@@ -18,4 +18,8 @@ Memilih target person yang tepat dan membuat issue diakui relevan melalui eviden
 - Problem/opportunity pitch serta evidence.
 - Response, state sesudah pitch, dan adaptation.
 
+::: {.callout-tip title="Lihat contoh pengisian"}
+[Buka contoh fiktif Minggu 6](../examples/week-06.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+:::
+
 {{< include ../includes/evidence-template.md >}}

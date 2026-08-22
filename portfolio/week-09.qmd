@@ -18,4 +18,8 @@ Membangun desired state bersama target dan menghubungkannya dengan solution seca
 - Feature–benefit–value–outcome chain.
 - Risk, evidence threshold, response, dan adaptation.
 
+::: {.callout-tip title="Lihat contoh pengisian"}
+[Buka contoh fiktif Minggu 9](../examples/week-09.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+:::
+
 {{< include ../includes/evidence-template.md >}}

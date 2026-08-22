@@ -18,4 +18,8 @@ Memfasilitasi community communication melintasi perbedaan dan power menuju actio
 - Sedikitnya tiga frames dan lima options.
 - Deliberation evidence, safeguard, action, dan review plan.
 
+::: {.callout-tip title="Lihat contoh pengisian"}
+[Buka contoh fiktif Minggu 12](../examples/week-12.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+:::
+
 {{< include ../includes/evidence-template.md >}}

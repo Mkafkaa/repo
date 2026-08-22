@@ -18,4 +18,8 @@ Menemukan desire–action gap dan menghasilkan agreement yang feasible serta eks
 - Options dan trade-off yang dibahas.
 - Agreement dengan owner/deadline serta bukti action atau review.
 
+::: {.callout-tip title="Lihat contoh pengisian"}
+[Buka contoh fiktif Minggu 10](../examples/week-10.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+:::
+
 {{< include ../includes/evidence-template.md >}}

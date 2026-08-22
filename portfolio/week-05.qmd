@@ -18,4 +18,8 @@ Mendengar sebelum proposing dan membangun shared problem statement dengan person
 - Transcript/paraphrase serta problem impact dan constraint.
 - Shared problem statement yang dikonfirmasi partner.
 
+::: {.callout-tip title="Lihat contoh pengisian"}
+[Buka contoh fiktif Minggu 5](../examples/week-05.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+:::
+
 {{< include ../includes/evidence-template.md >}}
