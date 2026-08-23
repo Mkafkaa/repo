@@ -1,4 +1,4 @@
-# Template Portfolio Mahasiswa KIPP-2
+# Portfolio Mahasiswa KIPP-2
 
 Template repository Quarto untuk menyimpan materi belajar dan evidence
 pencapaian mata kuliah **Komunikasi Inter Personal dan Publik**.
