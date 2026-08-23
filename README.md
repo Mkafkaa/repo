@@ -9,7 +9,7 @@ pencapaian mata kuliah **Komunikasi Inter Personal dan Publik**.
 - `slides/`: 15 deck RevealJS yang dapat dirender bersama situs.
 - `portfolio/`: satu halaman evidence yang dapat diedit untuk setiap minggu.
 - `examples/`: contoh portfolio fiktif yang telah terisi untuk 15 minggu.
-- `assessment/`: siklus assessment, status pencapaian, dan rubrik universal.
+- `assessment/`: siklus assessment, status pencapaian, rubrik universal, dan [prompt penilaian LLM untuk Minggu 01-15](assessment/llm-assessment-prompts.md).
 - `.github/workflows/publish.yml`: publikasi otomatis ke GitHub Pages.
 - `.github/ISSUE_TEMPLATE/assessment-request.yml`: formulir permintaan penilaian.
 
