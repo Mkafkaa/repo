@@ -1,0 +1,108 @@
+---
+title: "Character Map"
+week: 1
+status: "Belum dimulai"
+self_score: "—"
+assessor_score: "—"
+description: "Evidence person, personality, character, objective, repertoire, language, action, dan relationship."
+categories: [Fondasi, Person]
+---
+
+## Kompetensi target
+
+Membedakan person, personality, dan character serta memilih objective, repertoire, dan language yang sesuai.
+
+## Evidence wajib
+
+- Lima character dari sedikitnya tiga domain kehidupan.
+- Objective, responsibility, repertoire, dan risiko tiap character.
+- Satu contoh perubahan language ketika character berubah.
+
+::: {.callout-tip title="Lihat contoh pengisian"}
+[Buka contoh fiktif Minggu 1](../examples/week-01.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+:::
+
+## Konteks performance
+
+**Tanggal dan setting:** Ganti dengan tanggal, tempat, dan bentuk kegiatan.
+
+**Persons dan relationship:** Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.
+
+**Objective dan initial state:** Nyatakan perubahan yang ingin dicapai serta evidence state awal.
+
+## Lima character
+
+| Domain dan character | Person & relationship | Objective & responsibility | Repertoire & language | Risiko dan latihan |
+|---|---|---|---|---|
+| Intra-self — [contoh: diri saya saat menerima feedback] | [Siapa yang terlibat dan bagaimana hubungan Anda dengan diri sendiri/ orang lain di situasi ini?] | [Apa tujuan komunikasi Anda? Apa tanggung jawab Anda?] | [Bahasa atau cara Anda berbicara? Apakah Anda lebih mendengar, bertanya, atau memberi solusi?] | [Apa yang bisa salah atau menjadi hambatan? Bagaimana Anda akan memperbaiki?] |
+| Family — [contoh: anak / kakak / adik] | [Siapa anggota keluarga yang terlibat dan hubungan Anda] | [Apa yang ingin dicapai dan apa peran Anda di situasi itu?] | [Bagaimana Anda menyampaikan pesan dan menyesuaikan bahasa sesuai hubungan?] | [Risiko yang mungkin muncul dan cara Anda menanganinya] |
+| Friends — [contoh: sahabat / teman dekat] | [Siapa teman yang terlibat dan bagaimana hubungan Anda] | [Apa tujuan komunikasi dan tanggung jawab Anda terhadap teman tersebut?] | [Bahasa yang Anda pakai, apakah lebih santai, empatik, atau fokus pada solusi?] | [Risiko: terlalu cepat memberi solusi atau terlalu pasif] |
+| Academic/Work — [contoh: teman kelompok / ketua tim / rekan kerja] | [Siapa yang terlibat dan apa hubungan kerja atau akademik Anda] | [Apa target kerja sama atau keputusan yang ingin dicapai?] | [Apakah Anda lebih jelas, terstruktur, atau menyesuaikan dengan kebutuhan kelompok?] | [Risiko: kurang jelas, dominan, atau tidak mencapai agreement] |
+| Community — [contoh: panitia / organisasi / komunitas] | [Siapa yang terlibat dan hubungan Anda dengan komunitas/organisasi tersebut] | [Apa tujuan Anda agar komunikasi menghasilkan tindakan bersama atau keputusan yang sehat?] | [Bagaimana Anda menggunakan bahasa untuk membuka partisipasi atau menyusun keputusan?] | [Risiko: hanya mendengar suara dominan atau tidak menampung pendapat yang lain] |
+
+## Evidence
+
+::: {.evidence-block}
+Tambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.
+:::
+
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| Person & character | Ganti dengan analisis Anda tentang karakter yang Anda tampilkan dalam situasi tertentu. |
+| Objective & state | Ganti dengan analisis Anda tentang tujuan dan kondisi awal sebelum interaksi. |
+| Repertoire & language | Ganti dengan analisis Anda tentang pilihan kata, nada, dan gaya komunikasi. |
+| Response & adaptation | Ganti dengan analisis Anda tentang bagaimana Anda menyesuaikan diri saat situasi berubah. |
+| Agreement/action | Ganti dengan analisis Anda tentang keputusan, perjanjian, atau tindakan yang dihasilkan. |
+| Relationship outcome | Ganti dengan analisis Anda tentang dampak interaksi terhadap hubungan Anda dengan pihak lain. |
+
+## Perubahan language
+
+[Salah satu syarat penting di minggu ini adalah menunjukkan bahwa bahasa Anda berbeda sesuai dengan character.]
+
+Contoh pola:
+- Sebagai [teman], saya biasanya berkata, "...".
+- Sebagai [anggota tim], saya berkata, "...".
+- Sebagai [anggota keluarga], saya berkata, "...".
+
+Tujuan saya tetap sama, tetapi cara saya menyampaikan pesan, pilihan kata, dan tingkat formalitas berubah sesuai dengan person, responsibility, dan relationship.
+
+## Penggunaan AI
+
+Nyatakan `Tidak menggunakan AI` atau jelaskan:
+
+- alat dan peran AI;
+- prompt atau instruksi penting;
+- bagian output yang digunakan, diubah, atau ditolak;
+- pemeriksaan accuracy, privacy, dan authority;
+- apa yang tetap Anda pelajari sebagai manusia.
+
+## Feedback dan tindak lanjut
+
+**Feedback yang diterima:** Ganti dengan kutipan atau ringkasan berbasis evidence.
+
+**Adaptation/replay:** Jelaskan apa yang Anda ubah dan response setelah perubahan.
+
+**Next practice:** Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.
+
+## Self-assessment
+
+| Dimensi | Skor 1–4 | Evidence singkat |
+|---|---:|---|
+| Person & Character | — | — |
+| Objective & State | — | — |
+| Repertoire, Language & AI | — | — |
+| Response & Adaptation | — | — |
+| Agreement, Action & Relationship | — | — |
+
+**Total:** — / 20
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::
