@@ -48,7 +48,10 @@ Setiap peran menuntut repertoar komunikasi tertentu \[116, 129\]. Sering kali, t
 
 *Silakan salin bagian ini ke dalam lembar pengerjaan tugas atau dokumen portofolio Anda.*
 
-**Nama Mahasiswa:** \[Nama Anda / Gunakan Samaran untuk Privasi\] \[350\] **Tanggal Pengerjaan:** \[Tanggal\]
+**Nama Mahasiswa:** Muhammad Kafka Ghaisan Yusuf 
+
+**Tanggal Pengerjaan:** 13/09/2026
+
 
 ### Bagian A: Peta 5 Domain Kehidupan \[135\]
 
@@ -56,42 +59,42 @@ Lengkapi tabel berikut untuk memetakan peran komunikasi Anda saat ini:
 
 | Domain Kehidupan | Peran yang Saya Ambil | Siapa yang Saya Jumpai | Tanggung Jawab Utama Komunikasi |
 |:-----------------|:-----------------|:-----------------|:-----------------|
-| **1. Diri Sendiri** |  |  |  |
-| **2. Keluarga / Sahabat** |  |  |  |
-| **3. Profesional / Akademik** |  |  |  |
-| **4. Komunitas / Kelompok** |  |  |  |
-| **5. Dunia / Publik** |  |  |  |
+| **1. Diri Sendiri** | Diri sendiri | Diri saya sendiri | Mengenali dan mengelola emosi, mengevaluasi diri secara jujur, serta menyampaikan kebutuhan dan tujuan pribadi dengan jelas kepada diri sendiri. |
+| **2. Keluarga / Sahabat** | Anggota Keluarga | Orangtua | Berkomunikasi dengan sopan dan terbuka, mendengarkan nasihat orangtua, menyampaikan keadaan atau kebutuhan, serta menjaga kepercayaan dan kedekatan keluarga. |
+| **3. Profesional / Akademik** | Mahasiswa | Dosen | Menyampaikan pertanyaan dan pendapat secara jelas dan santun, menerima arahan atau umpan balik, serta menjalankan tugas dan kesepakatan akademik secara bertanggung jawab. |
+| **4. Komunitas / Kelompok** | Anggota Biasa Himpunan Mahasiswa | Teman | Berpartisipasi aktif dalam diskusi dan kegiatan, menghargai pendapat teman, menyampaikan ide dengan konstruktif, serta menjaga kerja sama dan kesepakatan kelompok. |
+| **5. Dunia / Publik** | Warga Negara | Masyarakat | Menyampaikan pendapat secara santun dan bertanggung jawab, menghargai perbedaan, memeriksa informasi sebelum membagikannya, serta ikut menjaga ketertiban dan kepentingan bersama. |
 
 ### Bagian B: Analisis Kontras Dua Peran Utama \[136\]
 
 Pilih dua peran dari tabel di atas yang paling kontras atau menantang (misalnya: Peran A = Anggota Tim Proyek, Peran B = Sahabat Pendengar), lalu uraikan perbedaannya:
 
-| Unsur Komunikasi | Peran A: \[Tulis Nama Peran A\] | Peran B: \[Tulis Nama Peran B\] |
+| Unsur Komunikasi | Peran A: Anggota Keluarga | Peran B: Anggota Biasa Himpunan Mahasiswa |
 |:-----------------------|:-----------------------|:-----------------------|
-| **1. Tujuan Tugas & Relasi** \[128\] |  |  |
-| **2. Repertoar Utama** \[129\] |  |  |
-| **3. Pilihan Bahasa & Nada** \[130\] |  |  |
-| **4. Respons yang Harus Dibaca** \[131\] |  |  |
-| **5. Tindakan yang Diharapkan** \[131\] |  |  |
-| **6. Relasi yang Harus Dirawat** \[131\] |  |  |
+| **1. Tujuan Tugas & Relasi** \[128\] | Menjaga kedekatan, kepercayaan, dan keharmonisan dengan orangtua melalui komunikasi yang terbuka dan saling menghargai. | Mendukung kegiatan himpunan dengan berpartisipasi dalam diskusi, menjalankan tugas, dan membangun kerja sama yang baik dengan teman. |
+| **2. Repertoar Utama** \[129\] | Mendengarkan dengan baik, bercerita tentang keadaan diri, menyampaikan kebutuhan, meminta nasihat, dan mengungkapkan rasa terima kasih. | Mendengarkan arahan, menyampaikan pendapat, bertanya, berdiskusi, memberikan usulan, dan melaporkan perkembangan tugas atau kegiatan. |
+| **3. Pilihan Bahasa & Nada** \[130\] | Menggunakan bahasa yang sopan, hangat, terbuka, dan penuh hormat dengan menyesuaikan cara berbicara kepada orangtua. | Menggunakan bahasa yang sopan, jelas, dan lebih formal saat membahas kegiatan, tetapi tetap santai dan bersahabat ketika berkomunikasi dengan teman. |
+| **4. Respons yang Harus Dibaca** \[131\] | Memperhatikan nada suara, ekspresi wajah, dan tanggapan orangtua untuk mengetahui apakah mereka memahami, menyetujui, atau sedang membutuhkan perhatian. | Memperhatikan tanggapan teman, keaktifan dalam diskusi, ekspresi atau sikap mereka, serta kejelasan pembagian tugas dan kesepakatan kelompok. |
+| **5. Tindakan yang Diharapkan** \[131\] | Mampu menyampaikan keadaan atau kebutuhan dengan jujur, menerima nasihat, dan mengambil keputusan yang tetap menghormati pertimbangan orangtua. | Hadir dan berkontribusi dalam kegiatan, menyelesaikan tugas yang disepakati, menyampaikan informasi dengan tepat, dan membantu mencapai tujuan bersama. |
+| **6. Relasi yang Harus Dirawat** \[131\] | Hubungan keluarga yang dekat, saling percaya, penuh perhatian, dan dapat menjadi tempat untuk berbagi serta meminta dukungan. | Hubungan pertemanan dan organisasi yang saling menghargai, kooperatif, bertanggung jawab, dan tetap baik meskipun terdapat perbedaan pendapat. |
 
 ### Bagian C: Eksplorasi Kepribadian dan Sasaran Pertumbuhan \[351\]
 
 Jawablah pertanyaan reflektif berikut dengan jujur berdasarkan Template Lampiran B.2 \[351\]:
 
 1.  **Nilai Utama:** Nilai-nilai kemanusiaan apa saja yang paling ingin Anda tampakkan dalam komunikasi Anda sehari-hari? (Contoh: ketulusan, kejujuran, penghargaan, atau keadilan) \[351\]
-    - *Jawaban:*
+    - *Jawaban:* Kejujuran, rasa hormat, tanggung jawab, dan kepedulian. Saya ingin menyampaikan keadaan atau pendapat dengan jujur, tetap menghargai orangtua dan teman, serta bertanggung jawab terhadap perkataan dan tugas yang telah disepakati.
 2.  **Kekuatan Komunikasi:** Kekuatan atau kecenderungan kepribadian apa yang sudah Anda miliki dan membantu komunikasi Anda selama ini? \[351\]
-    - *Jawaban:*
+    - *Jawaban:* Saya cukup mampu mendengarkan orang lain dan menghargai pendapat yang berbeda. Saya juga berusaha berbicara dengan sopan, menerima nasihat dari orangtua dan dosen, serta menjaga kerja sama ketika mengikuti kegiatan himpunan mahasiswa.
 3.  **Pola Hambatan Otomatis:** Pola atau kebiasaan komunikatif apa yang paling sering menghambat Anda saat berada di bawah tekanan atau situasi tidak nyaman? \[351\]
-    - *Jawaban:*
+    - *Jawaban:* Saat berada dalam situasi yang tidak nyaman, saya cenderung diam dan menunda menyampaikan pendapat karena khawatir pendapat saya kurang tepat atau menimbulkan perbedaan. Akibatnya, saya terkadang kurang aktif dalam diskusi dan terlambat menyampaikan kesulitan yang saya alami.
 4.  **Ketegangan Peran & Kepribadian:** Tuliskan satu situasi spesifik di mana kecenderungan kepribadian otomatis Anda bergesekan dengan tuntutan tanggung jawab peran Anda \[136\] (gunakan pola: *"Saya cenderung \[kepribadian\], tetapi peran saya sebagai \[nama peran\] menuntut saya untuk \[perilaku komunikasi\]"*).
-    - *Jawaban:*
+    - *Jawaban:* Saya cenderung diam ketika berada dalam diskusi yang diikuti banyak orang atau ketika pendapat saya berbeda, tetapi peran saya sebagai Anggota Biasa Himpunan Mahasiswa menuntut saya untuk berpartisipasi aktif, menyampaikan pendapat dengan sopan, dan bertanya apabila belum memahami pembagian tugas atau keputusan kelompok.
 5.  **Sasaran Pertumbuhan Perilaku Terukur:** Berdasarkan ketegangan di atas, susun satu pernyataan sasaran pertumbuhan perilaku yang spesifik untuk 4-6 minggu ke depan \[109, 351\].
     - *Aturan perumusan:* Jangan menulis sasaran abstrak (seperti "Saya ingin menjadi komunikator hebat") \[109\]. Tulislah sasaran mikro yang nyata, misalnya: *"Ketika seorang teman sedang bercerita, saya akan menahan diri untuk tidak langsung memotong atau memberi solusi selama 3 menit pertama. Saya akan merangkum maknanya dan memvalidasi perasaannya terlebih dahulu."* \[109\]
-    - *Sasaran Saya:*
+    - *Sasaran Saya:* Selama empat minggu ke depan, dalam setiap diskusi atau rapat himpunan yang saya ikuti, saya akan menyampaikan sedikitnya satu pendapat atau pertanyaan yang relevan dan mencatat hasilnya setelah kegiatan. Saya akan melakukannya sekurang-kurangnya satu kali setiap minggu.
 6.  **Umpan Balik Jujur:** Siapa nama (atau inisial) orang terdekat di sekitar Anda yang dapat Anda mintai umpan balik jujur untuk memantau pertumbuhan perilaku ini? \[351\]
-    - *Jawaban:*
+    - *Jawaban:* Saya akan meminta umpan balik dari satu teman di himpunan, misalnya dengan inisial **A**, yang sering mengikuti diskusi bersama saya. Saya akan meminta A menilai apakah saya sudah menyampaikan pendapat atau pertanyaan dengan lebih aktif dan jelas setelah rapat atau diskusi.
 
 ------------------------------------------------------------------------
 

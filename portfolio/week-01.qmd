@@ -2,7 +2,7 @@
 title: "Character Map"
 week: 1
 status: "Draft evidence"
-self_score: "—"
+self_score: "17"
 assessor_score: "—"
 description: "Evidence person, personality, character, objective, repertoire, language, action, dan relationship."
 categories: [Fondasi, Person]
