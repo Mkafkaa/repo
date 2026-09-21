@@ -1,7 +1,90 @@
----
 title: "Lembar Kerja Bab 02"
----
 
+# Lembar Kerja Praktis: Tiga Narasi atas Satu Peristiwa
+
+*(Bahan Aktivitas Mandiri & Portofolio Kuliah 2: Percakapan dengan Diri Sendiri)*
+
+Lembar kerja ini melatih kejernihan batin dengan memisahkan fakta dari cerita batin, mengenali emosi, dan merumuskan respons yang disengaja.
+
+## Siklus Pemikiran: Dari Rangsangan Menuju Respons
+
+$$\text{Peristiwa (Fakta)} \longrightarrow \text{Interpretasi (Asumsi)} \longrightarrow \text{Narasi (Identitas)} \longrightarrow \text{Emosi} \longrightarrow \text{Pilihan} \longrightarrow \text{Tindakan}$$
+
+## Bagian 1: Identifikasi Kasus (Bahan Mentah)
+
+### 1. Peristiwa yang Dapat Diamati (Fakta Objektif)
+
+Pada 28 Mei 2026 pukul 21.00 sampai 29 Mei 2026 sekitar pukul 06.30, saya dan empat teman satu kelompok mengerjakan Tugas Besar Algoritma Pemrograman 1. Program mengalami error beberapa kali dan dapat diperbaiki. Saat anggota kelompok melakukan `git push`, beberapa perubahan sering bertabrakan sehingga perlu dikoordinasikan kembali. Kami tetap mengerjakan bagian masing-masing dengan serius sesuai jobdesc. Saya menangani bagian Git, termasuk commit perubahan dari anggota kelompok agar pekerjaan tidak collapse. Saya juga ikut mengerjakan dokumen laporan. Tubes berhasil dikumpulkan beberapa menit sebelum deadline pukul 07.00.
+
+### 2. Interpretasi Pertama (Asumsi Otomatis)
+
+Interpretasi pertama saya adalah: **“Saya takut kami mengumpulkan tugas lebih dari deadline yang diberikan.”** Kemungkinan lain yang muncul bersama pikiran itu adalah bahwa error program dan benturan saat `git push` akan menghabiskan waktu yang tersisa sehingga tubes tidak selesai.
+
+### 3. Emosi & Sensasi Tubuh
+
+**Emosi yang Dirasakan (dan skala 0-10):**
+
+- Cemas: 7/10
+- Lelah: 9/10
+- Frustrasi: 5/10
+- Takut gagal: 7/10
+
+**Sensasi Tubuh yang Muncul:** Saya sangat mengantuk selama mengerjakan tugas. Setelah menyelesaikannya pada pagi hari, badan saya terasa sangat lemas.
+
+## Bagian 2: Membedah Tiga Narasi
+
+### Versi A: Narasi Korban (Victim Narrative)
+
+**Isi Narasi Korban Anda:** Semua masalah terjadi di luar kendali saya. Program terus mengalami error dan perubahan dari anggota kelompok bertabrakan saat `git push`. Saya sudah lelah dan mengantuk, tetapi tetap harus menyelesaikan tugas sebelum deadline. Saya merasa tidak memiliki pilihan selain terus bekerja sampai pagi. Jika kami terlambat, semua usaha kami akan sia-sia dan keadaan ini sepenuhnya disebabkan oleh error serta benturan pekerjaan kelompok.
+
+**Pilihan Tindakan Otomatis (Reaktif) dari Narasi ini:** Saya mungkin panik, menyalahkan masalah Git atau anggota kelompok, melakukan perubahan tanpa koordinasi, atau menyerah karena merasa keadaan tidak dapat diperbaiki. Saya juga mungkin terus bekerja tanpa mengatur prioritas dan tanpa memastikan perubahan mana yang sudah aman untuk di-commit.
+
+### Versi B: Narasi Analitis (Analytical Narrative)
+
+**Apa fakta yang benar-benar telah terbukti?**
+
+- Pengerjaan berlangsung pada 28–29 Mei 2026 dari pukul 21.00 sampai sekitar pukul 06.30.
+- Program mengalami error beberapa kali, tetapi error tersebut dapat diperbaiki.
+- Perubahan antaranggota beberapa kali bertabrakan saat `git push`.
+- Saya dan empat teman tetap mengerjakan tugas dengan serius sesuai jobdesc masing-masing.
+- Saya bertanggung jawab pada pengelolaan Git dan ikut mengisi laporan.
+- Tubes berhasil dikumpulkan beberapa menit sebelum deadline pukul 07.00.
+- Saya merasa cemas 7/10, lelah 9/10, frustrasi 5/10, dan takut gagal 7/10.
+
+**Apa penjelasan lain (alternatif asumsi) yang masuk akal namun belum saya periksa?**
+
+1. Benturan saat `git push` mungkin terjadi karena beberapa anggota mengubah bagian yang sama atau mengirim perubahan pada waktu yang berdekatan, bukan karena ada anggota yang tidak serius.
+2. Rasa takut terlambat mungkin diperkuat oleh kelelahan dan kurang tidur, sehingga risiko terasa lebih besar daripada keadaan yang sebenarnya.
+3. Error program mungkin merupakan bagian dari proses debugging dan bukan tanda bahwa program tidak dapat diselesaikan, karena error tersebut akhirnya dapat diperbaiki.
+
+**Faktor apa dalam situasi ini yang berada di bawah kendali saya langsung?**
+
+Saya dapat memprioritaskan error yang paling penting, berkomunikasi sebelum menggabungkan perubahan, membuat commit secara lebih teratur, memeriksa `status` dan `diff`, meminta anggota menjelaskan perubahan, serta menjaga agar laporan tetap diperbarui. Saya juga dapat menyampaikan kondisi saya kepada kelompok dan menentukan waktu istirahat singkat, meskipun deadline tetap membatasi pilihan tersebut.
+
+### Versi C: Narasi Pertumbuhan (Growth Narrative)
+
+**Isi Narasi Pertumbuhan Anda:** Situasi ini memang sulit karena waktu terbatas, program beberapa kali error, dan perubahan Git bertabrakan. Rasa cemas, frustrasi, dan lelah saya masuk akal karena tubes harus selesai sebelum pukul 07.00. Namun, saya tidak sepenuhnya tanpa pilihan. Saya dan kelompok dapat menyelesaikan error secara bertahap, berkoordinasi mengenai perubahan, dan membagi tanggung jawab sesuai jobdesc. Peran saya dalam mengelola Git membantu kelompok menjaga perubahan tetap tertata. Saya dapat menggunakan pengalaman ini untuk membuat alur kerja yang lebih jelas sejak awal tugas berikutnya.
+
+**Pelajaran apa yang dapat saya ambil dari situasi ini?**
+
+Saya belajar bahwa kerja serius setiap anggota belum cukup jika alur koordinasi Git belum jelas. Kelompok perlu menyepakati bagian kode yang dikerjakan, waktu pengiriman perubahan, aturan `pull` dan `push`, serta cara menangani conflict. Saya juga belajar bahwa kemampuan menyelesaikan tugas perlu diimbangi pengelolaan waktu dan kondisi tubuh, karena kurang tidur dapat mengurangi ketelitian dan kemampuan mengambil keputusan.
+
+## Bagian 3: Merancang Respons (Action & Support)
+
+### 1. Pilihan Respons Terbaik
+
+**Langkah nyata yang saya pilih:** Pada tugas kelompok berikutnya, saya akan mengusulkan aturan Git sebelum pengerjaan dimulai: setiap anggota memberi tahu perubahan yang sedang dikerjakan, membuat commit kecil dengan pesan yang jelas, melakukan `pull` sebelum `push`, dan meminta bantuan ketika terjadi conflict. Saya akan membuat checkpoint status program dan laporan beberapa jam sebelum deadline. Jika muncul error, saya akan mencatat error, penyebab sementara, dan solusi yang sudah dicoba agar kelompok dapat menentukan prioritas tanpa panik.
+
+### 2. Dukungan yang Diperlukan
+
+**Nama rekan/pendamping:** Asisten dosen tugas besar Algoritma Pemrograman 1. Saya dapat meminta umpan balik tentang alur kerja Git, cara mencegah benturan perubahan, dan apakah strategi penyelesaian error kelompok sudah tepat. Saya juga dapat menunjukkan pesan error atau langkah reproduksi secara ringkas agar bantuan yang diberikan lebih terarah.
+
+## Evaluasi Mandiri (Rubrik Portofolio)
+
+1. **Pemisahan Fakta vs Cerita:** Fakta ditulis berdasarkan waktu pengerjaan, error program, benturan saat `git push`, pembagian jobdesc, kondisi emosi, dan hasil pengumpulan. Kekhawatiran akan terlambat ditempatkan sebagai interpretasi pertama, bukan sebagai fakta.
+2. **Kekayaan Alternatif:** Narasi analitis memberikan tiga alternatif penjelasan, yaitu perubahan yang dikerjakan bersamaan, pengaruh kelelahan terhadap persepsi risiko, dan error sebagai bagian dari debugging.
+3. **Kematangan Emosional:** Saya mengakui cemas, lelah, frustrasi, dan takut gagal beserta intensitasnya tanpa menjadikan emosi tersebut sebagai bukti bahwa kelompok pasti gagal.
+4. **Kepemilikan Tindakan:** Respons yang dipilih bersifat konkret, yaitu membuat aturan Git, checkpoint, commit teratur, pencatatan error, dan meminta dukungan asisten dosen.
 # Lembar Kerja Praktis: Tiga Narasi atas Satu Peristiwa
 
 *(Bahan Aktivitas Mandiri & Portofolio Kuliah 2: Percakapan dengan Diri Sendiri)*
