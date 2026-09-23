@@ -22,4 +22,96 @@ Mendengar sebelum proposing dan membangun shared problem statement dengan person
 [Buka contoh fiktif Minggu 5](../examples/week-05.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
+::: {.callout-note title="Cara mengisi portofolio ini"}
+Pilih satu orang yang bersedia diwawancarai tentang pengalaman atau masalah kerja/belajar yang nyata. Ganti semua teks dalam tanda kurung siku `[seperti ini]`. Tujuan interview adalah memahami pengalaman dan menyusun `shared problem statement`, bukan menawarkan solusi secepat mungkin.
+
+Urutan kerja:
+
+1. Tulis asumsi awal Anda sebelum interview.
+2. Siapkan pertanyaan terbuka tentang pengalaman terakhir, kesulitan, dampak, workaround, dan constraint.
+3. Minta izin sebelum mencatat atau merekam; anonimisasi data pribadi.
+4. Tulis potongan transcript atau paraphrase yang menunjukkan fakta penting.
+5. Pisahkan fakta, interpretasi, dan usulan solusi.
+6. Susun problem statement tanpa mengunci solution tertentu.
+7. Minta partner mengonfirmasi atau memperbaiki problem statement.
+8. Isi evidence, feedback, next step, dan self-assessment pada template umum.
+
+Satu interview hanya merupakan discovery awal. Jangan mengklaim bahwa masalah tersebut berlaku untuk semua orang tanpa evidence tambahan.
+:::
+
+## Initial assumption dan rencana discovery
+
+**Orang yang diwawancarai:** [Gunakan nama samaran/inisial dan jelaskan perannya, bukan data pribadi lengkap.]
+
+**Hubungan dengan saya:** [Misalnya teman sekelas, rekan organisasi, pengguna layanan, atau rekan kerja.]
+
+**Initial assumption:** [Apa yang Anda kira menjadi masalah sebelum mendengar pengalaman partner?]
+
+**Mengapa asumsi ini muncul:** [Pengamatan atau pengalaman apa yang membuat Anda memiliki asumsi tersebut? Bedakan dari fakta interview.] 
+
+**Tujuan discovery:** [Hal apa yang ingin Anda pahami atau periksa?]
+
+**Pertanyaan utama:**
+
+1. [Minta partner menceritakan kejadian terakhir secara spesifik.]
+2. [Pada langkah atau bagian mana kesulitan muncul?]
+3. [Apa dampak masalah tersebut terhadap aktivitas atau tujuan partner?]
+4. [Bagaimana partner mengatasinya saat ini?]
+5. [Constraint atau hal apa yang harus dipertahankan?]
+
+**Pertanyaan yang dihindari:** [Pertanyaan leading atau pertanyaan yang langsung mendorong solusi, misalnya “Apakah aplikasi X akan membantu?”]
+
+## Potongan transcript atau paraphrase
+
+Catat bagian yang menunjukkan pengalaman konkret. Jika tidak dapat membagikan transcript lengkap, gunakan paraphrase yang jujur dan beri label sebagai paraphrase.
+
+> **Partner:** “[Pernyataan partner tentang pengalaman atau fakta.]”  
+> **Saya:** “[Paraphrase atau pertanyaan klarifikasi tanpa memasukkan asumsi baru.]”  
+> **Partner:** “[Jawaban, dampak, workaround, atau constraint.]”
+
+**Catatan klasifikasi:**
+
+| Kutipan/paraphrase | Fact | Interpretation | Solution suggestion |
+|---|---|---|---|
+| [Potongan 1] | [Apa fakta yang didukung?] | [Apa makna yang Anda tafsirkan?] | [Apakah ada solusi yang disebut?] |
+| [Potongan 2] | [Apa fakta yang didukung?] | [Apa makna yang Anda tafsirkan?] | [Apakah ada solusi yang disebut?] |
+| [Potongan 3] | [Apa fakta yang didukung?] | [Apa makna yang Anda tafsirkan?] | [Apakah ada solusi yang disebut?] |
+
+**Problem impact:** [Seberapa sering terjadi, siapa yang terdampak, keterlambatan/biaya/emosi apa yang muncul? Jangan melebih-lebihkan satu kasus.] 
+
+**Current workaround:** [Apa cara yang sekarang digunakan partner untuk mengatasi masalah?]
+
+**Constraint:** [Apa yang tidak boleh hilang atau tidak dapat diubah, misalnya waktu, biaya, akses, kebiasaan, atau privasi?]
+
+## Pembaruan pembacaan
+
+**Apa yang berubah dari initial assumption:** [Apakah asumsi awal didukung, sebagian benar, atau tidak cukup didukung? Jelaskan berdasarkan evidence interview.]
+
+**Temuan utama:** [Tuliskan dua atau tiga temuan yang paling penting.]
+
+**Batas evidence:** [Apa yang belum dapat disimpulkan dari satu interview?]
+
+**Shared problem statement yang dikonfirmasi partner:**
+
+> “[Tuliskan siapa yang mengalami masalah, kebutuhan atau tujuan mereka, kondisi penyebabnya, dan dampaknya. Hindari memasukkan solusi tertentu sebelum disepakati.]”
+
+**Konfirmasi partner:** [Tuliskan jawaban partner ketika membaca statement tersebut. Bagian apa yang disetujui atau diperbaiki?]
+
+## Evidence, feedback, dan next step
+
+- [ ] Catatan interview dengan tanggal dan durasi.
+- [ ] Consent untuk mencatat atau merekam, bila relevan.
+- [ ] Transcript/paraphrase yang sudah dianonimkan.
+- [ ] Pesan atau catatan konfirmasi shared problem statement.
+- [ ] Feedback observer atau partner.
+- [ ] Bukti lain: [jelaskan].
+
+**Feedback yang diterima:** [Apa yang menurut partner/observer sudah baik dan apa yang masih leading, terburu-buru, atau kurang jelas?]
+
+**Adaptasi/replay:** [Pertanyaan atau perilaku apa yang akan Anda ubah jika interview diulang?]
+
+**Next step:** [Berapa interview tambahan, pertanyaan apa yang akan diuji, atau evidence apa yang perlu dikumpulkan?]
+
+Pada bagian `Analisis komunikasi` di bawah, jelaskan perubahan asumsi sebagai `Objective & state`, pertanyaan dan paraphrase sebagai `Repertoire & language`, respons partner sebagai `Response & adaptation`, dan konfirmasi problem statement sebagai `Agreement, Action & Relationship`.
+
 {{< include ../includes/evidence-template.md >}}

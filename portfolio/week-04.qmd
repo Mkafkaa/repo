@@ -22,4 +22,75 @@ Mengadaptasi repertoire dan language tanpa mengubah core meaning.
 [Buka contoh fiktif Minggu 4](../examples/week-04.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
+::: {.callout-note title="Cara mengisi portofolio ini"}
+Pilih satu pesan nyata yang perlu disampaikan kepada lima target berbeda. Ganti semua teks dalam tanda kurung siku `[seperti ini]`. Isi lima versi berdasarkan fakta yang sama; yang berubah adalah pilihan bahasa, tingkat detail, fokus, dan tindakan yang diminta.
+
+Urutan kerja:
+
+1. Tetapkan `core meaning`: fakta, dampak, dan action yang tidak boleh berubah.
+2. Tulis lima versi untuk friend, technical peer, manager, customer, dan public.
+3. Jelaskan alasan perubahan `language` dan `repertoire` pada setiap versi.
+4. Uji sedikitnya satu versi kepada target yang sesuai dan catat pemahamannya.
+5. Perbaiki pesan jika ada bagian yang disalahpahami.
+6. Isi analisis, feedback, tindak lanjut, dan self-assessment pada template umum.
+
+Jangan menambahkan fakta baru hanya agar pesan terdengar lebih meyakinkan. Jika sebuah informasi belum diketahui, tandai sebagai hal yang perlu dikonfirmasi.
+:::
+
+## Core meaning
+
+**Konteks pesan:** [Situasi yang melatarbelakangi pesan.]
+
+**Fakta yang tidak boleh berubah:** [Tuliskan fakta objektif, termasuk tanggal, waktu, lokasi, status, atau angka jika relevan.]
+
+**Dampak bagi target:** [Siapa yang terdampak dan bagaimana dampaknya?]
+
+**Action yang diharapkan:** [Apa yang perlu dilakukan oleh penerima pesan?]
+
+**Batasan penting:** [Informasi yang tidak boleh dihilangkan, klaim yang belum pasti, atau batasan privasi.]
+
+| Target/character | Versi language | Alasan adaptasi |
+|---|---|---|
+| **Friend** | [Tulis pesan yang personal, ringkas, dan sesuai kedekatan hubungan.] | [Apa yang diubah dalam nada, sapaan, dan detail? Mengapa?] |
+| **Technical peer** | [Gunakan istilah teknis yang diperlukan dan detail operasional.] | [Detail teknis apa yang perlu dipertahankan? Apa yang tidak perlu?] |
+| **Manager** | [Tekankan impact, risiko, pilihan, rekomendasi, atau keputusan yang dibutuhkan.] | [Mengapa versi ini berfokus pada dampak dan decision point?] |
+| **Customer/user** | [Jelaskan dampak dan langkah yang harus dilakukan tanpa jargon internal.] | [Bagaimana Anda membuat instruksi mudah dipahami dan dijalankan?] |
+| **Public** | [Berikan konteks minimum yang penting bagi audiens luas.] | [Informasi apa yang sengaja tidak dimasukkan demi relevansi atau privasi?] |
+
+**Pemeriksaan konsistensi:** [Bandingkan kelima versi. Jelaskan bahwa fakta inti, dampak utama, dan action tetap sama.] 
+
+## Evidence understanding dan adaptasi
+
+**Target yang diuji:** [Friend/technical peer/manager/customer/public dan hubungan Anda dengan target.]
+
+**Metode uji:** [Percakapan langsung, pesan tertulis, email, simulasi, atau cara lain. Pastikan ada izin jika merekam.]
+
+**Pertanyaan pemahaman:** [Apa yang Anda tanyakan untuk memeriksa apakah target memahami makna dan action?]
+
+**Response target:** [Apa yang target pahami? Bagian mana yang membingungkan atau ditanyakan?]
+
+**Adaptasi setelah feedback:** [Kalimat apa yang Anda ubah dan mengapa?]
+
+**Hasil setelah adaptasi:** [Apakah target kemudian memahami fakta, dampak, dan action yang benar? Sertakan bukti.] 
+
+## Analisis dan batas
+
+**Perubahan repertoire:** [Jelaskan perubahan dari pesan personal, teknis, decision brief, service instruction, hingga public announcement.]
+
+**Risiko salah tafsir:** [Versi mana yang paling berisiko disalahpahami dan bagaimana Anda menguranginya?]
+
+**Batas adaptasi:** [Jelaskan bagian yang tidak boleh berubah dan alasan etis/akurasi/privasi di baliknya.]
+
+## Bukti yang dilampirkan
+
+- [ ] Lima draf atau screenshot versi pesan.
+- [ ] Feedback atau konfirmasi pemahaman dari sedikitnya satu target.
+- [ ] Revisi sebelum dan sesudah feedback.
+- [ ] Catatan observer atau hasil simulasi.
+- [ ] Bukti lain: [jelaskan].
+
+**Kontribusi saya:** [Bagian yang Anda susun, uji, revisi, dan putuskan sendiri.]
+
+Pada bagian `Analisis komunikasi` di bawah, jelaskan lima target sebagai `Person & character`, konsistensi core meaning sebagai `Objective & state`, pilihan bahasa sebagai `Repertoire & language`, hasil uji sebagai `Response & adaptation`, dan feedback/action sebagai `Agreement, Action & Relationship`.
+
 {{< include ../includes/evidence-template.md >}}

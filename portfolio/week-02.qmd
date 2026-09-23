@@ -22,4 +22,99 @@ Memisahkan event, fact, story, emotion, internal character, choice, dan action.
 [Buka contoh fiktif Minggu 2](../examples/week-02.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
+::: {.callout-note title="Cara mengisi portofolio ini"}
+Pilih satu kejadian nyata ketika Anda mengalami reaksi spontan, lalu menunjukkan perubahan menuju respons yang lebih sadar. Ganti semua teks dalam tanda kurung siku `[seperti ini]` dengan pengalaman Anda sendiri. Jangan menulis identitas pribadi orang lain secara lengkap.
+
+Gunakan urutan berikut:
+
+1. Catat kejadian dan pisahkan fakta dari cerita yang muncul di pikiran.
+2. Catat emosi, sinyal tubuh, dan kecenderungan diri yang muncul.
+3. Buat sedikitnya dua penafsiran alternatif yang tetap sesuai fakta.
+4. Tulis percakapan internal dan kesepakatan tindakan.
+5. Lampirkan bukti tindakan, feedback, dan perubahan setelahnya.
+6. Isi analisis, tindak lanjut, dan penilaian diri di bagian template umum.
+
+Jangan mengarang bukti. Jika belum melakukan tindakannya, tulis rencana sementara dan ubah status portofolio menjadi `Sedang berjalan`.
+:::
+
+## Episode
+
+**Tanggal dan waktu:** [Kapan kejadian berlangsung?]
+
+**Setting:** [Di mana dan dalam situasi apa kejadian berlangsung?]
+
+**Orang yang terlibat:** [Siapa yang terlibat dan apa hubungannya dengan Anda? Gunakan inisial bila perlu.]
+
+**Tujuan saya:** [Perubahan atau hasil apa yang ingin Anda capai?]
+
+| Lapisan | Catatan Anda |
+|---|---|
+| **Event** | [Tuliskan kejadian secara singkat dan netral.] |
+| **Fact** | [Tuliskan hanya hal yang dapat diamati atau diverifikasi. Hindari kesimpulan seperti “dia membenci saya”.] |
+| **Initial story** | [Apa cerita atau kesimpulan spontan yang langsung muncul di pikiran Anda?] |
+| **Emotion/body signal** | [Emosi yang muncul dan intensitasnya, misalnya cemas 7/10; tuliskan juga sinyal tubuh.] |
+| **Reactive character** | [Kecenderungan diri yang muncul, misalnya Pembela, Penghindar, atau Pencemas.] |
+| **Desired character** | [Sikap yang ingin Anda gunakan, misalnya Peneliti, Pendengar, atau Pemecah Masalah yang Tenang.] |
+
+**Petunjuk:** Pastikan `Initial story` tidak disamakan dengan `Fact`. Kalimat “saya gagal total” biasanya merupakan interpretasi, bukan fakta.
+
+## Alternative narratives
+
+Tuliskan minimal dua kemungkinan penafsiran lain. Setiap narasi harus tetap masuk akal berdasarkan fakta dan membantu Anda memilih tindakan.
+
+1. **[Nama narasi alternatif pertama]:** [Apa penafsiran lain yang lebih akurat atau lebih lengkap?]
+2. **[Nama narasi alternatif kedua]:** [Apa kemungkinan lain yang belum Anda pertimbangkan?]
+3. **[Opsional, narasi ketiga]:** [Tuliskan jika membantu memperjelas pilihan.]
+
+**Narasi yang paling berguna:** [Pilih satu dan jelaskan mengapa narasi ini paling sesuai dengan fakta serta menghasilkan tindakan yang konstruktif.]
+
+## Internal conversation dan agreement
+
+>Tulis percakapan singkat antara kecenderungan reaktif, suara yang lebih reflektif, dan diri Anda sebagai pengambil keputusan.
+
+> **[Reactive character]:** “[Apa dorongan spontan saya?]”  
+> **[Desired character]:** “[Apa pengingat atau pertanyaan yang membantu saya memeriksa fakta?]”  
+> **Saya:** “[Keputusan sadar apa yang akan saya ambil sekarang?]”
+
+**Internal agreement:** [Tuliskan tindakan spesifik, siapa yang melakukan, kapan dilakukan, dan hasil minimum yang ingin dicapai.]
+
+Contoh format: “Sebelum [waktu/tanggal], saya akan [tindakan] selama [durasi/jumlah] dan mencatat [bukti hasil].”
+
+## Evidence tindakan
+
+Tambahkan bukti yang benar-benar Anda miliki. Pilih yang relevan dan hapus pilihan yang tidak digunakan.
+
+- [ ] Catatan jurnal sebelum dan sesudah mengambil keputusan.
+- [ ] Screenshot pesan atau email yang sudah dianonimkan.
+- [ ] Revisi tugas, dokumen, atau hasil kerja.
+- [ ] Catatan observer atau feedback dari orang yang terlibat.
+- [ ] Bukti tindakan lain: [jelaskan].
+
+**Kontribusi saya:** [Jelaskan bagian yang Anda lakukan sendiri.]
+
+**Hasil atau response yang terjadi:** [Apa yang terjadi setelah tindakan? Apakah fakta baru mengubah cerita awal Anda?]
+
+## Panduan pengisian template umum
+
+Pada bagian `Analisis komunikasi`, hubungkan jawaban dengan episode di atas:
+
+- **Person & character:** Jelaskan karakter reaktif dan karakter yang Anda latih.
+- **Objective & state:** Jelaskan tujuan, keadaan awal, serta perubahan emosi atau kesiapan Anda.
+- **Repertoire & language:** Jelaskan strategi dan kalimat yang Anda gunakan kepada diri sendiri atau orang lain.
+- **Response & adaptation:** Jelaskan perbedaan antara reaksi pertama dan respons yang akhirnya dipilih.
+- **Agreement/action:** Jelaskan internal agreement dan bukti bahwa tindakan dilakukan.
+- **Relationship outcome:** Jelaskan dampak tindakan terhadap diri sendiri dan hubungan dengan orang lain.
+
+Pada bagian `Feedback dan tindak lanjut`:
+
+- **Feedback yang diterima:** [Tuliskan kutipan atau ringkasan feedback dan siapa yang memberikannya.]
+- **Adaptation/replay:** [Apa yang Anda ubah setelah menerima feedback? Apa hasilnya?]
+- **Next practice:** [Tentukan satu perilaku yang akan dilatih pada kejadian berikutnya.]
+
+Pada bagian `Self-assessment`, beri skor 1-4 berdasarkan bukti, bukan berdasarkan perasaan saja. Tulis satu bukti singkat untuk setiap skor.
+
+## Penggunaan AI dan privasi
+
+Tuliskan `Tidak menggunakan AI` jika memang tidak menggunakan AI. Jika menggunakan AI, jelaskan alat, tujuan, prompt penting, bagian yang dipakai atau ditolak, serta cara Anda memeriksa akurasi dan privasi. Jangan memasukkan nama lengkap, nomor kontak, isi percakapan sensitif, atau data pribadi orang lain.
+
 {{< include ../includes/evidence-template.md >}}

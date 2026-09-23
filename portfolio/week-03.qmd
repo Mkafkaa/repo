@@ -22,4 +22,98 @@ Melakukan personal conversation dengan listening, clarity, boundary, dan relatio
 [Buka contoh fiktif Minggu 3](../examples/week-03.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
+::: {.callout-note title="Cara mengisi portofolio ini"}
+Pilih satu percakapan nyata atau role-play dengan orang yang memiliki hubungan dengan Anda. Fokuskan percakapan pada satu kebutuhan, batas, permintaan, atau upaya memperbaiki hubungan. Ganti semua teks dalam tanda kurung siku `[seperti ini]` dengan pengalaman Anda sendiri.
+
+Urutan kerja:
+
+1. Catat relationship state sebelum percakapan: tingkat kepercayaan, ketegangan, dan pola komunikasi.
+2. Tentukan objective yang spesifik dan tidak menyalahkan orang lain.
+3. Gunakan observasi konkret, dengarkan respons partner, lalu parafrasekan pemahamannya.
+4. Sampaikan kebutuhan dan boundary dengan jelas, kemudian ajukan request yang dapat dinegosiasikan.
+5. Jika ada kesalahan komunikasi, lakukan repair melalui pengakuan dan perbaikan yang spesifik.
+6. Catat agreement dan lakukan check-in setelah beberapa hari.
+7. Isi template umum di bagian bawah berdasarkan bukti, bukan hanya kesan pribadi.
+
+Gunakan nama samaran atau inisial. Jangan merekam percakapan sensitif tanpa izin. Jika percakapan berisiko menimbulkan bahaya atau konflik serius, pilih role-play atau konsultasikan dengan pihak yang tepat.
+:::
+
+## Konteks dan relationship state
+
+**Person/partner:** [Nama samaran atau inisial dan hubungan Anda dengan orang tersebut.]
+
+**Situasi pemicu:** [Apa yang terjadi? Tuliskan kejadian spesifik, bukan label seperti “dia tidak menghargai saya”.]
+
+**Pola komunikasi sebelum percakapan:** [Apa yang biasanya Anda dan partner lakukan ketika masalah ini muncul?]
+
+**State sebelum percakapan:** [Jelaskan tingkat kepercayaan, ketegangan, kebutuhan yang belum tersampaikan, dan skor ketegangan 1-10 jika membantu.]
+
+**Objective saya:** [Hasil percakapan yang ingin dicapai, misalnya menyepakati quiet hours, meminta klarifikasi, menyampaikan boundary, atau memperbaiki pesan sebelumnya.]
+
+**Hal yang perlu saya jaga:** [Relationship value, kebutuhan partner, privasi, atau batas keselamatan yang relevan.]
+
+## Rencana komunikasi
+
+**Observasi tanpa label:** [Kalimat yang hanya menyebut perilaku/waktu/dampak yang dapat diamati.]
+
+**Kebutuhan saya:** [Kebutuhan atau nilai yang ingin Anda lindungi, misalnya istirahat, kejelasan, rasa hormat, atau waktu fokus.]
+
+**Boundary:** [Batas yang dapat Anda tetapkan dan tindakan yang akan Anda ambil jika batas tersebut tidak dihormati.]
+
+**Request:** [Permintaan konkret yang dapat dijawab, dinegosiasikan, atau ditolak oleh partner.]
+
+**Rencana repair bila diperlukan:** [Bagaimana Anda akan mengakui bagian Anda dalam masalah atau memperbaiki pesan yang kurang tepat?]
+
+## Potongan transcript atau catatan percakapan
+
+Tulis bagian yang menunjukkan observasi, listening, paraphrase, kebutuhan, boundary, request, respons partner, dan repair. Jika menggunakan catatan ringkas, beri label `catatan`, bukan transcript verbatim.
+
+> **Saya:** “[Observasi spesifik tanpa menyalahkan atau memberi label karakter.]”  
+> **Partner:** “[Respons, kebutuhan, alasan, atau perspektif partner.]”  \
+> **Saya:** “[Paraphrase untuk memeriksa pemahaman.]”  \
+> **Partner:** “[Koreksi atau konfirmasi terhadap paraphrase.]”  \
+> **Saya:** “[Kebutuhan, boundary, dan request saya.]”  \
+> **Partner:** “[Respons atau usulan partner.]”
+
+**Bukti listening:** [Kalimat paraphrase, pertanyaan klarifikasi, atau tindakan mendengar yang Anda gunakan.]
+
+**Bukti boundary:** [Kalimat yang menyebut batas, waktu, kondisi, dan tindakan Anda secara jelas.]
+
+**Bukti request:** [Permintaan spesifik yang Anda ajukan.]
+
+**Bukti repair:** [Tuliskan kalimat repair jika ada. Jika tidak ada, jelaskan mengapa repair tidak diperlukan.]
+
+## Agreement dan relationship outcome
+
+**Agreement yang dicapai:** [Apa yang disepakati? Sertakan siapa melakukan apa, kapan, dan pengecualian jika ada.]
+
+**Hal yang belum disepakati:** [Perbedaan atau risiko yang masih perlu dibicarakan.]
+
+**Check-in:** [Kapan dan bagaimana Anda memeriksa apakah agreement berjalan?]
+
+**State setelah percakapan:** [Jelaskan perubahan kepercayaan, ketegangan, kejelasan, atau kenyamanan. Bedakan self-report Anda dari fakta yang dapat diverifikasi.] 
+
+**Respons partner setelah percakapan:** [Apa yang partner lakukan atau katakan setelah agreement?]
+
+## Evidence dan refleksi
+
+- [ ] Transcript atau catatan percakapan yang dianonimkan.
+- [ ] Bukti agreement, misalnya pesan konfirmasi atau catatan bersama.
+- [ ] Catatan observer jika menggunakan role-play.
+- [ ] Check-in setelah beberapa hari.
+- [ ] Catatan perbandingan relationship state sebelum dan sesudah.
+- [ ] Bukti lain: [jelaskan].
+
+**Apa yang berhasil:** [Tindakan atau kalimat yang membantu listening, clarity, boundary, request, atau repair.]
+
+**Apa yang perlu diperbaiki:** [Bagian ketika Anda membuat asumsi, menyela, terlalu umum, defensif, atau kurang jelas.]
+
+**Next practice:** [Satu perilaku spesifik yang akan Anda latih pada percakapan berikutnya.]
+
+Pada bagian `Analisis komunikasi` di bawah, gunakan `Person & character` untuk menjelaskan kebutuhan kedua pihak, `Objective & state` untuk membandingkan kondisi sebelum dan sesudah, `Repertoire & language` untuk menganalisis observasi/paraphrase/boundary/request, `Response & adaptation` untuk menjelaskan penyesuaian Anda, dan `Agreement, Action & Relationship` untuk menjelaskan hasil serta check-in.
+
+## Penggunaan AI dan privasi
+
+Tuliskan `Tidak menggunakan AI` jika memang tidak menggunakan AI. Jika menggunakan AI, jelaskan alat dan perannya tanpa mengunggah identitas atau isi percakapan sensitif. Jelaskan bagian yang digunakan, diubah, atau ditolak, serta cara Anda memeriksa akurasi dan menjaga privasi.
+
 {{< include ../includes/evidence-template.md >}}
