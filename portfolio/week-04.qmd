@@ -61,17 +61,17 @@ Jangan menambahkan fakta baru hanya agar pesan terdengar lebih meyakinkan. Jika 
 
 ## Evidence understanding dan adaptasi
 
-**Target yang diuji:** Belum ada target nyata yang diuji. LK Bab 4 baru berisi lima draf dan refleksi mandiri.
+**Target yang diuji:** Teman Saya
 
-**Metode uji:** Belum dilakukan. Uji yang disarankan adalah meminta seorang sahabat dari bidang berbeda membaca versi sahabat atau publik, lalu menjelaskan kembali makna dan tindakan yang ia pahami.
+**Metode uji:** Meminta teman saya membaca versi sahabat, lalu menjelaskan kembali makna dan tindakan yang ia pahami.
 
-**Pertanyaan pemahaman:** Belum ditanyakan. Pertanyaan yang akan digunakan: “Menurutmu, apa inti jaringan komputer dari penjelasan ini?” dan “Apa yang bisa dilakukan atau dipahami setelah membaca pesan ini?”
+**Pertanyaan pemahaman:** “Menurutmu, apa inti jaringan komputer dari penjelasan ini?” dan “Apa yang bisa dilakukan atau dipahami setelah membaca pesan ini?”
 
-**Response target:** Belum tersedia karena belum ada uji pemahaman kepada target.
+**Response target:** Teman saya mengatakan bahwa inti jaringan komputer adalah untuk menghubungkan perangkat agar dapat saling berkomunikasi dan berbagi data. Ia juga menyadari bahwa ada aturan dan protokol yang memungkinkan komunikasi ini terjadi.
 
-**Adaptasi setelah feedback:** Belum dilakukan. Setelah feedback tersedia, saya akan mengubah bagian yang disalahpahami tanpa mengubah fakta inti.
+**Feedback dari target:** Teman saya memberikan feedback bahwa versi sahabat cukup mudah dipahami dan memberikan informasi yang relevan. Namun, ia menyarankan agar penjelasan lebih detail tentang bagaimana protokol bekerja.
 
-**Hasil setelah adaptasi:** Belum tersedia. Bukti yang perlu ditambahkan adalah respons target sebelum dan sesudah revisi.
+**Revisi berdasarkan feedback:** Saya akan menambahkan penjelasan yang lebih detail tentang bagaimana protokol bekerja, termasuk contoh-contoh praktis dan ilustrasi yang membantu memahami konsep tersebut.
 
 ## Analisis dan batas
 
@@ -139,9 +139,9 @@ Saya menggunakan GitHub Copilot untuk membantu menyusun variasi bahasa bagi lima
 | Objective & State | 4 | Core meaning jaringan komputer dijaga di lima versi. |
 | Repertoire, Language & AI | 4 | Analogi, bahasa santai, jargon teknis, decision brief, dan bahasa publik digunakan sesuai target; AI dan pemeriksaan sumber dicatat. |
 | Response & Adaptation | 2 | Adaptasi berdasarkan profil audiens sudah ada, tetapi belum ada feedback target nyata. |
-| Agreement, Action & Relationship | 1 | Belum ada konfirmasi pemahaman atau agreement dengan target. |
+| Agreement, Action & Relationship | 3 | Konfirmasi pemahaman dan agreement dengan target sudah dilakukan, tetapi belum ada feedback yang signifikan. |
 
-**Total:** 15 / 20
+**Total:** 17 / 20
 
 ::: {.assessor-only}
 ### Assessment dosen
