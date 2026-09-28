@@ -39,22 +39,22 @@ Jangan mengarang bukti. Jika belum melakukan tindakannya, tulis rencana sementar
 
 ## Episode
 
-**Tanggal dan waktu:** [Kapan kejadian berlangsung?]
+**Tanggal dan waktu:** 28 Mei 2026 pukul 21.00 sampai 29 Mei 2026 pukul 06.30; dampaknya berlanjut pada pukul 07.00 dan 13.00.
 
-**Setting:** [Di mana dan dalam situasi apa kejadian berlangsung?]
+**Setting:** Saya mengerjakan Tugas Besar Algoritma Pemrograman 1 di tempat saya mengerjakan tugas, berkoordinasi secara daring dengan kelompok, dan menghadapi deadline pukul 07.00.
 
-**Orang yang terlibat:** [Siapa yang terlibat dan apa hubungannya dengan Anda? Gunakan inisial bila perlu.]
+**Orang yang terlibat:** Diri saya sendiri sebagai mahasiswa, empat teman satu kelompok, keluarga yang merencanakan perjalanan pukul 07.00, teman dekat yang mengajak bermain game, dan komunitas Explorer GDGoC. Episode ini berfokus pada komunikasi internal saya ketika harus memilih prioritas.
 
-**Tujuan saya:** [Perubahan atau hasil apa yang ingin Anda capai?]
+**Tujuan saya:** Menyelesaikan tubes dan laporan sebelum deadline, memahami bagian program yang saya kerjakan, menjaga perubahan Git tetap tertata, lalu mengambil keputusan sosial yang tidak mengganggu tanggung jawab akademik.
 
 | Lapisan | Catatan Anda |
 |---|---|
-| **Event** | [Tuliskan kejadian secara singkat dan netral.] |
-| **Fact** | [Tuliskan hanya hal yang dapat diamati atau diverifikasi. Hindari kesimpulan seperti “dia membenci saya”.] |
-| **Initial story** | [Apa cerita atau kesimpulan spontan yang langsung muncul di pikiran Anda?] |
-| **Emotion/body signal** | [Emosi yang muncul dan intensitasnya, misalnya cemas 7/10; tuliskan juga sinyal tubuh.] |
-| **Reactive character** | [Kecenderungan diri yang muncul, misalnya Pembela, Penghindar, atau Pencemas.] |
-| **Desired character** | [Sikap yang ingin Anda gunakan, misalnya Peneliti, Pendengar, atau Pemecah Masalah yang Tenang.] |
+| **Event** | Saya mengerjakan tubes dan laporan sepanjang malam dengan waktu tersisa sampai pukul 07.00, sambil mengelola perubahan kode kelompok dan menerima ajakan bermain serta rencana perjalanan keluarga. |
+| **Fact** | Tugas belum selesai pada awal episode; deadline pukul 07.00; empat anggota kelompok terlibat; saya mengerjakan program, commit perubahan, dan laporan; saya menolak bermain, tidak ikut perjalanan keluarga pukul 07.00, lalu hadir di Welcoming Party Explorer GDGoC pukul 13.00. |
+| **Initial story** | [PERLU DIKONFIRMASI] Kemungkinan cerita spontan saya adalah “Saya harus terus bekerja dan tidak boleh berhenti sebelum semuanya selesai; kalau berhenti, tugas kelompok akan bermasalah.” Minggu 1 belum mencatat kalimat batin persisnya. |
+| **Emotion/body signal** | Fakta yang tercatat adalah saya tidak tidur semalaman dan merasa perlu memulihkan kondisi setelah tugas selesai. Intensitas emosi dan sinyal tubuh spesifik belum dicatat. |
+| **Reactive character** | Mahasiswa yang tekun dan problem-solver, tetapi cenderung terus memaksa diri ketika deadline dekat. Label ini merupakan analisis dari tindakan, bukan identitas tetap. |
+| **Desired character** | Mahasiswa yang bertanggung jawab sekaligus mampu mengatur batas fisik: menyelesaikan prioritas, berkomunikasi jelas, dan menjadwalkan pemulihan sebelum mengikuti kegiatan berikutnya. |
 
 **Petunjuk:** Pastikan `Initial story` tidak disamakan dengan `Fact`. Kalimat “saya gagal total” biasanya merupakan interpretasi, bukan fakta.
 
@@ -62,21 +62,21 @@ Jangan mengarang bukti. Jika belum melakukan tindakannya, tulis rencana sementar
 
 Tuliskan minimal dua kemungkinan penafsiran lain. Setiap narasi harus tetap masuk akal berdasarkan fakta dan membantu Anda memilih tindakan.
 
-1. **[Nama narasi alternatif pertama]:** [Apa penafsiran lain yang lebih akurat atau lebih lengkap?]
-2. **[Nama narasi alternatif kedua]:** [Apa kemungkinan lain yang belum Anda pertimbangkan?]
-3. **[Opsional, narasi ketiga]:** [Tuliskan jika membantu memperjelas pilihan.]
+1. **Prioritas terukur:** Deadline memang pukul 07.00, sehingga menyelesaikan bagian paling penting dan mengelola Git adalah prioritas yang masuk akal; hal itu tidak berarti saya harus mengabaikan pemulihan setelahnya.
+2. **Tanggung jawab bersama:** Tugas kelompok bukan hanya beban saya; koordinasi, commit kecil, dan komunikasi status dapat membagi tanggung jawab tanpa saya mengambil semua pekerjaan sendiri.
+3. **Batas fisik:** Menghadiri kegiatan pukul 13.00 setelah tidak tidur semalaman memiliki risiko terhadap fokus dan kesehatan; keputusan yang lebih lengkap perlu mempertimbangkan waktu istirahat, bukan hanya keberhasilan menyelesaikan deadline.
 
-**Narasi yang paling berguna:** [Pilih satu dan jelaskan mengapa narasi ini paling sesuai dengan fakta serta menghasilkan tindakan yang konstruktif.]
+**Narasi yang paling berguna:** Narasi “prioritas terukur” paling berguna karena sesuai dengan fakta deadline, kebutuhan kelompok, dan pekerjaan yang harus diselesaikan. Narasi ini membantu saya fokus pada fungsi utama, laporan, dan commit penting, lalu mengakui bahwa pemulihan fisik juga merupakan bagian dari tanggung jawab.
 
 ## Internal conversation dan agreement
 
 >Tulis percakapan singkat antara kecenderungan reaktif, suara yang lebih reflektif, dan diri Anda sebagai pengambil keputusan.
 
-> **[Reactive character]:** “[Apa dorongan spontan saya?]”  
-> **[Desired character]:** “[Apa pengingat atau pertanyaan yang membantu saya memeriksa fakta?]”  
-> **Saya:** “[Keputusan sadar apa yang akan saya ambil sekarang?]”
+> **Mahasiswa yang memaksa diri:** “Saya harus terus bekerja sampai semua selesai dan tidak boleh terganggu.”  
+> **Mahasiswa yang bertanggung jawab:** “Fakta apa yang paling mendesak? Bagian program, commit, laporan, atau aktivitas lain?”  
+> **Saya:** “Saya akan menyelesaikan fungsi utama, commit perubahan secara teratur, mengisi laporan yang wajib, menolak ajakan bermain, memberi tahu keluarga, lalu menilai kembali kondisi tubuh sebelum kegiatan siang.”
 
-**Internal agreement:** [Tuliskan tindakan spesifik, siapa yang melakukan, kapan dilakukan, dan hasil minimum yang ingin dicapai.]
+**Internal agreement:** Sebelum pukul 07.00 pada 29 Mei 2026, saya akan memprioritaskan fungsi utama, memeriksa perubahan Git, menyelesaikan laporan, dan mengumpulkan tubes. Setelah itu saya akan memberi tahu keluarga bahwa saya tidak ikut perjalanan dan mengevaluasi kebutuhan tidur sebelum memutuskan hadir di kegiatan pukul 13.00. Agreement ini berhasil pada sisi deadline, tetapi pengaturan pemulihan fisik belum optimal.
 
 Contoh format: “Sebelum [waktu/tanggal], saya akan [tindakan] selama [durasi/jumlah] dan mencatat [bukti hasil].”
 
@@ -90,9 +90,22 @@ Tambahkan bukti yang benar-benar Anda miliki. Pilih yang relevan dan hapus pilih
 - [ ] Catatan observer atau feedback dari orang yang terlibat.
 - [ ] Bukti tindakan lain: [jelaskan].
 
-**Kontribusi saya:** [Jelaskan bagian yang Anda lakukan sendiri.]
+**Kontribusi saya:** Saya mengerjakan bagian program dan laporan, mengelola commit perubahan kelompok, menjaga koordinasi, menolak ajakan bermain, menyampaikan keputusan kepada keluarga, dan hadir serta berpartisipasi di kegiatan GDGoC.
 
-**Hasil atau response yang terjadi:** [Apa yang terjadi setelah tindakan? Apakah fakta baru mengubah cerita awal Anda?]
+**Hasil atau response yang terjadi:** Tubes diselesaikan dan dikumpulkan sebelum deadline, lalu saya tidak ikut perjalanan keluarga. Saya tetap hadir di Welcoming Party pukul 13.00, tetapi pengalaman kurang tidur menunjukkan bahwa cerita “selama tugas selesai semuanya baik-baik saja” perlu diperbarui dengan pertimbangan kesehatan dan batas fisik.
+
+## Analisis khusus berdasarkan template umum
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| Person & character | Saya adalah satu person yang menampilkan character mahasiswa tekun/problem-solver, pengelola Git, anggota keluarga, teman, dan anggota komunitas. Untuk episode intra-self, konflik utamanya adalah antara dorongan memaksa diri dan character yang bertanggung jawab secara lebih utuh. |
+| Objective & state | State awal: tubes dan laporan belum selesai, deadline pukul 07.00, dan perubahan empat anggota perlu dikelola. Objective: tugas selesai dengan program berjalan, laporan terisi, dan perubahan tercatat. State setelahnya: tugas selesai, tetapi tubuh kurang tidur dan perlu pemulihan. |
+| Repertoire & language | Repertoire saya berupa pemecahan masalah, debugging, commit kecil, konfirmasi perubahan, penolakan ajakan bermain, dan penyampaian batas kepada keluarga. Kalimat internal persis belum tercatat sehingga bagian dialog di atas adalah rekonstruksi yang perlu saya konfirmasi. |
+| Response & adaptation | Reaction yang terlihat adalah terus bekerja dan menunda kebutuhan istirahat. Response yang lebih sadar adalah memilah prioritas, mengatur Git, menolak aktivitas yang mengganggu, dan mengevaluasi kondisi setelah deadline. Adaptasi berikutnya perlu menambahkan waktu berhenti dan tidur. |
+| Agreement/action | Agreement internal menghasilkan penyelesaian program, laporan, commit, penolakan ajakan bermain, dan keputusan tidak ikut perjalanan keluarga. Bukti yang perlu dilampirkan: riwayat Git, waktu pengumpulan, serta pesan penolakan yang dianonimkan. |
+| Relationship outcome | Dengan kelompok, perubahan lebih tertata; dengan keluarga dan teman, batas disampaikan tetapi kemungkinan kekecewaan perlu dikelola; dengan komunitas, saya tetap terhubung, meski kehadiran dalam kondisi kurang tidur perlu dievaluasi. |
+
+**Informasi yang masih perlu dilengkapi:** kalimat initial story yang benar-benar muncul, emosi dan sinyal tubuh beserta intensitasnya, waktu serta isi pesan kepada keluarga/teman, dan bukti apakah keluarga/teman memberi feedback tertentu.
 
 ## Panduan pengisian template umum
 

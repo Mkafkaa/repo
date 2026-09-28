@@ -49,7 +49,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-795ae1ca5c1dbc58ec319c3e1f3f461f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-e068420ea456326da06e1a0f8a236e46.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -369,11 +369,11 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="core-meaning" class="level2">
 <h2 class="anchored" data-anchor-id="core-meaning">Core meaning</h2>
-<p><strong>Konteks pesan:</strong> [Situasi yang melatarbelakangi pesan.]</p>
-<p><strong>Fakta yang tidak boleh berubah:</strong> [Tuliskan fakta objektif, termasuk tanggal, waktu, lokasi, status, atau angka jika relevan.]</p>
-<p><strong>Dampak bagi target:</strong> [Siapa yang terdampak dan bagaimana dampaknya?]</p>
-<p><strong>Action yang diharapkan:</strong> [Apa yang perlu dilakukan oleh penerima pesan?]</p>
-<p><strong>Batasan penting:</strong> [Informasi yang tidak boleh dihilangkan, klaim yang belum pasti, atau batasan privasi.]</p>
+<p><strong>Konteks pesan:</strong> Saya menjelaskan konsep jaringan komputer kepada lima audiens dengan latar belakang dan kebutuhan berbeda. Konsep ini dipilih karena sesuai dengan bidang Sistem dan Teknologi Informasi dan memiliki banyak istilah teknis yang perlu diterjemahkan ke bahasa sehari-hari.</p>
+<p><strong>Fakta yang tidak boleh berubah:</strong> Jaringan komputer menghubungkan dua atau lebih perangkat melalui koneksi kabel atau nirkabel. Perangkat tersebut berkomunikasi menggunakan protokol, bertukar data, dan berbagi sumber daya. Data dapat dibagi menjadi paket, diberi alamat tujuan, lalu diarahkan melalui perangkat seperti switch dan router.</p>
+<p><strong>Dampak bagi target:</strong> Semua target membutuhkan pemahaman yang berbeda: anak-anak membutuhkan gambaran konkret, sahabat membutuhkan penjelasan santai, rekan teknis membutuhkan presisi, manajer membutuhkan dampak bisnis, dan publik membutuhkan hubungan dengan layanan digital serta keamanan data.</p>
+<p><strong>Action yang diharapkan:</strong> Penerima memahami fungsi dasar jaringan komputer dan dapat menghubungkannya dengan kebutuhan mereka, tanpa mengubah fakta inti atau menyimpulkan bahwa semua masalah jaringan memiliki solusi yang sama.</p>
+<p><strong>Batasan penting:</strong> Lima versi harus mempertahankan makna inti yang sama. Penyederhanaan untuk anak-anak dan publik tidak boleh mengubah konsep. Istilah teknis seperti IP address, router, packet, dan protokol digunakan hanya ketika relevan. Definisi diperiksa menggunakan IBM Think dan istilah TCP diperiksa menggunakan RFC 9293 dari IETF.</p>
 <table class="caption-top table">
 <colgroup>
 <col style="width: 33%">
@@ -390,75 +390,83 @@ ul.task-list li input[type="checkbox"] {
 <tbody>
 <tr class="odd">
 <td><strong>Friend</strong></td>
-<td>[Tulis pesan yang personal, ringkas, dan sesuai kedekatan hubungan.]</td>
-<td>[Apa yang diubah dalam nada, sapaan, dan detail? Mengapa?]</td>
+<td>Jaringan komputer itu sederhananya cara supaya laptop, HP, printer, dan perangkat lain bisa ngobrol dan berbagi data. Saat kita mengirim file lewat Wi-Fi, file itu berjalan menuju perangkat teman dengan bantuan alamat dan aturan komunikasi. Kalau koneksi lambat atau putus, data bisa lebih lama sampai atau harus dikirim ulang.</td>
+<td>Bahasa dibuat santai, memakai contoh laptop, HP, printer, dan Wi-Fi, serta menghindari istilah akademis agar terasa seperti percakapan biasa.</td>
 </tr>
 <tr class="even">
 <td><strong>Technical peer</strong></td>
-<td>[Gunakan istilah teknis yang diperlukan dan detail operasional.]</td>
-<td>[Detail teknis apa yang perlu dipertahankan? Apa yang tidak perlu?]</td>
+<td>Computer network terdiri dari node yang berkomunikasi melalui protocol stack, umumnya TCP/IP. Data aplikasi dienkapsulasi menjadi packet dan dikirim berdasarkan addressing pada IP layer. Switch meneruskan frame di dalam LAN berdasarkan MAC address, sedangkan router meneruskan packet antar-network berdasarkan routing table. TCP menyediakan delivery yang andal dan flow control; UDP memiliki overhead serta latency yang lebih rendah tanpa jaminan delivery. Kinerja jaringan dapat dilihat dari throughput, latency, packet loss, dan availability.</td>
+<td>Jargon, singkatan, dan parameter teknis dipertahankan karena target membutuhkan efisiensi dan presisi, bukan analogi panjang.</td>
 </tr>
 <tr class="odd">
 <td><strong>Manager</strong></td>
-<td>[Tekankan impact, risiko, pilihan, rekomendasi, atau keputusan yang dibutuhkan.]</td>
-<td>[Mengapa versi ini berfokus pada dampak dan decision point?]</td>
+<td>Jaringan komputer adalah fondasi agar sistem dan karyawan dapat mengakses aplikasi, berbagi data, dan melayani pelanggan. Investasi pada jaringan yang stabil dan aman dapat mengurangi downtime dan mempercepat kolaborasi. Biaya perangkat, koneksi, pemeliharaan, dan keamanan perlu dibandingkan dengan risiko gangguan operasional, kehilangan data, dan layanan yang tidak dapat diakses.</td>
+<td>Fokus dialihkan ke nilai bisnis, downtime, risiko, biaya, pemantauan performa, dan cadangan koneksi karena target membutuhkan dasar pengambilan keputusan.</td>
 </tr>
 <tr class="even">
 <td><strong>Customer/user</strong></td>
-<td>[Jelaskan dampak dan langkah yang harus dilakukan tanpa jargon internal.]</td>
-<td>[Bagaimana Anda membuat instruksi mudah dipahami dan dijalankan?]</td>
+<td>Jaringan komputer adalah penghubung yang membuat kita bisa mengirim pesan, mengikuti kelas daring, melakukan pembayaran, menonton video, dan memakai layanan digital. Router membantu data menemukan tujuan, sedangkan aturan komunikasi membantu perangkat saling memahami. Gunakan kata sandi yang kuat, perbarui perangkat, dan berhati-hati saat memakai Wi-Fi publik.</td>
+<td>Penjelasan menggunakan dampak langsung dan tindakan yang bisa dilakukan pengguna, tanpa jargon internal atau detail implementasi yang tidak diperlukan.</td>
 </tr>
 <tr class="odd">
 <td><strong>Public</strong></td>
-<td>[Berikan konteks minimum yang penting bagi audiens luas.]</td>
-<td>[Informasi apa yang sengaja tidak dimasukkan demi relevansi atau privasi?]</td>
+<td>Jaringan komputer adalah penghubung yang membuat berbagai layanan digital dapat digunakan dalam kehidupan sehari-hari. Jaringan yang baik harus cukup cepat, dapat diandalkan, dan dilindungi agar data pribadi tidak mudah disalahgunakan.</td>
+<td>Informasi teknis yang terlalu rinci dihilangkan agar relevan bagi masyarakat luas; fokusnya adalah kemudahan, keamanan, dan kebiasaan penggunaan yang bertanggung jawab.</td>
 </tr>
 </tbody>
 </table>
-<p><strong>Pemeriksaan konsistensi:</strong> [Bandingkan kelima versi. Jelaskan bahwa fakta inti, dampak utama, dan action tetap sama.]</p>
+<p><strong>Pemeriksaan konsistensi:</strong> Kelima versi tetap menyampaikan bahwa jaringan menghubungkan perangkat untuk bertukar data melalui aturan komunikasi. Perbedaannya hanya pada tingkat detail, gaya bahasa, analogi, fokus bisnis, dan tindakan praktis. Tidak ada versi yang mengubah fungsi dasar jaringan atau menambahkan klaim bahwa jaringan selalu aman dan bebas gangguan.</p>
 </section>
 <section id="evidence-understanding-dan-adaptasi" class="level2">
 <h2 class="anchored" data-anchor-id="evidence-understanding-dan-adaptasi">Evidence understanding dan adaptasi</h2>
-<p><strong>Target yang diuji:</strong> [Friend/technical peer/manager/customer/public dan hubungan Anda dengan target.]</p>
-<p><strong>Metode uji:</strong> [Percakapan langsung, pesan tertulis, email, simulasi, atau cara lain. Pastikan ada izin jika merekam.]</p>
-<p><strong>Pertanyaan pemahaman:</strong> [Apa yang Anda tanyakan untuk memeriksa apakah target memahami makna dan action?]</p>
-<p><strong>Response target:</strong> [Apa yang target pahami? Bagian mana yang membingungkan atau ditanyakan?]</p>
-<p><strong>Adaptasi setelah feedback:</strong> [Kalimat apa yang Anda ubah dan mengapa?]</p>
-<p><strong>Hasil setelah adaptasi:</strong> [Apakah target kemudian memahami fakta, dampak, dan action yang benar? Sertakan bukti.]</p>
+<p><strong>Target yang diuji:</strong> Belum ada target nyata yang diuji. LK Bab 4 baru berisi lima draf dan refleksi mandiri.</p>
+<p><strong>Metode uji:</strong> Belum dilakukan. Uji yang disarankan adalah meminta seorang sahabat dari bidang berbeda membaca versi sahabat atau publik, lalu menjelaskan kembali makna dan tindakan yang ia pahami.</p>
+<p><strong>Pertanyaan pemahaman:</strong> Belum ditanyakan. Pertanyaan yang akan digunakan: “Menurutmu, apa inti jaringan komputer dari penjelasan ini?” dan “Apa yang bisa dilakukan atau dipahami setelah membaca pesan ini?”</p>
+<p><strong>Response target:</strong> Belum tersedia karena belum ada uji pemahaman kepada target.</p>
+<p><strong>Adaptasi setelah feedback:</strong> Belum dilakukan. Setelah feedback tersedia, saya akan mengubah bagian yang disalahpahami tanpa mengubah fakta inti.</p>
+<p><strong>Hasil setelah adaptasi:</strong> Belum tersedia. Bukti yang perlu ditambahkan adalah respons target sebelum dan sesudah revisi.</p>
 </section>
 <section id="analisis-dan-batas" class="level2">
 <h2 class="anchored" data-anchor-id="analisis-dan-batas">Analisis dan batas</h2>
-<p><strong>Perubahan repertoire:</strong> [Jelaskan perubahan dari pesan personal, teknis, decision brief, service instruction, hingga public announcement.]</p>
-<p><strong>Risiko salah tafsir:</strong> [Versi mana yang paling berisiko disalahpahami dan bagaimana Anda menguranginya?]</p>
-<p><strong>Batas adaptasi:</strong> [Jelaskan bagian yang tidak boleh berubah dan alasan etis/akurasi/privasi di baliknya.]</p>
+<p><strong>Perubahan repertoire:</strong> Repertoire bergerak dari analogi bertukar kartu untuk anak-anak, bahasa santai untuk sahabat, jargon TCP/IP dan metrik jaringan untuk rekan teknis, decision brief berbasis risiko untuk manajer, hingga penjelasan dampak dan keamanan untuk publik.</p>
+<p><strong>Risiko salah tafsir:</strong> Versi anak-anak paling berisiko menyederhanakan jaringan secara berlebihan, sedangkan versi teknis berisiko tidak dipahami oleh audiens nonteknis. Risiko dikurangi dengan mempertahankan hubungan pengirim-penerima, alamat, aturan, dan tujuan data pada versi sederhana, serta membatasi jargon pada versi teknis.</p>
+<p><strong>Batas adaptasi:</strong> Fungsi dasar jaringan, peran protokol, dan hubungan antara perangkat serta data tidak boleh berubah. Saya tidak boleh mengklaim bahwa router menjamin keamanan atau bahwa TCP selalu membuat koneksi bebas masalah. Batas ini menjaga akurasi teknis dan mencegah pembaca mengambil keputusan berdasarkan informasi yang berlebihan.</p>
 </section>
 <section id="bukti-yang-dilampirkan" class="level2">
 <h2 class="anchored" data-anchor-id="bukti-yang-dilampirkan">Bukti yang dilampirkan</h2>
 <ul class="task-list">
-<li><label><input type="checkbox">Lima draf atau screenshot versi pesan.</label></li>
+<li><label><input type="checkbox" checked="">Lima draf versi pesan pada LK Bab 4.</label></li>
 <li><label><input type="checkbox">Feedback atau konfirmasi pemahaman dari sedikitnya satu target.</label></li>
 <li><label><input type="checkbox">Revisi sebelum dan sesudah feedback.</label></li>
 <li><label><input type="checkbox">Catatan observer atau hasil simulasi.</label></li>
-<li><label><input type="checkbox">Bukti lain: [jelaskan].</label></li>
+<li><label><input type="checkbox" checked="">Sumber definisi IBM Think dan RFC 9293 dari IETF.</label></li>
 </ul>
-<p><strong>Kontribusi saya:</strong> [Bagian yang Anda susun, uji, revisi, dan putuskan sendiri.]</p>
+<p><strong>Kontribusi saya:</strong> Saya memilih konsep jaringan komputer, menyusun kebenaran inti, menguraikan jargon, menulis lima versi bahasa, menjelaskan alasan adaptasi, menulis refleksi, dan memeriksa istilah terhadap sumber referensi. Uji pemahaman dengan target nyata dan revisi berdasarkan feedback belum dilakukan.</p>
 <p>Pada bagian <code>Analisis komunikasi</code> di bawah, jelaskan lima target sebagai <code>Person &amp; character</code>, konsistensi core meaning sebagai <code>Objective &amp; state</code>, pilihan bahasa sebagai <code>Repertoire &amp; language</code>, hasil uji sebagai <code>Response &amp; adaptation</code>, dan feedback/action sebagai <code>Agreement, Action &amp; Relationship</code>.</p>
 </section>
 <section id="konteks-performance" class="level2">
 <h2 class="anchored" data-anchor-id="konteks-performance">Konteks performance</h2>
-<p><strong>Tanggal dan setting:</strong> Ganti dengan tanggal, tempat, dan bentuk kegiatan.</p>
-<p><strong>Persons dan relationship:</strong> Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.</p>
-<p><strong>Objective dan initial state:</strong> Nyatakan perubahan yang ingin dicapai serta evidence state awal.</p>
+<p><strong>Tanggal dan setting:</strong> Draf disusun pada 28 September 2026 berdasarkan LK Bab 4. Konsep jaringan komputer diterjemahkan ke lima konteks audiens melalui tulisan dan refleksi mandiri.</p>
+<p><strong>Persons dan relationship:</strong> Lima target komunikasi adalah anak-anak, sahabat dari bidang berbeda, rekan teknis satu program studi, manajer atau pengambil keputusan, dan publik umum. Draf ini belum diuji kepada orang nyata.</p>
+<p><strong>Objective dan initial state:</strong> Objective saya adalah menjaga satu core meaning tentang jaringan komputer sambil menyesuaikan repertoire dan language. Initial state saya adalah memiliki definisi teknis dan jargon, tetapi belum memiliki feedback pemahaman dari target.</p>
 </section>
 <section id="evidence" class="level2">
 <h2 class="anchored" data-anchor-id="evidence">Evidence</h2>
-<div class="evidence-block">
-<p>Tambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.</p>
-</div>
+<ul>
+<li>Lima versi penjelasan jaringan komputer pada bagian matriks di atas.</li>
+<li>Daftar jargon dan arti sederhananya.</li>
+<li>Rujukan IBM Think dan IETF RFC 9293.</li>
+<li>Refleksi tentang kesulitan membuat versi anak-anak.</li>
+<li>Feedback target dan revisi belum tersedia.</li>
+</ul>
 </section>
 <section id="analisis-komunikasi" class="level2">
 <h2 class="anchored" data-anchor-id="analisis-komunikasi">Analisis komunikasi</h2>
 <table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
 <thead>
 <tr class="header">
 <th>Elemen</th>
@@ -468,93 +476,91 @@ ul.task-list li input[type="checkbox"] {
 <tbody>
 <tr class="odd">
 <td>Person &amp; character</td>
-<td>Ganti dengan analisis Anda.</td>
+<td>Lima audiens dibedakan berdasarkan pengetahuan, kebutuhan, dan peran mereka. Anak-anak membutuhkan analogi konkret; sahabat membutuhkan bahasa akrab; rekan teknis membutuhkan presisi; manajer membutuhkan dampak dan risiko; publik membutuhkan manfaat serta keamanan.</td>
 </tr>
 <tr class="even">
 <td>Objective &amp; state</td>
-<td>Ganti dengan analisis Anda.</td>
+<td>Core meaning tetap menghubungkan perangkat untuk bertukar data dan berbagi sumber daya melalui aturan komunikasi. Draf awal yang teknis diubah menjadi lima versi dengan tingkat detail berbeda, tanpa mengganti tujuan penjelasan.</td>
 </tr>
 <tr class="odd">
 <td>Repertoire &amp; language</td>
-<td>Ganti dengan analisis Anda.</td>
+<td>Repertoire berubah dari analogi bertukar kartu, contoh Wi-Fi, istilah TCP/IP dan metrik, decision brief, hingga imbauan keamanan publik. Penggunaan AI dicatat dan istilah diperiksa terhadap sumber.</td>
 </tr>
 <tr class="even">
 <td>Response &amp; adaptation</td>
-<td>Ganti dengan analisis Anda.</td>
+<td>Adaptasi sudah dilakukan berdasarkan perbedaan profil audiens dan refleksi mandiri, tetapi belum diuji dengan response target nyata. Karena itu, klaim keberhasilan pemahaman masih bersifat sementara.</td>
 </tr>
 <tr class="odd">
-<td>Agreement/action</td>
-<td>Ganti dengan analisis Anda.</td>
+<td>Agreement, Action &amp; Relationship</td>
+<td>Action yang diharapkan adalah target memahami inti jaringan sesuai kebutuhannya. Belum ada agreement atau feedback target; langkah berikutnya adalah menguji satu versi dan merevisi berdasarkan pemahaman target.</td>
 </tr>
 <tr class="even">
 <td>Relationship outcome</td>
-<td>Ganti dengan analisis Anda.</td>
+<td>Draf berusaha mengurangi jarak pengetahuan dan menghindari audiens merasa digurui. Dampak hubungan belum dapat dinilai karena belum ada interaksi uji yang terdokumentasi.</td>
 </tr>
 </tbody>
 </table>
 </section>
 <section id="penggunaan-ai" class="level2">
 <h2 class="anchored" data-anchor-id="penggunaan-ai">Penggunaan AI</h2>
-<p>Nyatakan <code>Tidak menggunakan AI</code> atau jelaskan:</p>
-<ul>
-<li>alat dan peran AI;</li>
-<li>prompt atau instruksi penting;</li>
-<li>bagian output yang digunakan, diubah, atau ditolak;</li>
-<li>pemeriksaan accuracy, privacy, dan authority;</li>
-<li>apa yang tetap Anda pelajari sebagai manusia.</li>
-</ul>
+<p>Saya menggunakan GitHub Copilot untuk membantu menyusun variasi bahasa bagi lima audiens dan memeriksa perbedaan formalitas serta detail. Prompt yang digunakan meminta penjelasan jaringan komputer untuk anak-anak, sahabat, rekan teknis, manajer, dan publik dengan core meaning yang tetap sama. Saya menggunakan output sebagai bahan draf, memeriksa definisi dan istilah terhadap IBM Think serta RFC 9293, dan mengubah kalimat agar sesuai dengan bahasa sehari-hari. Saya tidak memasukkan data pribadi. Pemahaman konsep, pemilihan fakta, dan keputusan akhir tetap menjadi tanggung jawab saya.</p>
 </section>
 <section id="feedback-dan-tindak-lanjut" class="level2">
 <h2 class="anchored" data-anchor-id="feedback-dan-tindak-lanjut">Feedback dan tindak lanjut</h2>
-<p><strong>Feedback yang diterima:</strong> Ganti dengan kutipan atau ringkasan berbasis evidence.</p>
-<p><strong>Adaptation/replay:</strong> Jelaskan apa yang Anda ubah dan response setelah perubahan.</p>
-<p><strong>Next practice:</strong> Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.</p>
+<p><strong>Feedback yang diterima:</strong> Belum ada feedback understanding dari target nyata. Refleksi mandiri menunjukkan bahwa versi anak-anak paling sulit karena istilah IP address, router, dan packet bersifat abstrak.</p>
+<p><strong>Adaptation/replay:</strong> Setelah mendapatkan target uji, saya akan menanyakan kembali inti dan action yang dipahami, lalu memperbaiki istilah atau analogi yang membingungkan. Revisi belum dilakukan karena feedback eksternal belum tersedia.</p>
+<p><strong>Next practice:</strong> Saya akan meminta satu sahabat dari bidang berbeda membaca versi sahabat atau publik, mencatat pemahamannya tanpa memberi penjelasan tambahan, lalu memperbaiki draf berdasarkan bagian yang tidak dipahami.</p>
 </section>
 <section id="self-assessment" class="level2">
 <h2 class="anchored" data-anchor-id="self-assessment">Self-assessment</h2>
 <table class="caption-top table">
+<colgroup>
+<col style="width: 30%">
+<col style="width: 40%">
+<col style="width: 30%">
+</colgroup>
 <thead>
 <tr class="header">
 <th>Dimensi</th>
-<th style="text-align: right;">Skor 1–4</th>
+<th style="text-align: right;">Skor 1-4</th>
 <th>Evidence singkat</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td>Person &amp; Character</td>
-<td style="text-align: right;">—</td>
-<td>—</td>
+<td style="text-align: right;">4</td>
+<td>Lima audiens dibedakan berdasarkan kebutuhan dan tingkat pengetahuan.</td>
 </tr>
 <tr class="even">
 <td>Objective &amp; State</td>
-<td style="text-align: right;">—</td>
-<td>—</td>
+<td style="text-align: right;">4</td>
+<td>Core meaning jaringan komputer dijaga di lima versi.</td>
 </tr>
 <tr class="odd">
 <td>Repertoire, Language &amp; AI</td>
-<td style="text-align: right;">—</td>
-<td>—</td>
+<td style="text-align: right;">4</td>
+<td>Analogi, bahasa santai, jargon teknis, decision brief, dan bahasa publik digunakan sesuai target; AI dan pemeriksaan sumber dicatat.</td>
 </tr>
 <tr class="even">
 <td>Response &amp; Adaptation</td>
-<td style="text-align: right;">—</td>
-<td>—</td>
+<td style="text-align: right;">2</td>
+<td>Adaptasi berdasarkan profil audiens sudah ada, tetapi belum ada feedback target nyata.</td>
 </tr>
 <tr class="odd">
 <td>Agreement, Action &amp; Relationship</td>
-<td style="text-align: right;">—</td>
-<td>—</td>
+<td style="text-align: right;">1</td>
+<td>Belum ada konfirmasi pemahaman atau agreement dengan target.</td>
 </tr>
 </tbody>
 </table>
-<p><strong>Total:</strong> — / 20</p>
+<p><strong>Total:</strong> 15 / 20</p>
 <section id="assessment-dosen" class="level3 assessor-only">
 <h3 class="anchored" data-anchor-id="assessment-dosen">Assessment dosen</h3>
 <p><strong>Skor:</strong> — / 20<br>
 <strong>Evidence yang mendukung:</strong> —<br>
-<strong>Prioritas perbaikan:</strong> —<br>
-<strong>Keputusan:</strong> Belum dinilai / Perlu revisi / Tercapai</p>
+<strong>Prioritas perbaikan:</strong> Uji sedikitnya satu versi kepada target nyata dan lampirkan feedback serta revisinya.<br>
+<strong>Keputusan:</strong> Belum dinilai</p>
 </section>
 
 

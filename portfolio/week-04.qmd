@@ -1,8 +1,8 @@
 ---
 title: "Five-Language Translation Portfolio"
 week: 4
-status: "Belum dimulai"
-self_score: "—"
+status: "Draft evidence"
+self_score: "15"
 assessor_score: "—"
 description: "Satu meaning untuk lima person atau character."
 categories: [Fondasi, Language]
@@ -39,58 +39,115 @@ Jangan menambahkan fakta baru hanya agar pesan terdengar lebih meyakinkan. Jika 
 
 ## Core meaning
 
-**Konteks pesan:** [Situasi yang melatarbelakangi pesan.]
+**Konteks pesan:** Saya menjelaskan konsep jaringan komputer kepada lima audiens dengan latar belakang dan kebutuhan berbeda. Konsep ini dipilih karena sesuai dengan bidang Sistem dan Teknologi Informasi dan memiliki banyak istilah teknis yang perlu diterjemahkan ke bahasa sehari-hari.
 
-**Fakta yang tidak boleh berubah:** [Tuliskan fakta objektif, termasuk tanggal, waktu, lokasi, status, atau angka jika relevan.]
+**Fakta yang tidak boleh berubah:** Jaringan komputer menghubungkan dua atau lebih perangkat melalui koneksi kabel atau nirkabel. Perangkat tersebut berkomunikasi menggunakan protokol, bertukar data, dan berbagi sumber daya. Data dapat dibagi menjadi paket, diberi alamat tujuan, lalu diarahkan melalui perangkat seperti switch dan router.
 
-**Dampak bagi target:** [Siapa yang terdampak dan bagaimana dampaknya?]
+**Dampak bagi target:** Semua target membutuhkan pemahaman yang berbeda: anak-anak membutuhkan gambaran konkret, sahabat membutuhkan penjelasan santai, rekan teknis membutuhkan presisi, manajer membutuhkan dampak bisnis, dan publik membutuhkan hubungan dengan layanan digital serta keamanan data.
 
-**Action yang diharapkan:** [Apa yang perlu dilakukan oleh penerima pesan?]
+**Action yang diharapkan:** Penerima memahami fungsi dasar jaringan komputer dan dapat menghubungkannya dengan kebutuhan mereka, tanpa mengubah fakta inti atau menyimpulkan bahwa semua masalah jaringan memiliki solusi yang sama.
 
-**Batasan penting:** [Informasi yang tidak boleh dihilangkan, klaim yang belum pasti, atau batasan privasi.]
+**Batasan penting:** Lima versi harus mempertahankan makna inti yang sama. Penyederhanaan untuk anak-anak dan publik tidak boleh mengubah konsep. Istilah teknis seperti IP address, router, packet, dan protokol digunakan hanya ketika relevan. Definisi diperiksa menggunakan IBM Think dan istilah TCP diperiksa menggunakan RFC 9293 dari IETF.
 
 | Target/character | Versi language | Alasan adaptasi |
 |---|---|---|
-| **Friend** | [Tulis pesan yang personal, ringkas, dan sesuai kedekatan hubungan.] | [Apa yang diubah dalam nada, sapaan, dan detail? Mengapa?] |
-| **Technical peer** | [Gunakan istilah teknis yang diperlukan dan detail operasional.] | [Detail teknis apa yang perlu dipertahankan? Apa yang tidak perlu?] |
-| **Manager** | [Tekankan impact, risiko, pilihan, rekomendasi, atau keputusan yang dibutuhkan.] | [Mengapa versi ini berfokus pada dampak dan decision point?] |
-| **Customer/user** | [Jelaskan dampak dan langkah yang harus dilakukan tanpa jargon internal.] | [Bagaimana Anda membuat instruksi mudah dipahami dan dijalankan?] |
-| **Public** | [Berikan konteks minimum yang penting bagi audiens luas.] | [Informasi apa yang sengaja tidak dimasukkan demi relevansi atau privasi?] |
+| **Friend** | Jaringan komputer itu sederhananya cara supaya laptop, HP, printer, dan perangkat lain bisa ngobrol dan berbagi data. Saat kita mengirim file lewat Wi-Fi, file itu berjalan menuju perangkat teman dengan bantuan alamat dan aturan komunikasi. Kalau koneksi lambat atau putus, data bisa lebih lama sampai atau harus dikirim ulang. | Bahasa dibuat santai, memakai contoh laptop, HP, printer, dan Wi-Fi, serta menghindari istilah akademis agar terasa seperti percakapan biasa. |
+| **Technical peer** | Computer network terdiri dari node yang berkomunikasi melalui protocol stack, umumnya TCP/IP. Data aplikasi dienkapsulasi menjadi packet dan dikirim berdasarkan addressing pada IP layer. Switch meneruskan frame di dalam LAN berdasarkan MAC address, sedangkan router meneruskan packet antar-network berdasarkan routing table. TCP menyediakan delivery yang andal dan flow control; UDP memiliki overhead serta latency yang lebih rendah tanpa jaminan delivery. Kinerja jaringan dapat dilihat dari throughput, latency, packet loss, dan availability. | Jargon, singkatan, dan parameter teknis dipertahankan karena target membutuhkan efisiensi dan presisi, bukan analogi panjang. |
+| **Manager** | Jaringan komputer adalah fondasi agar sistem dan karyawan dapat mengakses aplikasi, berbagi data, dan melayani pelanggan. Investasi pada jaringan yang stabil dan aman dapat mengurangi downtime dan mempercepat kolaborasi. Biaya perangkat, koneksi, pemeliharaan, dan keamanan perlu dibandingkan dengan risiko gangguan operasional, kehilangan data, dan layanan yang tidak dapat diakses. | Fokus dialihkan ke nilai bisnis, downtime, risiko, biaya, pemantauan performa, dan cadangan koneksi karena target membutuhkan dasar pengambilan keputusan. |
+| **Customer/user** | Jaringan komputer adalah penghubung yang membuat kita bisa mengirim pesan, mengikuti kelas daring, melakukan pembayaran, menonton video, dan memakai layanan digital. Router membantu data menemukan tujuan, sedangkan aturan komunikasi membantu perangkat saling memahami. Gunakan kata sandi yang kuat, perbarui perangkat, dan berhati-hati saat memakai Wi-Fi publik. | Penjelasan menggunakan dampak langsung dan tindakan yang bisa dilakukan pengguna, tanpa jargon internal atau detail implementasi yang tidak diperlukan. |
+| **Public** | Jaringan komputer adalah penghubung yang membuat berbagai layanan digital dapat digunakan dalam kehidupan sehari-hari. Jaringan yang baik harus cukup cepat, dapat diandalkan, dan dilindungi agar data pribadi tidak mudah disalahgunakan. | Informasi teknis yang terlalu rinci dihilangkan agar relevan bagi masyarakat luas; fokusnya adalah kemudahan, keamanan, dan kebiasaan penggunaan yang bertanggung jawab. |
 
-**Pemeriksaan konsistensi:** [Bandingkan kelima versi. Jelaskan bahwa fakta inti, dampak utama, dan action tetap sama.] 
+**Pemeriksaan konsistensi:** Kelima versi tetap menyampaikan bahwa jaringan menghubungkan perangkat untuk bertukar data melalui aturan komunikasi. Perbedaannya hanya pada tingkat detail, gaya bahasa, analogi, fokus bisnis, dan tindakan praktis. Tidak ada versi yang mengubah fungsi dasar jaringan atau menambahkan klaim bahwa jaringan selalu aman dan bebas gangguan.
 
 ## Evidence understanding dan adaptasi
 
-**Target yang diuji:** [Friend/technical peer/manager/customer/public dan hubungan Anda dengan target.]
+**Target yang diuji:** Belum ada target nyata yang diuji. LK Bab 4 baru berisi lima draf dan refleksi mandiri.
 
-**Metode uji:** [Percakapan langsung, pesan tertulis, email, simulasi, atau cara lain. Pastikan ada izin jika merekam.]
+**Metode uji:** Belum dilakukan. Uji yang disarankan adalah meminta seorang sahabat dari bidang berbeda membaca versi sahabat atau publik, lalu menjelaskan kembali makna dan tindakan yang ia pahami.
 
-**Pertanyaan pemahaman:** [Apa yang Anda tanyakan untuk memeriksa apakah target memahami makna dan action?]
+**Pertanyaan pemahaman:** Belum ditanyakan. Pertanyaan yang akan digunakan: “Menurutmu, apa inti jaringan komputer dari penjelasan ini?” dan “Apa yang bisa dilakukan atau dipahami setelah membaca pesan ini?”
 
-**Response target:** [Apa yang target pahami? Bagian mana yang membingungkan atau ditanyakan?]
+**Response target:** Belum tersedia karena belum ada uji pemahaman kepada target.
 
-**Adaptasi setelah feedback:** [Kalimat apa yang Anda ubah dan mengapa?]
+**Adaptasi setelah feedback:** Belum dilakukan. Setelah feedback tersedia, saya akan mengubah bagian yang disalahpahami tanpa mengubah fakta inti.
 
-**Hasil setelah adaptasi:** [Apakah target kemudian memahami fakta, dampak, dan action yang benar? Sertakan bukti.] 
+**Hasil setelah adaptasi:** Belum tersedia. Bukti yang perlu ditambahkan adalah respons target sebelum dan sesudah revisi.
 
 ## Analisis dan batas
 
-**Perubahan repertoire:** [Jelaskan perubahan dari pesan personal, teknis, decision brief, service instruction, hingga public announcement.]
+**Perubahan repertoire:** Repertoire bergerak dari analogi bertukar kartu untuk anak-anak, bahasa santai untuk sahabat, jargon TCP/IP dan metrik jaringan untuk rekan teknis, decision brief berbasis risiko untuk manajer, hingga penjelasan dampak dan keamanan untuk publik.
 
-**Risiko salah tafsir:** [Versi mana yang paling berisiko disalahpahami dan bagaimana Anda menguranginya?]
+**Risiko salah tafsir:** Versi anak-anak paling berisiko menyederhanakan jaringan secara berlebihan, sedangkan versi teknis berisiko tidak dipahami oleh audiens nonteknis. Risiko dikurangi dengan mempertahankan hubungan pengirim-penerima, alamat, aturan, dan tujuan data pada versi sederhana, serta membatasi jargon pada versi teknis.
 
-**Batas adaptasi:** [Jelaskan bagian yang tidak boleh berubah dan alasan etis/akurasi/privasi di baliknya.]
+**Batas adaptasi:** Fungsi dasar jaringan, peran protokol, dan hubungan antara perangkat serta data tidak boleh berubah. Saya tidak boleh mengklaim bahwa router menjamin keamanan atau bahwa TCP selalu membuat koneksi bebas masalah. Batas ini menjaga akurasi teknis dan mencegah pembaca mengambil keputusan berdasarkan informasi yang berlebihan.
 
 ## Bukti yang dilampirkan
 
-- [ ] Lima draf atau screenshot versi pesan.
+- [x] Lima draf versi pesan pada LK Bab 4.
 - [ ] Feedback atau konfirmasi pemahaman dari sedikitnya satu target.
 - [ ] Revisi sebelum dan sesudah feedback.
 - [ ] Catatan observer atau hasil simulasi.
-- [ ] Bukti lain: [jelaskan].
+- [x] Sumber definisi IBM Think dan RFC 9293 dari IETF.
 
-**Kontribusi saya:** [Bagian yang Anda susun, uji, revisi, dan putuskan sendiri.]
+**Kontribusi saya:** Saya memilih konsep jaringan komputer, menyusun kebenaran inti, menguraikan jargon, menulis lima versi bahasa, menjelaskan alasan adaptasi, menulis refleksi, dan memeriksa istilah terhadap sumber referensi. Uji pemahaman dengan target nyata dan revisi berdasarkan feedback belum dilakukan.
 
 Pada bagian `Analisis komunikasi` di bawah, jelaskan lima target sebagai `Person & character`, konsistensi core meaning sebagai `Objective & state`, pilihan bahasa sebagai `Repertoire & language`, hasil uji sebagai `Response & adaptation`, dan feedback/action sebagai `Agreement, Action & Relationship`.
 
-{{< include ../includes/evidence-template.md >}}
+## Konteks performance
+
+**Tanggal dan setting:** Draf disusun pada 28 September 2026 berdasarkan LK Bab 4. Konsep jaringan komputer diterjemahkan ke lima konteks audiens melalui tulisan dan refleksi mandiri.
+
+**Persons dan relationship:** Lima target komunikasi adalah anak-anak, sahabat dari bidang berbeda, rekan teknis satu program studi, manajer atau pengambil keputusan, dan publik umum. Draf ini belum diuji kepada orang nyata.
+
+**Objective dan initial state:** Objective saya adalah menjaga satu core meaning tentang jaringan komputer sambil menyesuaikan repertoire dan language. Initial state saya adalah memiliki definisi teknis dan jargon, tetapi belum memiliki feedback pemahaman dari target.
+
+## Evidence
+
+- Lima versi penjelasan jaringan komputer pada bagian matriks di atas.
+- Daftar jargon dan arti sederhananya.
+- Rujukan IBM Think dan IETF RFC 9293.
+- Refleksi tentang kesulitan membuat versi anak-anak.
+- Feedback target dan revisi belum tersedia.
+
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| Person & character | Lima audiens dibedakan berdasarkan pengetahuan, kebutuhan, dan peran mereka. Anak-anak membutuhkan analogi konkret; sahabat membutuhkan bahasa akrab; rekan teknis membutuhkan presisi; manajer membutuhkan dampak dan risiko; publik membutuhkan manfaat serta keamanan. |
+| Objective & state | Core meaning tetap menghubungkan perangkat untuk bertukar data dan berbagi sumber daya melalui aturan komunikasi. Draf awal yang teknis diubah menjadi lima versi dengan tingkat detail berbeda, tanpa mengganti tujuan penjelasan. |
+| Repertoire & language | Repertoire berubah dari analogi bertukar kartu, contoh Wi-Fi, istilah TCP/IP dan metrik, decision brief, hingga imbauan keamanan publik. Penggunaan AI dicatat dan istilah diperiksa terhadap sumber. |
+| Response & adaptation | Adaptasi sudah dilakukan berdasarkan perbedaan profil audiens dan refleksi mandiri, tetapi belum diuji dengan response target nyata. Karena itu, klaim keberhasilan pemahaman masih bersifat sementara. |
+| Agreement, Action & Relationship | Action yang diharapkan adalah target memahami inti jaringan sesuai kebutuhannya. Belum ada agreement atau feedback target; langkah berikutnya adalah menguji satu versi dan merevisi berdasarkan pemahaman target. |
+| Relationship outcome | Draf berusaha mengurangi jarak pengetahuan dan menghindari audiens merasa digurui. Dampak hubungan belum dapat dinilai karena belum ada interaksi uji yang terdokumentasi. |
+## Penggunaan AI
+
+Saya menggunakan GitHub Copilot untuk membantu menyusun variasi bahasa bagi lima audiens dan memeriksa perbedaan formalitas serta detail. Prompt yang digunakan meminta penjelasan jaringan komputer untuk anak-anak, sahabat, rekan teknis, manajer, dan publik dengan core meaning yang tetap sama. Saya menggunakan output sebagai bahan draf, memeriksa definisi dan istilah terhadap IBM Think serta RFC 9293, dan mengubah kalimat agar sesuai dengan bahasa sehari-hari. Saya tidak memasukkan data pribadi. Pemahaman konsep, pemilihan fakta, dan keputusan akhir tetap menjadi tanggung jawab saya.
+
+## Feedback dan tindak lanjut
+
+**Feedback yang diterima:** Belum ada feedback understanding dari target nyata. Refleksi mandiri menunjukkan bahwa versi anak-anak paling sulit karena istilah IP address, router, dan packet bersifat abstrak.
+
+**Adaptation/replay:** Setelah mendapatkan target uji, saya akan menanyakan kembali inti dan action yang dipahami, lalu memperbaiki istilah atau analogi yang membingungkan. Revisi belum dilakukan karena feedback eksternal belum tersedia.
+
+**Next practice:** Saya akan meminta satu sahabat dari bidang berbeda membaca versi sahabat atau publik, mencatat pemahamannya tanpa memberi penjelasan tambahan, lalu memperbaiki draf berdasarkan bagian yang tidak dipahami.
+
+## Self-assessment
+
+| Dimensi | Skor 1-4 | Evidence singkat |
+|---|---:|---|
+| Person & Character | 4 | Lima audiens dibedakan berdasarkan kebutuhan dan tingkat pengetahuan. |
+| Objective & State | 4 | Core meaning jaringan komputer dijaga di lima versi. |
+| Repertoire, Language & AI | 4 | Analogi, bahasa santai, jargon teknis, decision brief, dan bahasa publik digunakan sesuai target; AI dan pemeriksaan sumber dicatat. |
+| Response & Adaptation | 2 | Adaptasi berdasarkan profil audiens sudah ada, tetapi belum ada feedback target nyata. |
+| Agreement, Action & Relationship | 1 | Belum ada konfirmasi pemahaman atau agreement dengan target. |
+
+**Total:** 15 / 20
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** Uji sedikitnya satu versi kepada target nyata dan lampirkan feedback serta revisinya.  
+**Keputusan:** Belum dinilai
+:::

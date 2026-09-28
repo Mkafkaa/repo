@@ -40,60 +40,58 @@ Gunakan nama samaran atau inisial. Jangan merekam percakapan sensitif tanpa izin
 
 ## Konteks dan relationship state
 
-**Person/partner:** [Nama samaran atau inisial dan hubungan Anda dengan orang tersebut.]
+**Person/partner:** Keluarga saya; nama dan identitas tidak dicantumkan.
 
-**Situasi pemicu:** [Apa yang terjadi? Tuliskan kejadian spesifik, bukan label seperti “dia tidak menghargai saya”.]
+**Situasi pemicu:** Pada 29 Mei 2026 sekitar pukul 07.00, setelah mengerjakan Tugas Besar Algoritma Pemrograman 1 sepanjang malam sampai sekitar pukul 06.30, saya menolak ikut perjalanan keluarga karena perlu tidur dan memulihkan kondisi.
 
-**Pola komunikasi sebelum percakapan:** [Apa yang biasanya Anda dan partner lakukan ketika masalah ini muncul?]
+**Pola komunikasi sebelum percakapan:** Pola komunikasi saya dengan orang tua biasa saja, seperti komunikasi sehari-hari antara anak dan orang tua. Tidak ada konflik khusus yang dilaporkan sebelum percakapan ini.
 
-**State sebelum percakapan:** [Jelaskan tingkat kepercayaan, ketegangan, kebutuhan yang belum tersampaikan, dan skor ketegangan 1-10 jika membantu.]
+**State sebelum percakapan:** Saya berada dalam kondisi sangat lelah setelah begadang mengerjakan tubes dan membutuhkan tidur. Tingkat ketegangan biasa saja karena percakapan ini merupakan percakapan normal sehari-hari, bukan konflik. Orang tua saya kemudian menunjukkan keprihatinan terhadap kondisi tersebut.
 
-**Objective saya:** [Hasil percakapan yang ingin dicapai, misalnya menyepakati quiet hours, meminta klarifikasi, menyampaikan boundary, atau memperbaiki pesan sebelumnya.]
+**Objective saya:** Menyampaikan bahwa saya tidak dapat ikut perjalanan dengan jelas dan sopan, agar keluarga dapat tetap berangkat tanpa menunggu saya dan memahami bahwa keputusan tersebut berkaitan dengan kondisi fisik setelah deadline.
 
-**Hal yang perlu saya jaga:** [Relationship value, kebutuhan partner, privasi, atau batas keselamatan yang relevan.]
+**Hal yang perlu saya jaga:** Hubungan baik dengan keluarga, penyampaian yang hormat, kejelasan rencana keberangkatan, dan kebutuhan istirahat setelah bekerja sepanjang malam.
 
 ## Rencana komunikasi
 
-**Observasi tanpa label:** [Kalimat yang hanya menyebut perilaku/waktu/dampak yang dapat diamati.]
+**Observasi tanpa label:** “Saya baru menyelesaikan tubes sekitar pukul 06.30 setelah mengerjakannya sepanjang malam, sementara perjalanan keluarga berangkat pukul 07.00.”
 
-**Kebutuhan saya:** [Kebutuhan atau nilai yang ingin Anda lindungi, misalnya istirahat, kejelasan, rasa hormat, atau waktu fokus.]
+**Kebutuhan saya:** Saya membutuhkan tidur dan pemulihan fisik agar tidak memaksakan diri setelah menyelesaikan deadline.
 
-**Boundary:** [Batas yang dapat Anda tetapkan dan tindakan yang akan Anda ambil jika batas tersebut tidak dihormati.]
+**Boundary:** Saya tidak ikut perjalanan pukul 07.00 setelah bekerja semalaman; saya akan tetap di tempat untuk tidur dan memulihkan kondisi.
 
-**Request:** [Permintaan konkret yang dapat dijawab, dinegosiasikan, atau ditolak oleh partner.]
+**Request:** Saya menyampaikan bahwa saya tidak dapat ikut pergi dan membutuhkan istirahat. Saya tidak mengajukan permintaan tambahan secara eksplisit karena sedang sangat kelelahan.
 
-**Rencana repair bila diperlukan:** [Bagaimana Anda akan mengakui bagian Anda dalam masalah atau memperbaiki pesan yang kurang tepat?]
+**Rencana repair bila diperlukan:** Jika penyampaian saya terdengar terlalu singkat atau membuat keluarga merasa diabaikan, saya akan mengakui hal tersebut, menjelaskan kondisi saya tanpa menyalahkan keluarga, dan menawarkan waktu untuk berkomunikasi setelah saya cukup beristirahat.
 
 ## Potongan transcript atau catatan percakapan
 
 Tulis bagian yang menunjukkan observasi, listening, paraphrase, kebutuhan, boundary, request, respons partner, dan repair. Jika menggunakan catatan ringkas, beri label `catatan`, bukan transcript verbatim.
 
-> **Saya:** “[Observasi spesifik tanpa menyalahkan atau memberi label karakter.]”  
-> **Partner:** “[Respons, kebutuhan, alasan, atau perspektif partner.]”  \
-> **Saya:** “[Paraphrase untuk memeriksa pemahaman.]”  \
-> **Partner:** “[Koreksi atau konfirmasi terhadap paraphrase.]”  \
-> **Saya:** “[Kebutuhan, boundary, dan request saya.]”  \
-> **Partner:** “[Respons atau usulan partner.]”
+> **Ringkasan percakapan:**  
+> **Saya:** “Mah, Pah, kayaknya aku enggak bisa ikut pergi deh, karena aku kecapekan mengerjakan tubes semalaman.”  \
+> **Orang tua:** “Ya sudah, kalau kamu kecapekan, istirahat di rumah saja sekalian menemani Eyang.”  \
+> Setelah itu, saya berpamitan kepada orang tua dan pergi ke kamar untuk tidur.
 
-**Bukti listening:** [Kalimat paraphrase, pertanyaan klarifikasi, atau tindakan mendengar yang Anda gunakan.]
+**Bukti listening:** Saya tidak mengajukan pertanyaan atau melakukan paraphrase karena benar-benar kelelahan. Namun, saya mendengar respons orang tua yang menunjukkan bahwa mereka memahami kondisi saya dan merasa prihatin.
 
-**Bukti boundary:** [Kalimat yang menyebut batas, waktu, kondisi, dan tindakan Anda secara jelas.]
+**Bukti boundary:** Saya menyampaikan bahwa saya tidak ikut perjalanan pukul 07.00 karena baru menyelesaikan tubes dan perlu tidur.
 
-**Bukti request:** [Permintaan spesifik yang Anda ajukan.]
+**Bukti request:** Saya tidak mengajukan request terpisah. Saya menyampaikan kebutuhan dan batas secara langsung melalui kalimat bahwa saya tidak bisa ikut pergi karena kelelahan. Orang tua kemudian mengusulkan agar saya beristirahat di rumah dan menemani Eyang.
 
-**Bukti repair:** [Tuliskan kalimat repair jika ada. Jika tidak ada, jelaskan mengapa repair tidak diperlukan.]
+**Bukti repair:** Belum ada bukti repair yang tercatat dalam Minggu 1. Jika tidak terjadi repair, tuliskan bahwa tidak ada kesalahan komunikasi yang disadari atau jelaskan bagian yang masih perlu diperbaiki.
 
 ## Agreement dan relationship outcome
 
-**Agreement yang dicapai:** [Apa yang disepakati? Sertakan siapa melakukan apa, kapan, dan pengecualian jika ada.]
+**Agreement yang dicapai:** Saya tidak ikut pergi dan beristirahat di rumah, sekaligus menemani Eyang. Orang tua memahami keputusan tersebut dan tidak memaksa saya ikut perjalanan.
 
-**Hal yang belum disepakati:** [Perbedaan atau risiko yang masih perlu dibicarakan.]
+**Hal yang belum disepakati:** Tidak ada perbedaan atau konflik yang dilaporkan dalam percakapan ini. Waktu check-in setelah saya bangun dan kondisi hubungan setelah percakapan belum dicatat.
 
-**Check-in:** [Kapan dan bagaimana Anda memeriksa apakah agreement berjalan?]
+**Check-in:** Setelah bangun, saya melanjutkan review tubes dan bersiap mengikuti Welcoming Party GDGoC secara daring. Ini merupakan tindak lanjut pribadi, bukan check-in khusus dengan orang tua. Saya belum melakukan check-in khusus untuk menanyakan kondisi atau perasaan orang tua setelah percakapan.
 
-**State setelah percakapan:** [Jelaskan perubahan kepercayaan, ketegangan, kejelasan, atau kenyamanan. Bedakan self-report Anda dari fakta yang dapat diverifikasi.] 
+**State setelah percakapan:** Saya dapat beristirahat di kamar dan menemani Eyang. Setelah bangun, saya melanjutkan review tubes dan bersiap mengikuti Welcoming Party GDGoC secara daring. Berdasarkan respons langsung orang tua, percakapan berakhir tanpa paksaan atau konflik yang dilaporkan. Perubahan jangka panjang pada kepercayaan dan ketegangan hubungan belum dapat disimpulkan.
 
-**Respons partner setelah percakapan:** [Apa yang partner lakukan atau katakan setelah agreement?]
+**Respons partner setelah percakapan:** Orang tua langsung memahami kondisi saya, menunjukkan keprihatinan karena saya kelelahan, dan menyarankan agar saya beristirahat di rumah sambil menemani Eyang.
 
 ## Evidence dan refleksi
 
@@ -104,16 +102,28 @@ Tulis bagian yang menunjukkan observasi, listening, paraphrase, kebutuhan, bound
 - [ ] Catatan perbandingan relationship state sebelum dan sesudah.
 - [ ] Bukti lain: [jelaskan].
 
-**Apa yang berhasil:** [Tindakan atau kalimat yang membantu listening, clarity, boundary, request, atau repair.]
+**Apa yang berhasil:** Saya menetapkan batas dengan menghubungkan keputusan tidak ikut perjalanan pada fakta yang jelas: tubes baru selesai setelah bekerja semalaman dan saya membutuhkan tidur.
 
-**Apa yang perlu diperbaiki:** [Bagian ketika Anda membuat asumsi, menyela, terlalu umum, defensif, atau kurang jelas.]
+**Apa yang perlu diperbaiki:** Karena kondisi saya sangat lelah, saya tidak sempat mengajukan pertanyaan atau melakukan paraphrase. Dalam situasi serupa, setelah kondisi lebih tenang saya dapat melakukan check-in untuk memastikan kebutuhan dan perasaan keluarga juga terdengar.
 
-**Next practice:** [Satu perilaku spesifik yang akan Anda latih pada percakapan berikutnya.]
+**Next practice:** Dalam percakapan berikutnya, saya akan menyebutkan observasi, kebutuhan, batas, dan permintaan secara berurutan, lalu menanyakan kembali apakah partner memahami alasan saya sebelum mengakhiri percakapan.
 
 Pada bagian `Analisis komunikasi` di bawah, gunakan `Person & character` untuk menjelaskan kebutuhan kedua pihak, `Objective & state` untuk membandingkan kondisi sebelum dan sesudah, `Repertoire & language` untuk menganalisis observasi/paraphrase/boundary/request, `Response & adaptation` untuk menjelaskan penyesuaian Anda, dan `Agreement, Action & Relationship` untuk menjelaskan hasil serta check-in.
 
 ## Penggunaan AI dan privasi
 
 Tuliskan `Tidak menggunakan AI` jika memang tidak menggunakan AI. Jika menggunakan AI, jelaskan alat dan perannya tanpa mengunggah identitas atau isi percakapan sensitif. Jelaskan bagian yang digunakan, diubah, atau ditolak, serta cara Anda memeriksa akurasi dan menjaga privasi.
+
+## Analisis komunikasi sementara
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| Person & character | Saya bertindak sebagai anggota keluarga yang perlu menjaga hubungan, sekaligus mahasiswa yang bertanggung jawab terhadap deadline dan kondisi fisik. Orang tua berperan sebagai pihak yang memperhatikan kondisi saya dan menerima kebutuhan saya untuk beristirahat. |
+| Objective & state | Objective saya adalah menyelesaikan tubes dan menyampaikan ketidakikutsertaan dengan jelas. State awal: tugas selesai setelah bekerja semalaman; state setelahnya: saya tidak ikut perjalanan dan perlu tidur. |
+| Repertoire & language | Saya menggunakan bahasa langsung, santai, dan sopan: “Mah, Pah, kayaknya aku enggak bisa ikut pergi deh, karena aku kecapekan mengerjakan tubes semalaman.” Saya tidak menggunakan pertanyaan atau paraphrase karena kelelahan. |
+| Response & adaptation | Saya memilih tidak ikut perjalanan setelah deadline, tetapi tetap menghadiri kegiatan GDGoC pukul 13.00. Keputusan menghadiri kegiatan itu perlu dievaluasi karena saya belum tidur. |
+| Agreement, Action & Relationship | Saya memberi tahu orang tua, berpamitan, lalu tidur di kamar dan menemani Eyang. Orang tua menerima keputusan tersebut tanpa konflik yang dilaporkan. Check-in lanjutan belum tercatat, sehingga dampak jangka panjang pada hubungan belum dapat dinilai. |
+
+**Informasi yang masih diperlukan untuk menuntaskan Minggu 3:** hasil check-in khusus dengan orang tua setelah saya tidur dan tingkat ketegangan sesudah percakapan jika ingin dilaporkan dengan skor. Transcript lengkap tidak wajib karena ringkasan percakapan sudah tersedia.
 
 {{< include ../includes/evidence-template.md >}}
