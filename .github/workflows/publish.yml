@@ -17,10 +17,15 @@ jobs:
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
+      - name: Initialize gh-pages branch
+        run: |
+          if ! git ls-remote --exit-code --heads origin gh-pages; then
+            git push origin HEAD:gh-pages
+          fi
+
       - name: Render and publish
         uses: quarto-dev/quarto-actions/publish@v2
         with:
           target: gh-pages
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
