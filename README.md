@@ -59,7 +59,8 @@ quarto render
 ## GitHub Pages
 
 Workflow akan merender dan menerbitkan situs ke branch `gh-pages` setiap ada
-push ke `main`. Pastikan GitHub Actions memiliki izin menulis ke repository.
+push ke `main` dan akan membuat branch `gh-pages` secara otomatis jika belum ada.
+Pastikan GitHub Actions memiliki izin menulis ke repository.
 Setelah workflow pertama selesai, periksa **Settings → Pages** dan pastikan
 branch `gh-pages` digunakan sebagai sumber publikasi.
 
