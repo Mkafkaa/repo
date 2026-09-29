@@ -71,7 +71,7 @@ Jangan menambahkan fakta baru hanya agar pesan terdengar lebih meyakinkan. Jika 
 
 **Feedback dari target:** Teman saya memberikan feedback bahwa versi sahabat cukup mudah dipahami dan memberikan informasi yang relevan. Namun, ia menyarankan agar penjelasan lebih detail tentang bagaimana protokol bekerja.
 
-**Revisi berdasarkan feedback:** Saya akan menambahkan penjelasan yang lebih detail tentang bagaimana protokol bekerja, termasuk contoh-contoh praktis dan ilustrasi yang membantu memahami konsep tersebut.
+**Revisi berdasarkan feedback:** Revisi tertulis belum dilakukan. Rencana revisinya adalah menambahkan penjelasan singkat tentang bagaimana protokol bekerja, disertai satu contoh praktis, tanpa mengubah core meaning jaringan komputer.
 
 ## Analisis dan batas
 
@@ -84,12 +84,12 @@ Jangan menambahkan fakta baru hanya agar pesan terdengar lebih meyakinkan. Jika 
 ## Bukti yang dilampirkan
 
 - [x] Lima draf versi pesan pada LK Bab 4.
-- [ ] Feedback atau konfirmasi pemahaman dari sedikitnya satu target.
-- [ ] Revisi sebelum dan sesudah feedback.
+- [x] Feedback atau konfirmasi pemahaman dari sedikitnya satu target.
+- [ ] Revisi sebelum dan sesudah feedback; revisi tertulis belum dibuat.
 - [ ] Catatan observer atau hasil simulasi.
 - [x] Sumber definisi IBM Think dan RFC 9293 dari IETF.
 
-**Kontribusi saya:** Saya memilih konsep jaringan komputer, menyusun kebenaran inti, menguraikan jargon, menulis lima versi bahasa, menjelaskan alasan adaptasi, menulis refleksi, dan memeriksa istilah terhadap sumber referensi. Uji pemahaman dengan target nyata dan revisi berdasarkan feedback belum dilakukan.
+**Kontribusi saya:** Saya memilih konsep jaringan komputer, menyusun kebenaran inti, menguraikan jargon, menulis lima versi bahasa, menjelaskan alasan adaptasi, menulis refleksi, dan memeriksa istilah terhadap sumber referensi. Uji pemahaman dengan satu teman sudah dilakukan; revisi tertulis berdasarkan feedback belum dibuat.
 
 Pada bagian `Analisis komunikasi` di bawah, jelaskan lima target sebagai `Person & character`, konsistensi core meaning sebagai `Objective & state`, pilihan bahasa sebagai `Repertoire & language`, hasil uji sebagai `Response & adaptation`, dan feedback/action sebagai `Agreement, Action & Relationship`.
 
@@ -97,7 +97,7 @@ Pada bagian `Analisis komunikasi` di bawah, jelaskan lima target sebagai `Person
 
 **Tanggal dan setting:** Draf disusun pada 28 September 2026 berdasarkan LK Bab 4. Konsep jaringan komputer diterjemahkan ke lima konteks audiens melalui tulisan dan refleksi mandiri.
 
-**Persons dan relationship:** Lima target komunikasi adalah anak-anak, sahabat dari bidang berbeda, rekan teknis satu program studi, manajer atau pengambil keputusan, dan publik umum. Draf ini belum diuji kepada orang nyata.
+**Persons dan relationship:** Lima target komunikasi adalah anak-anak, sahabat dari bidang berbeda, rekan teknis satu program studi, manajer atau pengambil keputusan, dan publik umum. Uji pemahaman yang terdokumentasi dilakukan kepada satu teman; empat target lain masih berupa simulasi.
 
 **Objective dan initial state:** Objective saya adalah menjaga satu core meaning tentang jaringan komputer sambil menyesuaikan repertoire dan language. Initial state saya adalah memiliki definisi teknis dan jargon, tetapi belum memiliki feedback pemahaman dari target.
 
@@ -107,7 +107,7 @@ Pada bagian `Analisis komunikasi` di bawah, jelaskan lima target sebagai `Person
 - Daftar jargon dan arti sederhananya.
 - Rujukan IBM Think dan IETF RFC 9293.
 - Refleksi tentang kesulitan membuat versi anak-anak.
-- Feedback target dan revisi belum tersedia.
+- Feedback target tersedia dari satu teman; revisi sebelum dan sesudah feedback belum dilampirkan.
 
 ## Analisis komunikasi
 
@@ -138,8 +138,8 @@ Saya menggunakan GitHub Copilot untuk membantu menyusun variasi bahasa bagi lima
 | Person & Character | 4 | Lima audiens dibedakan berdasarkan kebutuhan dan tingkat pengetahuan. |
 | Objective & State | 4 | Core meaning jaringan komputer dijaga di lima versi. |
 | Repertoire, Language & AI | 4 | Analogi, bahasa santai, jargon teknis, decision brief, dan bahasa publik digunakan sesuai target; AI dan pemeriksaan sumber dicatat. |
-| Response & Adaptation | 2 | Adaptasi berdasarkan profil audiens sudah ada, tetapi belum ada feedback target nyata. |
-| Agreement, Action & Relationship | 3 | Konfirmasi pemahaman dan agreement dengan target sudah dilakukan, tetapi belum ada feedback yang signifikan. |
+| Response & Adaptation | 3 | Satu teman memberi feedback bahwa versi sahabat mudah dipahami dan menyarankan detail tambahan tentang protokol; revisi tertulis belum dibuat. |
+| Agreement, Action & Relationship | 3 | Teman memahami fungsi dasar jaringan dan memberi saran lanjutan; pengujian pada empat target lain belum dilakukan. |
 
 **Total:** 17 / 20
 

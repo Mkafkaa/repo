@@ -45,7 +45,7 @@ Jika narasumber mengalami kebuntuan selama wawancara, gunakan jenis pertanyaan b
 *   **Nama Samaran:** Jon
 *   **Peran/Pekerjaan Nyata:** Pelaku usaha jual beli diecast.
 *   **Domain Hubungan:** Pelaku usaha yang diwawancarai.
-*   **Konteks Lingkungan:** Wawancara mengenai pengalaman menjual diecast melalui perantara marketplace. Tanggal wawancara belum dicantumkan dan perlu dilengkapi.
+*   **Konteks Lingkungan:** Wawancara pada 22 September 2026 mengenai pengalaman menjual diecast melalui perantara marketplace.
 
 ---
 

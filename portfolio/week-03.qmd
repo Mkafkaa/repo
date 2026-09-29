@@ -1,8 +1,8 @@
 ---
 title: "Relationship Conversation"
 week: 3
-status: "Belum dimulai"
-self_score: "—"
+status: "Draft evidence"
+self_score: "15"
 assessor_score: "—"
 description: "Evidence listening, boundary, request, atau repair."
 categories: [Fondasi, Relationship]
@@ -79,7 +79,7 @@ Tulis bagian yang menunjukkan observasi, listening, paraphrase, kebutuhan, bound
 
 **Bukti request:** Saya tidak mengajukan request terpisah. Saya menyampaikan kebutuhan dan batas secara langsung melalui kalimat bahwa saya tidak bisa ikut pergi karena kelelahan. Orang tua kemudian mengusulkan agar saya beristirahat di rumah dan menemani Eyang.
 
-**Bukti repair:** Belum ada bukti repair yang tercatat dalam Minggu 1. Jika tidak terjadi repair, tuliskan bahwa tidak ada kesalahan komunikasi yang disadari atau jelaskan bagian yang masih perlu diperbaiki.
+**Bukti repair:** Tidak ada repair yang dilakukan karena tidak ada kesalahan komunikasi atau konflik yang dilaporkan dalam percakapan ini. Namun, saya belum melakukan check-in lanjutan untuk memastikan apakah orang tua masih memiliki kebutuhan atau perasaan yang perlu dibicarakan.
 
 ## Agreement dan relationship outcome
 
@@ -87,7 +87,7 @@ Tulis bagian yang menunjukkan observasi, listening, paraphrase, kebutuhan, bound
 
 **Hal yang belum disepakati:** Tidak ada perbedaan atau konflik yang dilaporkan dalam percakapan ini. Waktu check-in setelah saya bangun dan kondisi hubungan setelah percakapan belum dicatat.
 
-**Check-in:** Setelah bangun, saya melanjutkan review tubes dan bersiap mengikuti Welcoming Party GDGoC secara daring. Ini merupakan tindak lanjut pribadi, bukan check-in khusus dengan orang tua. Saya belum melakukan check-in khusus untuk menanyakan kondisi atau perasaan orang tua setelah percakapan.
+**Check-in:** Setelah bangun, saya melanjutkan review tubes dan bersiap mengikuti Welcoming Party GDGoC secara daring. Ini merupakan tindak lanjut pribadi, bukan check-in khusus dengan orang tua. Check-in khusus untuk menanyakan kondisi atau perasaan orang tua setelah percakapan belum dilakukan, sehingga hasil jangka panjangnya belum dapat disimpulkan.
 
 **State setelah percakapan:** Saya dapat beristirahat di kamar dan menemani Eyang. Setelah bangun, saya melanjutkan review tubes dan bersiap mengikuti Welcoming Party GDGoC secara daring. Berdasarkan respons langsung orang tua, percakapan berakhir tanpa paksaan atau konflik yang dilaporkan. Perubahan jangka panjang pada kepercayaan dan ketegangan hubungan belum dapat disimpulkan.
 
@@ -95,12 +95,12 @@ Tulis bagian yang menunjukkan observasi, listening, paraphrase, kebutuhan, bound
 
 ## Evidence dan refleksi
 
-- [ ] Transcript atau catatan percakapan yang dianonimkan.
+- [x] Transcript atau catatan percakapan yang dianonimkan.
 - [ ] Bukti agreement, misalnya pesan konfirmasi atau catatan bersama.
 - [ ] Catatan observer jika menggunakan role-play.
 - [ ] Check-in setelah beberapa hari.
-- [ ] Catatan perbandingan relationship state sebelum dan sesudah.
-- [ ] Bukti lain: [jelaskan].
+- [x] Catatan perbandingan relationship state sebelum dan sesudah berdasarkan respons langsung orang tua.
+- [ ] Bukti lain: belum dilampirkan.
 
 **Apa yang berhasil:** Saya menetapkan batas dengan menghubungkan keputusan tidak ikut perjalanan pada fakta yang jelas: tubes baru selesai setelah bekerja semalaman dan saya membutuhkan tidur.
 
@@ -112,7 +112,7 @@ Pada bagian `Analisis komunikasi` di bawah, gunakan `Person & character` untuk m
 
 ## Penggunaan AI dan privasi
 
-Tuliskan `Tidak menggunakan AI` jika memang tidak menggunakan AI. Jika menggunakan AI, jelaskan alat dan perannya tanpa mengunggah identitas atau isi percakapan sensitif. Jelaskan bagian yang digunakan, diubah, atau ditolak, serta cara Anda memeriksa akurasi dan menjaga privasi.
+AI digunakan untuk membantu menata catatan percakapan ke dalam struktur portfolio. Fakta percakapan, waktu, kondisi saya, dan respons orang tua berasal dari catatan saya sendiri. Saya memeriksa kembali urutan kejadian, menghapus identitas pribadi, dan tidak memasukkan isi percakapan sensitif selain ringkasan yang relevan dengan tugas. Saya tetap bertanggung jawab membedakan observasi, kebutuhan, boundary, request, response, dan relationship outcome.
 
 ## Analisis komunikasi sementara
 
@@ -125,5 +125,17 @@ Tuliskan `Tidak menggunakan AI` jika memang tidak menggunakan AI. Jika menggunak
 | Agreement, Action & Relationship | Saya memberi tahu orang tua, berpamitan, lalu tidur di kamar dan menemani Eyang. Orang tua menerima keputusan tersebut tanpa konflik yang dilaporkan. Check-in lanjutan belum tercatat, sehingga dampak jangka panjang pada hubungan belum dapat dinilai. |
 
 **Informasi yang masih diperlukan untuk menuntaskan Minggu 3:** hasil check-in khusus dengan orang tua setelah saya tidur dan tingkat ketegangan sesudah percakapan jika ingin dilaporkan dengan skor. Transcript lengkap tidak wajib karena ringkasan percakapan sudah tersedia.
+
+## Self-assessment sementara
+
+| Dimensi | Skor 1–4 | Evidence singkat |
+|---|---:|---|
+| Person & Character | 3 | Saya mengenali kebutuhan saya untuk beristirahat dan kebutuhan keluarga untuk mendapat kejelasan rencana. |
+| Objective & State | 3 | Saya menyampaikan batas secara spesifik setelah menyelesaikan tubes dan menjelaskan kondisi fisik saya. |
+| Repertoire, Language & AI | 3 | Saya memakai bahasa langsung, santai, dan sopan, tetapi tidak sempat melakukan pertanyaan atau paraphrase karena kelelahan. |
+| Response & Adaptation | 3 | Saya memilih tidak ikut perjalanan dan beristirahat; check-in lanjutan belum dilakukan. |
+| Agreement, Action & Relationship | 3 | Orang tua menerima keputusan tanpa konflik yang dilaporkan, tetapi bukti agreement dan dampak jangka panjang belum tersedia. |
+
+**Total sementara:** 15 / 20
 
 {{< include ../includes/evidence-template.md >}}

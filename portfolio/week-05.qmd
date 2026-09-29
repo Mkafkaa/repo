@@ -2,7 +2,7 @@
 title: "Professional Discovery Interview"
 week: 5
 status: "Draft evidence"
-self_score: "—"
+self_score: "15"
 assessor_score: "—"
 description: "Discovery menuju shared problem statement."
 categories: [Professional, Discovery]
@@ -117,6 +117,22 @@ Catat bagian yang menunjukkan pengalaman konkret. Jika tidak dapat membagikan tr
 **Adaptasi/replay:** Jika interview diulang, saya akan menanyakan frekuensi masalah, jumlah transaksi yang terdampak, dan perbandingan biaya secara lebih terukur. Saya juga akan meminta izin terlebih dahulu apabila ingin mencatat atau merekam, serta tetap menggunakan pertanyaan terbuka sebelum membahas marketplace tertentu.
 
 **Next step:** Saya akan melengkapi durasi interview dan bukti consent. Jika memungkinkan, saya akan mewawancarai satu atau dua pelaku usaha diecast lain untuk memeriksa apakah masalah biaya admin, keamanan transaksi, dan kepercayaan perantara juga muncul pada pengalaman mereka. Saya juga akan meminta bukti biaya atau riwayat harga yang dapat dibagikan tanpa membuka data sensitif.
+
+## Penggunaan AI dan privasi
+
+AI digunakan untuk membantu menata hasil interview ke dalam struktur portfolio. Fakta tentang Jon, biaya admin, contoh harga, dampak, workaround, dan konfirmasi shared problem statement berasal dari informasi interview yang saya berikan. Saya memeriksa kembali angka, urutan pertanyaan, dan batas evidence; saya juga menggunakan nama samaran serta tidak memasukkan data pribadi yang tidak diperlukan.
+
+## Self-assessment sementara
+
+| Dimensi | Skor 1–4 | Evidence singkat |
+|---|---:|---|
+| Person & Character | 3 | Peran Jon sebagai pelaku usaha dan kebutuhan penjual serta calon pembeli sudah dipetakan. |
+| Objective & State | 3 | Initial assumption berubah setelah biaya admin, profit, dan dampak harga dipahami. |
+| Repertoire, Language & AI | 3 | Pertanyaan discovery, paraphrase, klasifikasi fakta, dan penggunaan AI sudah dijelaskan. |
+| Response & Adaptation | 3 | Rumusan diperbaiki dan dikonfirmasi kepada Jon; interview tambahan belum dilakukan. |
+| Agreement, Action & Relationship | 3 | Jon menyetujui shared problem statement, tetapi consent dan bukti konfirmasi belum dilampirkan. |
+
+**Total sementara:** 15 / 20
 
 Pada bagian `Analisis komunikasi` di bawah, jelaskan perubahan asumsi sebagai `Objective & state`, pertanyaan dan paraphrase sebagai `Repertoire & language`, respons partner sebagai `Response & adaptation`, dan konfirmasi problem statement sebagai `Agreement, Action & Relationship`.
 
