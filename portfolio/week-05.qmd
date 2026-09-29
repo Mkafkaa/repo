@@ -1,7 +1,7 @@
 ---
 title: "Professional Discovery Interview"
 week: 5
-status: "Belum dimulai"
+status: "Draft evidence"
 self_score: "—"
 assessor_score: "—"
 description: "Discovery menuju shared problem statement."
@@ -41,76 +41,82 @@ Satu interview hanya merupakan discovery awal. Jangan mengklaim bahwa masalah te
 
 ## Initial assumption dan rencana discovery
 
-**Orang yang diwawancarai:** [Gunakan nama samaran/inisial dan jelaskan perannya, bukan data pribadi lengkap.]
+**Orang yang diwawancarai:** Jon, nama samaran untuk pelaku usaha jual beli diecast.
 
-**Hubungan dengan saya:** [Misalnya teman sekelas, rekan organisasi, pengguna layanan, atau rekan kerja.]
+**Hubungan dengan saya:** Teman dari Facebook.
 
-**Initial assumption:** [Apa yang Anda kira menjadi masalah sebelum mendengar pengalaman partner?]
+**Initial assumption:** Sebelum interview, saya mengira masalah utama Jon adalah kebutuhan untuk menemukan marketplace baru sebagai tempat menjual diecast.
 
-**Mengapa asumsi ini muncul:** [Pengamatan atau pengalaman apa yang membuat Anda memiliki asumsi tersebut? Bedakan dari fakta interview.] 
+**Mengapa asumsi ini muncul:** Saya mengetahui bahwa Jon menjual diecast melalui marketplace. Karena itu, saya berasumsi bahwa masalahnya terutama berkaitan dengan pilihan tempat berjualan. Ini adalah asumsi awal saya, bukan fakta yang sudah dikonfirmasi sebelum interview.
 
-**Tujuan discovery:** [Hal apa yang ingin Anda pahami atau periksa?]
+**Tujuan discovery:** Saya ingin memahami kejadian konkret saat biaya marketplace memengaruhi harga jual dan profit Jon, dampaknya terhadap calon pembeli, cara yang sudah ia coba, serta kendala yang harus dipertahankan seperti keamanan dan kepercayaan dalam transaksi.
 
 **Pertanyaan utama:**
 
-1. [Minta partner menceritakan kejadian terakhir secara spesifik.]
-2. [Pada langkah atau bagian mana kesulitan muncul?]
-3. [Apa dampak masalah tersebut terhadap aktivitas atau tujuan partner?]
-4. [Bagaimana partner mengatasinya saat ini?]
-5. [Constraint atau hal apa yang harus dipertahankan?]
+1. “Ceritakan contoh terakhir ketika biaya marketplace memengaruhi penjualan diecast Anda.”
+2. “Pada bagian mana biaya marketplace mulai membuat proses penjualan menjadi kurang menguntungkan?”
+3. “Apa dampaknya terhadap profit Anda dan ketertarikan calon pembeli?”
+4. “Apa yang sudah Anda lakukan untuk mengatasi biaya admin tersebut?”
+5. “Apa yang harus tetap dipertahankan ketika memilih perantara jual beli, selain biaya yang masuk akal?”
 
-**Pertanyaan yang dihindari:** [Pertanyaan leading atau pertanyaan yang langsung mendorong solusi, misalnya “Apakah aplikasi X akan membantu?”]
+**Pertanyaan yang dihindari:** Saya menghindari pertanyaan yang langsung mendorong solusi tertentu, seperti “Apakah TOCO pasti menjadi pilihan terbaik?” atau “Apakah aplikasi baru akan menyelesaikan masalah ini?” Saya terlebih dahulu menanyakan pengalaman, dampak, workaround, dan constraint.
 
 ## Potongan transcript atau paraphrase
 
 Catat bagian yang menunjukkan pengalaman konkret. Jika tidak dapat membagikan transcript lengkap, gunakan paraphrase yang jujur dan beri label sebagai paraphrase.
 
-> **Partner:** “[Pernyataan partner tentang pengalaman atau fakta.]”  
-> **Saya:** “[Paraphrase atau pertanyaan klarifikasi tanpa memasukkan asumsi baru.]”  
-> **Partner:** “[Jawaban, dampak, workaround, atau constraint.]”
+> **Partner:** “Saya ingin menjual diecast dengan aman dan mudah melalui marketplace, tetapi biaya adminnya kadang bisa mencapai 20%.” *(Paraphrase)*  
+> **Saya:** “Jadi, masalahnya bukan hanya memilih tempat untuk berjualan, tetapi menjaga agar biaya perantara tidak menghilangkan profit dan tidak membuat harga terlalu tinggi. Apakah saya menangkapnya dengan benar?” *(Paraphrase)*  
+> **Partner:** “Contohnya, diecast yang seharusnya dijual Rp200.000 perlu dinaikkan menjadi Rp240.000 di Shopee. Akibatnya, calon pembeli bisa kurang tertarik dan profit saya sangat kecil atau hanya balik modal.” *(Paraphrase)*  
+> **Saya:** “Apa yang sudah Anda coba untuk mengatasi biaya tersebut, dan apa yang tetap penting bagi Anda?” *(Pertanyaan klarifikasi)*  
+> **Partner:** “Saya mencoba TOCO karena tidak mengenakan biaya admin dan sudah dipercaya serta digunakan oleh beberapa komunitas hobi. Perantara yang dipilih tetap harus aman, dipercaya, dan mudah digunakan oleh calon pembeli.” *(Paraphrase)*
 
 **Catatan klasifikasi:**
 
 | Kutipan/paraphrase | Fact | Interpretation | Solution suggestion |
 |---|---|---|---|
-| [Potongan 1] | [Apa fakta yang didukung?] | [Apa makna yang Anda tafsirkan?] | [Apakah ada solusi yang disebut?] |
-| [Potongan 2] | [Apa fakta yang didukung?] | [Apa makna yang Anda tafsirkan?] | [Apakah ada solusi yang disebut?] |
-| [Potongan 3] | [Apa fakta yang didukung?] | [Apa makna yang Anda tafsirkan?] | [Apakah ada solusi yang disebut?] |
+| Biaya marketplace dapat mencapai 20%, dan harga diecast Rp200.000 dinaikkan menjadi Rp240.000. | Jon menghadapi biaya admin tinggi dan menaikkan harga untuk menutup biaya tersebut. | Biaya perantara dapat mengurangi profit sekaligus membuat harga kurang menarik. | Belum menyebut solusi; ini fakta masalah. |
+| Calon pembeli menjadi kurang tertarik ketika harga lebih tinggi dari harga yang diharapkan. | Kenaikan harga berdampak pada minat calon pembeli. | Kepentingan penjual memperoleh profit dan pembeli memperoleh harga wajar menjadi sulit dipertemukan. | Belum menyebut solusi tertentu. |
+| Jon mencoba TOCO karena bebas biaya admin dan telah digunakan beberapa komunitas hobi. | TOCO merupakan workaround yang pernah dicoba Jon. | Solusi perlu dinilai bukan hanya dari biaya, tetapi juga keamanan, kepercayaan, dan kemudahan. | TOCO disebut sebagai current workaround, bukan shared problem statement. |
 
-**Problem impact:** [Seberapa sering terjadi, siapa yang terdampak, keterlambatan/biaya/emosi apa yang muncul? Jangan melebih-lebihkan satu kasus.] 
+**Problem impact:** Biaya admin marketplace dapat mencapai 20%. Pada contoh yang diceritakan, harga diecast Rp200.000 perlu dinaikkan menjadi Rp240.000. Dampaknya, profit Jon menjadi sangat kecil atau hanya balik modal, sedangkan calon pembeli dapat menjadi kurang tertarik karena harga terlihat lebih tinggi. Berdasarkan satu interview, saya belum dapat menyimpulkan seberapa sering masalah ini terjadi pada semua transaksi atau semua penjual diecast.
 
-**Current workaround:** [Apa cara yang sekarang digunakan partner untuk mengatasi masalah?]
+**Current workaround:** Jon mencoba menggunakan TOCO, marketplace baru yang tidak mengenakan biaya admin dan telah dipercaya serta digunakan oleh beberapa komunitas hobi.
 
-**Constraint:** [Apa yang tidak boleh hilang atau tidak dapat diubah, misalnya waktu, biaya, akses, kebiasaan, atau privasi?]
+**Constraint:** Perantara yang digunakan harus aman, mudah digunakan, dan dipercaya oleh komunitas hobi serta calon pembeli. Biaya admin atau jasa juga harus tetap masuk akal. Jon tidak dapat mengendalikan kebijakan biaya marketplace atau tingkat ketertarikan calon pembeli.
 
 ## Pembaruan pembacaan
 
-**Apa yang berubah dari initial assumption:** [Apakah asumsi awal didukung, sebagian benar, atau tidak cukup didukung? Jelaskan berdasarkan evidence interview.]
+**Apa yang berubah dari initial assumption:** Asumsi awal saya hanya sebagian benar. Jon memang membutuhkan pilihan perantara yang lebih sesuai, tetapi masalah utamanya bukan sekadar menemukan marketplace baru. Masalah yang lebih penting adalah keseimbangan antara biaya perantara, profit penjual, harga yang wajar bagi pembeli, keamanan, dan kepercayaan.
 
-**Temuan utama:** [Tuliskan dua atau tiga temuan yang paling penting.]
+**Temuan utama:**
 
-**Batas evidence:** [Apa yang belum dapat disimpulkan dari satu interview?]
+1. Biaya admin hingga 20% dapat membuat harga barang naik dari Rp200.000 menjadi Rp240.000.
+2. Kenaikan harga dapat mengurangi ketertarikan calon pembeli dan membuat profit penjual sangat kecil.
+3. Alternatif perantara perlu dinilai berdasarkan biaya, keamanan, kepercayaan komunitas, dan kemudahan pembeli, bukan hanya karena bebas biaya admin.
+
+**Batas evidence:** Satu interview belum cukup untuk menyimpulkan bahwa semua penjual diecast mengalami biaya admin dan dampak yang sama. Saya juga belum memiliki data jumlah transaksi, frekuensi kejadian, perbandingan biaya antarplatform secara lengkap, atau bukti bahwa TOCO selalu menjadi pilihan terbaik bagi semua penjual dan pembeli.
 
 **Shared problem statement yang dikonfirmasi partner:**
 
-> “[Tuliskan siapa yang mengalami masalah, kebutuhan atau tujuan mereka, kondisi penyebabnya, dan dampaknya. Hindari memasukkan solusi tertentu sebelum disepakati.]”
+> “Penjual diecast mengalami profit yang sangat kecil atau hanya balik modal ketika menjual melalui marketplace dengan biaya admin yang dapat mencapai 20%, sehingga harus menaikkan harga barang dan membuat calon pembeli kurang tertarik. Ia membutuhkan proses jual beli melalui perantara yang aman, mudah digunakan, dan memiliki biaya jasa yang masuk akal agar dapat mempertahankan harga yang wajar serta memperoleh profit yang layak, dengan mempertimbangkan tingkat kepercayaan perantara dan kemudahan calon pembeli.”
 
-**Konfirmasi partner:** [Tuliskan jawaban partner ketika membaca statement tersebut. Bagian apa yang disetujui atau diperbaiki?]
+**Konfirmasi partner:** Jon menyatakan bahwa shared problem statement tersebut menggambarkan masalahnya. Ia merasa senang karena rumusan tersebut menangkap persoalan biaya admin dan adanya alternatif yang dapat dipertimbangkan. Tidak ada koreksi substantif terhadap bagian masalah, dampak, kebutuhan, atau constraint.
 
 ## Evidence, feedback, dan next step
 
-- [ ] Catatan interview dengan tanggal dan durasi.
+- [x] Catatan interview dengan tanggal 22 September 2026; durasi perlu dilengkapi.
 - [ ] Consent untuk mencatat atau merekam, bila relevan.
-- [ ] Transcript/paraphrase yang sudah dianonimkan.
-- [ ] Pesan atau catatan konfirmasi shared problem statement.
-- [ ] Feedback observer atau partner.
-- [ ] Bukti lain: [jelaskan].
+- [x] Transcript/paraphrase yang sudah dianonimkan.
+- [x] Pesan atau catatan konfirmasi shared problem statement.
+- [x] Feedback partner.
+- [ ] Bukti lain: tambahkan bukti percakapan atau catatan lain jika tersedia.
 
-**Feedback yang diterima:** [Apa yang menurut partner/observer sudah baik dan apa yang masih leading, terburu-buru, atau kurang jelas?]
+**Feedback yang diterima:** Partner merasa nyaman dan santai selama interview karena topik jual beli diecast merupakan topik yang ia sukai. Ia juga menyatakan senang karena rumusan menangkap masalah biaya admin dan alternatif yang dapat dipertimbangkan. Saya belum menerima feedback observer, sehingga belum dapat menilai aspek nonverbal dari sudut pandang pengamat.
 
-**Adaptasi/replay:** [Pertanyaan atau perilaku apa yang akan Anda ubah jika interview diulang?]
+**Adaptasi/replay:** Jika interview diulang, saya akan menanyakan frekuensi masalah, jumlah transaksi yang terdampak, dan perbandingan biaya secara lebih terukur. Saya juga akan meminta izin terlebih dahulu apabila ingin mencatat atau merekam, serta tetap menggunakan pertanyaan terbuka sebelum membahas marketplace tertentu.
 
-**Next step:** [Berapa interview tambahan, pertanyaan apa yang akan diuji, atau evidence apa yang perlu dikumpulkan?]
+**Next step:** Saya akan melengkapi durasi interview dan bukti consent. Jika memungkinkan, saya akan mewawancarai satu atau dua pelaku usaha diecast lain untuk memeriksa apakah masalah biaya admin, keamanan transaksi, dan kepercayaan perantara juga muncul pada pengalaman mereka. Saya juga akan meminta bukti biaya atau riwayat harga yang dapat dibagikan tanpa membuka data sensitif.
 
 Pada bagian `Analisis komunikasi` di bawah, jelaskan perubahan asumsi sebagai `Objective & state`, pertanyaan dan paraphrase sebagai `Repertoire & language`, respons partner sebagai `Response & adaptation`, dan konfirmasi problem statement sebagai `Agreement, Action & Relationship`.
 
