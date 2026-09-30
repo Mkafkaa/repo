@@ -44,6 +44,7 @@ Membedakan person, personality, dan character serta memilih objective, repertoir
 
 ::: {.evidence-block}
 ![Riwayat commit Git selama pengerjaan tubes](../assets/evidence/week-01/git-history.jpeg){width=85%}
+Link Repo : https://github.com/Labpro-23/if1210-tubes-2026-k03-i
 :::
 
 ## Analisis komunikasi
