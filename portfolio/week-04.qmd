@@ -1,7 +1,7 @@
 ---
 title: "Five-Language Translation Portfolio"
 week: 4
-status: "Selesai"
+status: "Sedang berjalan"
 self_score: "15"
 assessor_score: "—"
 description: "Satu meaning untuk lima person atau character."
@@ -71,7 +71,23 @@ Jangan menambahkan fakta baru hanya agar pesan terdengar lebih meyakinkan. Jika 
 
 **Feedback dari target:** Teman saya memberikan feedback bahwa versi sahabat cukup mudah dipahami dan memberikan informasi yang relevan. Namun, ia menyarankan agar penjelasan lebih detail tentang bagaimana protokol bekerja.
 
-**Revisi berdasarkan feedback:** Revisi tertulis belum dilakukan. Rencana revisinya adalah menambahkan penjelasan singkat tentang bagaimana protokol bekerja, disertai satu contoh praktis, tanpa mengubah core meaning jaringan komputer.
+**Revisi berdasarkan feedback:** Saya merevisi versi Friend dengan menambahkan protokol sebagai aturan tentang format pesan dan urutan pengiriman. Core meaning tetap sama.
+
+::: {.evidence-block}
+### Artifact revisi berdasarkan feedback
+
+**Draf Sebelum (versi Friend):**
+
+> Jaringan komputer itu sederhananya cara supaya laptop, HP, printer, dan perangkat lain bisa ngobrol dan berbagi data. Saat kita mengirim file lewat Wi-Fi, file itu berjalan menuju perangkat teman dengan bantuan alamat dan aturan komunikasi. Kalau koneksi lambat atau putus, data bisa lebih lama sampai atau harus dikirim ulang.
+
+**Feedback target:** Penjelasan mudah dipahami, tetapi perlu lebih detail tentang bagaimana protokol bekerja.
+
+**Draf Sesudah (versi Friend):**
+
+> Jaringan komputer itu sederhananya cara supaya laptop, HP, printer, dan perangkat lain bisa ngobrol dan berbagi data. Saat kita mengirim file lewat Wi-Fi, file dipecah menjadi paket kecil dan dikirim menuju alamat perangkat teman. Protokol adalah aturan sederhana yang mengatur format pesan, urutan pengiriman, dan apa yang dilakukan jika ada paket yang terlambat atau hilang. Karena itu, kalau koneksi lambat atau putus, data bisa lebih lama sampai atau harus dikirim ulang.
+
+**Perubahan yang dapat diverifikasi:** Saya menambahkan tiga fungsi protokol—format pesan, urutan pengiriman, dan penanganan paket terlambat/hilang—serta contoh paket saat mengirim file. Saya tidak mengubah fakta inti tentang perangkat, pertukaran data, alamat, dan kemungkinan pengiriman ulang.
+:::
 
 ## Analisis dan batas
 
@@ -85,11 +101,11 @@ Jangan menambahkan fakta baru hanya agar pesan terdengar lebih meyakinkan. Jika 
 
 - [x] Lima draf versi pesan pada LK Bab 4.
 - [x] Feedback atau konfirmasi pemahaman dari sedikitnya satu target.
-- [ ] Revisi sebelum dan sesudah feedback; revisi tertulis belum dibuat.
+- [x] Revisi sebelum dan sesudah feedback; perubahan konkret pada versi Friend dilampirkan di atas.
 - [ ] Catatan observer atau hasil simulasi.
 - [x] Sumber definisi IBM Think dan RFC 9293 dari IETF.
 
-**Kontribusi saya:** Saya memilih konsep jaringan komputer, menyusun kebenaran inti, menguraikan jargon, menulis lima versi bahasa, menjelaskan alasan adaptasi, menulis refleksi, dan memeriksa istilah terhadap sumber referensi. Uji pemahaman dengan satu teman sudah dilakukan; revisi tertulis berdasarkan feedback belum dibuat.
+**Kontribusi saya:** Saya memilih konsep jaringan komputer, menyusun kebenaran inti, menguraikan jargon, menulis lima versi bahasa, menjelaskan alasan adaptasi, menulis refleksi, dan memeriksa istilah terhadap sumber referensi. Uji pemahaman dengan satu teman sudah dilakukan dan revisi tertulis berdasarkan feedback dilampirkan; empat target lain masih belum diuji.
 
 Pada bagian `Analisis komunikasi` di bawah, jelaskan lima target sebagai `Person & character`, konsistensi core meaning sebagai `Objective & state`, pilihan bahasa sebagai `Repertoire & language`, hasil uji sebagai `Response & adaptation`, dan feedback/action sebagai `Agreement, Action & Relationship`.
 
@@ -107,7 +123,7 @@ Pada bagian `Analisis komunikasi` di bawah, jelaskan lima target sebagai `Person
 - Daftar jargon dan arti sederhananya.
 - Rujukan IBM Think dan IETF RFC 9293.
 - Refleksi tentang kesulitan membuat versi anak-anak.
-- Feedback target tersedia dari satu teman; revisi sebelum dan sesudah feedback belum dilampirkan.
+- Feedback target tersedia dari satu teman; artifact draf sebelum dan sesudah feedback sudah dilampirkan.
 
 ## Analisis komunikasi
 
@@ -116,18 +132,18 @@ Pada bagian `Analisis komunikasi` di bawah, jelaskan lima target sebagai `Person
 | Person & character | Lima audiens dibedakan berdasarkan pengetahuan, kebutuhan, dan peran mereka. Anak-anak membutuhkan analogi konkret; sahabat membutuhkan bahasa akrab; rekan teknis membutuhkan presisi; manajer membutuhkan dampak dan risiko; publik membutuhkan manfaat serta keamanan. |
 | Objective & state | Core meaning tetap menghubungkan perangkat untuk bertukar data dan berbagi sumber daya melalui aturan komunikasi. Draf awal yang teknis diubah menjadi lima versi dengan tingkat detail berbeda, tanpa mengganti tujuan penjelasan. |
 | Repertoire & language | Repertoire berubah dari analogi bertukar kartu, contoh Wi-Fi, istilah TCP/IP dan metrik, decision brief, hingga imbauan keamanan publik. Penggunaan AI dicatat dan istilah diperiksa terhadap sumber. |
-| Response & adaptation | Adaptasi sudah dilakukan berdasarkan perbedaan profil audiens dan refleksi mandiri, tetapi belum diuji dengan response target nyata. Karena itu, klaim keberhasilan pemahaman masih bersifat sementara. |
-| Agreement, Action & Relationship | Action yang diharapkan adalah target memahami inti jaringan sesuai kebutuhannya. Belum ada agreement atau feedback target; langkah berikutnya adalah menguji satu versi dan merevisi berdasarkan pemahaman target. |
-| Relationship outcome | Draf berusaha mengurangi jarak pengetahuan dan menghindari audiens merasa digurui. Dampak hubungan belum dapat dinilai karena belum ada interaksi uji yang terdokumentasi. |
+| Response & adaptation | Satu teman memberi feedback bahwa versi Friend mudah dipahami tetapi memerlukan penjelasan protokol. Saya menambahkan definisi sederhana dan contoh paket pada Draf Sesudah. Empat target lain belum diuji, sehingga generalisasi keberhasilan masih terbatas. |
+| Agreement, Action & Relationship | Action yang dilakukan adalah meminta feedback, mencatat saran, dan merevisi versi Friend. Feedback tersebut menjadi dasar perubahan konkret; pengujian pada empat target lain masih menjadi tindak lanjut. |
+| Relationship outcome | Revisi menunjukkan bahwa saya menanggapi kebutuhan pemahaman target tanpa mengubah core meaning. Dampak hubungan pada empat target lain belum dapat dinilai karena belum ada uji terdokumentasi. |
 ## Penggunaan AI
 
 Saya menggunakan GitHub Copilot untuk membantu menyusun variasi bahasa bagi lima audiens dan memeriksa perbedaan formalitas serta detail. Prompt yang digunakan meminta penjelasan jaringan komputer untuk anak-anak, sahabat, rekan teknis, manajer, dan publik dengan core meaning yang tetap sama. Saya menggunakan output sebagai bahan draf, memeriksa definisi dan istilah terhadap IBM Think serta RFC 9293, dan mengubah kalimat agar sesuai dengan bahasa sehari-hari. Saya tidak memasukkan data pribadi. Pemahaman konsep, pemilihan fakta, dan keputusan akhir tetap menjadi tanggung jawab saya.
 
 ## Feedback dan tindak lanjut
 
-**Feedback yang diterima:** Belum ada feedback understanding dari target nyata. Refleksi mandiri menunjukkan bahwa versi anak-anak paling sulit karena istilah IP address, router, dan packet bersifat abstrak.
+**Feedback yang diterima:** Satu teman memahami fungsi dasar jaringan dan menilai versi Friend mudah dipahami, tetapi meminta penjelasan lebih detail tentang cara kerja protokol. Feedback tersebut sudah ditindaklanjuti melalui artifact Draf Sebelum dan Draf Sesudah. Empat target lain belum diuji.
 
-**Adaptation/replay:** Setelah mendapatkan target uji, saya akan menanyakan kembali inti dan action yang dipahami, lalu memperbaiki istilah atau analogi yang membingungkan. Revisi belum dilakukan karena feedback eksternal belum tersedia.
+**Adaptation/replay:** Setelah mendapatkan target uji, saya menanyakan inti yang dipahami dan merevisi bagian protokol berdasarkan feedback. Replay berikutnya adalah menguji empat versi lain, mencatat pemahaman masing-masing target, lalu membuat revisi before/after hanya jika feedback menunjukkan kebutuhan perubahan.
 
 **Next practice:** Saya akan meminta satu sahabat dari bidang berbeda membaca versi sahabat atau publik, mencatat pemahamannya tanpa memberi penjelasan tambahan, lalu memperbaiki draf berdasarkan bagian yang tidak dipahami.
 
@@ -138,8 +154,8 @@ Saya menggunakan GitHub Copilot untuk membantu menyusun variasi bahasa bagi lima
 | Person & Character | 4 | Lima audiens dibedakan berdasarkan kebutuhan dan tingkat pengetahuan. |
 | Objective & State | 4 | Core meaning jaringan komputer dijaga di lima versi. |
 | Repertoire, Language & AI | 4 | Analogi, bahasa santai, jargon teknis, decision brief, dan bahasa publik digunakan sesuai target; AI dan pemeriksaan sumber dicatat. |
-| Response & Adaptation | 3 | Satu teman memberi feedback bahwa versi sahabat mudah dipahami dan menyarankan detail tambahan tentang protokol; revisi tertulis belum dibuat. |
-| Agreement, Action & Relationship | 3 | Teman memahami fungsi dasar jaringan dan memberi saran lanjutan; pengujian pada empat target lain belum dilakukan. |
+| Response & Adaptation | 3 | Satu teman memberi feedback tentang kebutuhan detail protokol dan revisi tertulis sudah dibuat; empat target lain belum diuji. |
+| Agreement, Action & Relationship | 3 | Feedback sudah diterjemahkan menjadi perubahan konkret, tetapi pengujian pada empat target lain belum dilakukan. |
 
 **Total:** 17 / 20
 

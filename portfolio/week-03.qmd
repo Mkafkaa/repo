@@ -1,7 +1,7 @@
 ---
 title: "Relationship Conversation"
 week: 3
-status: "Selesai"
+status: "Sedang berjalan"
 self_score: "15"
 assessor_score: "—"
 description: "Evidence listening, boundary, request, atau repair."
@@ -75,6 +75,8 @@ Tulis bagian yang menunjukkan observasi, listening, paraphrase, kebutuhan, bound
 
 **Bukti listening:** Saya tidak mengajukan pertanyaan atau melakukan paraphrase karena benar-benar kelelahan. Namun, saya mendengar respons orang tua yang menunjukkan bahwa mereka memahami kondisi saya dan merasa prihatin.
 
+**Paraphrase yang belum dilakukan:** Tidak ada paraphrase dalam percakapan asli, sehingga saya tidak dapat mengklaim bahwa pemahaman orang tua sudah saya cek secara eksplisit. Pada percakapan berikutnya, setelah menyampaikan batas saya akan bertanya, “Apakah Anda memahami alasan saya tidak ikut?” lalu merangkum respons mereka, misalnya, “Jadi, Anda memahami saya perlu tidur setelah menyelesaikan tubes, dan Anda tetap ingin saya memberi kabar setelah bangun. Apakah itu tepat?”
+
 **Bukti boundary:** Saya menyampaikan bahwa saya tidak ikut perjalanan pukul 07.00 karena baru menyelesaikan tubes dan perlu tidur.
 
 **Bukti request:** Saya tidak mengajukan request terpisah. Saya menyampaikan kebutuhan dan batas secara langsung melalui kalimat bahwa saya tidak bisa ikut pergi karena kelelahan. Orang tua kemudian mengusulkan agar saya beristirahat di rumah dan menemani Eyang.
@@ -89,6 +91,8 @@ Tulis bagian yang menunjukkan observasi, listening, paraphrase, kebutuhan, bound
 
 **Check-in:** Setelah bangun, saya melanjutkan review tubes dan bersiap mengikuti Welcoming Party GDGoC secara daring. Ini merupakan tindak lanjut pribadi, bukan check-in khusus dengan orang tua. Check-in khusus untuk menanyakan kondisi atau perasaan orang tua setelah percakapan belum dilakukan, sehingga hasil jangka panjangnya belum dapat disimpulkan.
 
+**Rencana check-in yang dapat diverifikasi:** Setelah beristirahat, saya akan menghubungi orang tua melalui percakapan langsung atau pesan teks: “Tadi saya ingin memastikan, apakah alasan saya tidak ikut perjalanan sudah dipahami? Bagaimana perasaan Anda mendengar keputusan saya?” Saya akan mencatat tanggal/waktu, pertanyaan yang disampaikan, ringkasan jawaban, paraphrase saya atas jawaban tersebut, dan kesepakatan tindak lanjut. Catatan ini akan dianonimkan sebelum dilampirkan.
+
 **State setelah percakapan:** Saya dapat beristirahat di kamar dan menemani Eyang. Setelah bangun, saya melanjutkan review tubes dan bersiap mengikuti Welcoming Party GDGoC secara daring. Berdasarkan respons langsung orang tua, percakapan berakhir tanpa paksaan atau konflik yang dilaporkan. Perubahan jangka panjang pada kepercayaan dan ketegangan hubungan belum dapat disimpulkan.
 
 **Respons partner setelah percakapan:** Orang tua langsung memahami kondisi saya, menunjukkan keprihatinan karena saya kelelahan, dan menyarankan agar saya beristirahat di rumah sambil menemani Eyang.
@@ -96,17 +100,34 @@ Tulis bagian yang menunjukkan observasi, listening, paraphrase, kebutuhan, bound
 ## Evidence dan refleksi
 
 - [x] Transcript atau catatan percakapan yang dianonimkan.
+- [x] Screenshot chat koordinasi teknis kelompok.
 - [ ] Bukti agreement, misalnya pesan konfirmasi atau catatan bersama.
 - [ ] Catatan observer jika menggunakan role-play.
 - [ ] Check-in setelah beberapa hari.
 - [x] Catatan perbandingan relationship state sebelum dan sesudah berdasarkan respons langsung orang tua.
 - [ ] Bukti lain: belum dilampirkan.
 
+::: {.evidence-block}
+![Chat koordinasi pengujian lokal dan perubahan algoritma kelompok](../assets/evidence/week-01/screenshot-chat.png){width=85%}
+
+Screenshot ini merupakan artifact eksternal dari percakapan teknis kelompok. Isinya menunjukkan permintaan pengujian lokal, konfirmasi bahwa masalah sudah diperbaiki, serta usulan penambahan algoritma. Artifact ini mendukung bukti koordinasi dan respons teknis, tetapi bukan bukti paraphrase atau check-in dengan orang tua; evidence tersebut tetap belum tersedia.
+:::
+
+**Template artifact yang harus diisi setelah praktik dilakukan:**
+
+| Bagian | Catatan terverifikasi |
+|---|---|
+| Waktu dan medium check-in | `[tanggal, waktu, tatap muka atau pesan teks]` |
+| Pertanyaan pemahaman/perasaan | `[tulis pertanyaan yang benar-benar disampaikan]` |
+| Respons partner | `[ringkas atau kutip dengan izin; gunakan inisial]` |
+| Paraphrase saya | `[ringkas kembali maksud partner dan minta konfirmasi]` |
+| Kesepakatan/tindak lanjut | `[tulis tindakan atau waktu check-in berikutnya]` |
+
 **Apa yang berhasil:** Saya menetapkan batas dengan menghubungkan keputusan tidak ikut perjalanan pada fakta yang jelas: tubes baru selesai setelah bekerja semalaman dan saya membutuhkan tidur.
 
 **Apa yang perlu diperbaiki:** Karena kondisi saya sangat lelah, saya tidak sempat mengajukan pertanyaan atau melakukan paraphrase. Dalam situasi serupa, setelah kondisi lebih tenang saya dapat melakukan check-in untuk memastikan kebutuhan dan perasaan keluarga juga terdengar.
 
-**Next practice:** Dalam percakapan berikutnya, saya akan menyebutkan observasi, kebutuhan, batas, dan permintaan secara berurutan, lalu menanyakan kembali apakah partner memahami alasan saya sebelum mengakhiri percakapan.
+**Next practice:** Dalam percakapan berikutnya, saya akan menyebutkan observasi, kebutuhan, batas, dan permintaan secara berurutan. Sebelum mengakhiri percakapan, saya akan menanyakan apakah partner memahami alasan saya, melakukan paraphrase atas jawabannya, lalu menjadwalkan check-in setelah saya beristirahat. Bukti baru hanya akan ditandai tersedia setelah catatan atau pesan tersebut benar-benar dibuat.
 
 Pada bagian `Analisis komunikasi` di bawah, gunakan `Person & character` untuk menjelaskan kebutuhan kedua pihak, `Objective & state` untuk membandingkan kondisi sebelum dan sesudah, `Repertoire & language` untuk menganalisis observasi/paraphrase/boundary/request, `Response & adaptation` untuk menjelaskan penyesuaian Anda, dan `Agreement, Action & Relationship` untuk menjelaskan hasil serta check-in.
 
@@ -120,11 +141,11 @@ AI digunakan untuk membantu menata catatan percakapan ke dalam struktur portfoli
 |---|---|
 | Person & character | Saya bertindak sebagai anggota keluarga yang perlu menjaga hubungan, sekaligus mahasiswa yang bertanggung jawab terhadap deadline dan kondisi fisik. Orang tua berperan sebagai pihak yang memperhatikan kondisi saya dan menerima kebutuhan saya untuk beristirahat. |
 | Objective & state | Objective saya adalah menyelesaikan tubes dan menyampaikan ketidakikutsertaan dengan jelas. State awal: tugas selesai setelah bekerja semalaman; state setelahnya: saya tidak ikut perjalanan dan perlu tidur. |
-| Repertoire & language | Saya menggunakan bahasa langsung, santai, dan sopan: “Mah, Pah, kayaknya aku enggak bisa ikut pergi deh, karena aku kecapekan mengerjakan tubes semalaman.” Saya tidak menggunakan pertanyaan atau paraphrase karena kelelahan. |
+| Repertoire & language | Saya menggunakan bahasa langsung, santai, dan sopan: “Mah, Pah, kayaknya aku enggak bisa ikut pergi deh, karena aku kecapekan mengerjakan tubes semalaman.” Saya tidak menggunakan pertanyaan atau paraphrase dalam percakapan asli karena kelelahan; praktik berikutnya perlu menguji pemahaman partner melalui pertanyaan dan paraphrase. |
 | Response & adaptation | Saya memilih tidak ikut perjalanan setelah deadline, tetapi tetap menghadiri kegiatan GDGoC pukul 13.00. Keputusan menghadiri kegiatan itu perlu dievaluasi karena saya belum tidur. |
 | Agreement, Action & Relationship | Saya memberi tahu orang tua, berpamitan, lalu tidur di kamar dan menemani Eyang. Orang tua menerima keputusan tersebut tanpa konflik yang dilaporkan. Check-in lanjutan belum tercatat, sehingga dampak jangka panjang pada hubungan belum dapat dinilai. |
 
-**Informasi yang masih diperlukan untuk menuntaskan Minggu 3:** hasil check-in khusus dengan orang tua setelah saya tidur dan tingkat ketegangan sesudah percakapan jika ingin dilaporkan dengan skor. Transcript lengkap tidak wajib karena ringkasan percakapan sudah tersedia.
+**Informasi yang masih diperlukan untuk menuntaskan Minggu 3:** hasil check-in khusus dengan orang tua setelah saya tidur, paraphrase atas respons mereka, dan tingkat ketegangan sesudah percakapan jika ingin dilaporkan dengan skor. Transcript lengkap tidak wajib karena ringkasan percakapan sudah tersedia.
 
 ## Self-assessment sementara
 
