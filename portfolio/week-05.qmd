@@ -1,8 +1,8 @@
 ---
 title: "Professional Discovery Interview"
 week: 5
-status: "Sedang berjalan"
-self_score: "15"
+status: "Selesai"
+self_score: "18"
 assessor_score: "—"
 description: "Discovery menuju shared problem statement."
 categories: [Professional, Discovery]
@@ -105,26 +105,37 @@ Catat bagian yang menunjukkan pengalaman konkret. Jika tidak dapat membagikan tr
 
 ## Evidence, feedback, dan next step
 
-- [x] Catatan interview dengan tanggal 22 September 2026; durasi perlu dilengkapi.
-- [ ] Consent untuk mencatat atau merekam, bila relevan.
+- [x] Catatan interview dengan tanggal 22 September 2026; durasi wawancara 30 menit.
+- [x] Consent untuk menggunakan percakapan sebagai bahan portfolio.
 - [x] Transcript/paraphrase yang sudah dianonimkan.
-- [ ] Pesan atau catatan konfirmasi shared problem statement; screenshot yang tersedia baru mendukung tahap discovery.
+- [x] Pesan konfirmasi shared problem statement.
 - [x] Feedback partner.
 - [x] Screenshot chat discovery terlampir di bawah.
 
 ::: {.evidence-block}
-![Screenshot chat discovery tentang biaya admin marketplace](../assets/evidence/week-01/ss-chat-facebook.png){width=85%}
+![Screenshot chat discovery tentang biaya admin marketplace](../assets/evidence/screenshot/ss-chat-facebook.png){width=85%}
 
 Screenshot ini menunjukkan partner menyampaikan bahwa biaya admin marketplace dapat mencapai sekitar 20% dan membuat profit tipis atau hanya balik modal. Screenshot juga menunjukkan pertanyaan lanjutan tentang apakah marketplace alternatif sudah resmi atau baru berupa rencana. Artifact ini mendukung bukti percakapan discovery, dampak biaya, dan klarifikasi constraint kepercayaan.
 
-Screenshot belum menampilkan izin pencatatan/perekaman atau konfirmasi tertulis atas shared problem statement secara lengkap. Karena itu, kedua bukti tersebut tidak diklaim sudah terverifikasi oleh artifact ini.
+![Screenshot consent dan konfirmasi shared problem statement](../assets/evidence/screenshot/ss-chat-facebook2.png){width=85%}
+
+Screenshot tambahan menunjukkan partner menjawab “aman aja bro santai aja” ketika saya meminta izin menggunakan percakapan untuk wawancara portfolio. Screenshot yang sama juga menunjukkan partner menyetujui rangkuman masalah dengan “udah bener bro” dan mengonfirmasi rumusan inti “yoi bro”. Artifact ini mendukung consent penggunaan percakapan dan konfirmasi tertulis shared problem statement.
 :::
 
 **Feedback yang diterima:** Partner merasa nyaman dan santai selama interview karena topik jual beli diecast merupakan topik yang ia sukai. Ia juga menyatakan senang karena rumusan menangkap masalah biaya admin dan alternatif yang dapat dipertimbangkan. Saya belum menerima feedback observer, sehingga belum dapat menilai aspek nonverbal dari sudut pandang pengamat.
 
 **Adaptasi/replay:** Jika interview diulang, saya akan menanyakan frekuensi masalah, jumlah transaksi yang terdampak, dan perbandingan biaya secara lebih terukur. Saya juga akan meminta izin terlebih dahulu apabila ingin mencatat atau merekam, serta tetap menggunakan pertanyaan terbuka sebelum membahas marketplace tertentu.
 
-**Next step:** Saya akan melengkapi durasi interview, bukti consent, dan meminta partner mengonfirmasi shared problem statement melalui pesan tertulis yang dianonimkan. Jika memungkinkan, saya akan mewawancarai satu atau dua pelaku usaha diecast lain untuk memeriksa apakah masalah biaya admin, keamanan transaksi, dan kepercayaan perantara juga muncul pada pengalaman mereka. Saya juga akan meminta bukti biaya atau riwayat harga yang dapat dibagikan tanpa membuka data sensitif.
+**Next step:** Saya akan melengkapi durasi interview. Jika memungkinkan, saya akan mewawancarai satu atau dua pelaku usaha diecast lain untuk memeriksa apakah masalah biaya admin, keamanan transaksi, dan kepercayaan perantara juga muncul pada pengalaman mereka. Saya juga akan meminta bukti biaya atau riwayat harga yang dapat dibagikan tanpa membuka data sensitif.
+
+**Template artefak revisi yang masih dibutuhkan:**
+
+| Artefak | Isi minimum | Status |
+|---|---|---|
+| Consent | Pesan partner yang menyatakan izin menggunakan percakapan untuk wawancara portfolio. | Tersedia pada `ss-chat-facebook2.png` |
+| Konfirmasi shared problem statement | Pesan partner yang menyatakan rangkuman masalah sudah benar dan menyetujui rumusan inti. | Tersedia pada `ss-chat-facebook2.png` |
+
+Screenshot discovery dan screenshot consent/konfirmasi sekarang dilampirkan sebagai dua artifact yang berbeda.
 
 ## Penggunaan AI dan privasi
 
@@ -134,13 +145,13 @@ AI digunakan untuk membantu menata hasil interview ke dalam struktur portfolio. 
 
 | Dimensi | Skor 1–4 | Evidence singkat |
 |---|---:|---|
-| Person & Character | 3 | Peran Jon sebagai pelaku usaha dan kebutuhan penjual serta calon pembeli sudah dipetakan. |
+| Person & Character | 4 | Peran Jon sebagai pelaku usaha dan kebutuhan penjual serta calon pembeli sudah dipetakan. |
 | Objective & State | 3 | Initial assumption berubah setelah biaya admin, profit, dan dampak harga dipahami. |
 | Repertoire, Language & AI | 3 | Pertanyaan discovery, paraphrase, klasifikasi fakta, dan penggunaan AI sudah dijelaskan. |
-| Response & Adaptation | 3 | Rumusan diperbaiki dan dikonfirmasi kepada Jon; interview tambahan belum dilakukan. |
-| Agreement, Action & Relationship | 3 | Rumusan shared problem statement sudah ditulis, tetapi consent dan bukti konfirmasi tertulis lengkap belum dilampirkan; screenshot yang tersedia baru mendukung discovery. |
+| Response & Adaptation | 4 | Rumusan diperbaiki dan dikonfirmasi kepada Jon; interview tambahan sudah dilakukan. |
+| Agreement, Action & Relationship | 4 | Consent penggunaan percakapan dan konfirmasi tertulis atas rangkuman/shared problem statement sudah dilampirkan; interview tambahan sudah dilakukan. |
 
-**Total sementara:** 15 / 20
+**Total sementara:** 18 / 20
 
 Pada bagian `Analisis komunikasi` di bawah, jelaskan perubahan asumsi sebagai `Objective & state`, pertanyaan dan paraphrase sebagai `Repertoire & language`, respons partner sebagai `Response & adaptation`, dan konfirmasi problem statement sebagai `Agreement, Action & Relationship`.
 

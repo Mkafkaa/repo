@@ -1,7 +1,7 @@
 ---
 title: "Character Map"
 week: 1
-status: "Selesai"
+status: "Sedang berjalan"
 self_score: "17"
 assessor_score: "—"
 description: "Evidence person, personality, character, objective, repertoire, language, action, dan relationship."
@@ -39,17 +39,21 @@ Membedakan person, personality, dan character serta memilih objective, repertoir
 ## Evidence
 
 ::: {.evidence-block}
-![Riwayat commit Git selama pengerjaan tubes](../assets/evidence/week-01/git-history.jpeg){width=85%}
+![Riwayat commit Git selama pengerjaan tubes](../assets/evidence/screenshot/git-history.jpeg){width=85%}
 
 **Artifact teknis:** Screenshot riwayat commit/merge pada repository tubes (terlampir di atas).
 
 Screenshot memperlihatkan commit serta merge perubahan program pada 29 Mei 2026. Hash commit dapat digunakan untuk pencocokan jika repository dapat diakses kembali. Tautan repository yang tercantum pada screenshot saat ini tidak dapat diverifikasi (HTTP 404), sehingga screenshot adalah artifact teknis yang tersedia.
 
-![Chat koordinasi pengujian lokal dan perubahan algoritma kelompok](../assets/evidence/week-01/screenshot-chat.png){width=85%}
+![Chat koordinasi pengujian lokal dan perubahan algoritma kelompok](../assets/evidence/screenshot/screenshot-chat.png){width=85%}
 
 Screenshot chat menunjukkan saya meminta anggota menguji program secara lokal, mengonfirmasi bahwa masalah sudah diperbaiki, dan menerima usulan penambahan algoritma. Artifact ini mendukung koordinasi teknis kelompok, tetapi belum membuktikan respons keluarga atau teman terhadap batas sosial saya.
 
-**Status verifikasi relationship:** Chat log sosial, testimoni, atau feedback pihak lain belum tersedia. Klaim bahwa batas saya dipahami dan dihargai tetap merupakan catatan refleksi.
+![Chat penolakan ajakan nongkrong dari teman](../assets/evidence/screenshot/ss-whatsapp-temen.png){width=85%}
+
+![Chat pemberitahuan tidak ikut perjalanan kepada keluarga](../assets/evidence/screenshot/ss-whatsapp-mamah1.png){width=85%}
+
+Teman menerima penolakan saya dan mengusulkan waktu nongkrong lain. Mama menerima alasan saya tidak ikut perjalanan, menyarankan saya beristirahat dan menemani Eyang. Kedua screenshot ini memberi verifikasi eksternal bahwa batas sosial saya disampaikan dan diterima pada percakapan tersebut.
 :::
 
 ## Analisis komunikasi
@@ -60,16 +64,24 @@ Screenshot chat menunjukkan saya meminta anggota menguji program secara lokal, m
 | Objective & state | Kondisi awal adalah tubes dan laporan belum selesai dengan waktu terbatas. Setelahnya tugas selesai, tetapi saya kurang tidur dan perlu pemulihan. |
 | Repertoire & language | Saya menggunakan debugging untuk diri sendiri, instruksi teknis untuk kelompok, bahasa santai kepada teman, bahasa hormat kepada keluarga, dan bahasa terbuka di komunitas. |
 | Response & adaptation | Saya fokus pada deadline, menolak aktivitas yang mengganggu, tidak ikut perjalanan, dan tetap hadir di kegiatan komunitas meski kondisi fisik kurang ideal. |
-| Agreement/action | Commit, merge, penyelesaian program, laporan, dan screenshot chat mendukung tindakan teknis. Respons sosial pihak lain belum memiliki artifact eksternal. |
-| Relationship outcome | Koordinasi teknis terlihat dari chat dan riwayat Git; dampak terhadap keluarga, teman, dan komunitas belum dapat diverifikasi objektif. |
+| Agreement/action | Commit, merge, penyelesaian program, laporan, serta screenshot chat sosial dan teknis mendukung tindakan akademik dan penerimaan batas sosial. |
+| Relationship outcome | Teman dan Mama menerima batas yang disampaikan berdasarkan balasan pada screenshot. Dampak jangka panjang terhadap hubungan belum dinilai. |
 
 ## Feedback dan tindak lanjut
 
 **Feedback yang diterima:** Belum ada kutipan observer atau feedback sosial yang dilampirkan. Artifact chat hanya memverifikasi koordinasi teknis.
 
+**Artefak yang masih dibutuhkan untuk revisi assessor:** screenshot pesan atau testimoni singkat dari keluarga/teman yang menunjukkan bahwa penolakan perjalanan atau ajakan bermain dipahami dan dihargai. Artifact teknis Git/chat kelompok tidak menggantikan bukti tersebut.
+
 **Adaptation/replay:** Pada tugas berikutnya saya akan membuat checkpoint Git, mengirim ringkasan status, menyampaikan batas lebih awal, dan menyimpan screenshot chat yang dianonimkan serta feedback dengan izin.
 
 **Next practice:** Saya akan menetapkan waktu berhenti dan pemulihan agar partisipasi berikutnya tidak mengorbankan kesehatan.
+
+**Catatan artifact relationship:** Screenshot chat teman dan Mama sudah dilampirkan di atas. Artifact tambahan dapat digunakan jika tersedia, tetapi tidak lagi diperlukan untuk memverifikasi respons langsung pada episode ini.
+
+| Pihak | Pesan/batas yang disampaikan | Respons tertulis pihak lain | Waktu dan medium |
+|---|---|---|---|
+| Keluarga atau teman | `[isi pesan yang benar-benar dikirim]` | `[isi balasan atau testimoni dengan izin]` | `[tanggal, waktu, chat/telepon]` |
 
 ## Self-assessment
 
@@ -79,7 +91,7 @@ Screenshot chat menunjukkan saya meminta anggota menguji program secara lokal, m
 | Objective & State | 4 | Deadline, kondisi awal, target, dan perubahan prioritas dijelaskan. |
 | Repertoire, Language & AI | 3 | Pilihan bahasa dibedakan sesuai konteks dan penggunaan AI dinyatakan. |
 | Response & Adaptation | 3 | Respons terhadap deadline, ajakan, perjalanan, dan kelelahan dianalisis. |
-| Agreement, Action & Relationship | 3 | Artifact teknis tersedia, tetapi feedback sosial belum tersedia. |
+| Agreement, Action & Relationship | 4 | Screenshot teman dan Mama memverifikasi bahwa batas disampaikan, dipahami, dan diterima pada percakapan tersebut. |
 
 **Total sementara:** 17 / 20
 

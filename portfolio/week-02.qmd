@@ -2,7 +2,7 @@
 title: "Intra-Self Communication Journal"
 week: 2
 status: "Selesai"
-self_score: "15"
+self_score: "17"
 assessor_score: "—"
 description: "Evidence perubahan dari reaction menuju response."
 categories: [Fondasi, Intra-Self]
@@ -78,33 +78,48 @@ Tuliskan minimal dua kemungkinan penafsiran lain. Setiap narasi harus tetap masu
 
 **Internal agreement:** Sebelum pukul 07.00 pada 29 Mei 2026, saya akan memprioritaskan fungsi utama, memeriksa perubahan Git, menyelesaikan laporan, dan mengumpulkan tubes. Setelah itu saya akan memberi tahu keluarga bahwa saya tidak ikut perjalanan dan mengevaluasi kebutuhan tidur sebelum memutuskan hadir di kegiatan pukul 13.00. Agreement ini berhasil pada sisi deadline, tetapi pengaturan pemulihan fisik belum optimal.
 
-Penerapan pada episode ini: sebelum pukul 07.00 pada 29 Mei 2026, saya menyelesaikan fungsi utama, memeriksa perubahan Git, menyelesaikan laporan, dan mengumpulkan tubes. Hasilnya adalah tubes terkumpul beberapa menit sebelum deadline; screenshot riwayat commit dan tautan repository sebagai bukti tindakan teknis dilampirkan pada bagian berikut.
+Penerapan pada episode ini: sebelum pukul 07.00 pada 29 Mei 2026, saya menyelesaikan fungsi utama, memeriksa perubahan Git, menyelesaikan laporan, dan mengumpulkan tubes. Hasilnya adalah tubes terkumpul beberapa menit sebelum deadline; screenshot riwayat commit dan screenshot komunikasi sosial dilampirkan pada bagian berikut.
 
 ## Evidence tindakan
 
 Tambahkan bukti yang benar-benar Anda miliki. Pilih yang relevan dan hapus pilihan yang tidak digunakan.
 
 - [ ] Catatan jurnal sebelum dan sesudah mengambil keputusan.
-- [ ] Screenshot pesan atau email yang sudah dianonimkan.
+- [x] Screenshot pesan atau email yang sudah dianonimkan.
 - [ ] Revisi tugas, dokumen, atau hasil kerja.
 - [ ] Catatan observer atau feedback dari orang yang terlibat.
-- [x] Bukti tindakan lain: screenshot riwayat commit Git dan tautan repository dilampirkan di bawah.
+- [x] Bukti tindakan lain: screenshot riwayat commit Git dan screenshot koordinasi teknis dilampirkan di bawah.
 
 ::: {.evidence-block}
-![Riwayat commit Git selama pengerjaan tubes](../assets/evidence/week-01/git-history.jpeg){width=85%}
+![Riwayat commit Git selama pengerjaan tubes](../assets/evidence/screenshot/git-history.jpeg){width=85%}
 
-**Tautan verifikasi:** [Repository tubes kelompok di GitHub](https://github.com/Labpro-23/if1210-tubes-2026-k03-i)
+Screenshot memperlihatkan commit dan merge perubahan program pada 29 Mei 2026, termasuk hash commit. Tautan repository yang pernah tercantum pada screenshot tidak dapat diverifikasi saat ini, sehingga artifact ini hanya mendukung tindakan teknis dan tidak menjadi bukti waktu pengumpulan yang dapat dibuka assessor. Screenshot pesan penolakan kepada teman dan keluarga dilampirkan di bawah, dengan waktu pengiriman pada 28 Mei pukul 21.41 dan 29 Mei pukul 06.41. Balasan penerima menunjukkan bahwa alasan saya dipahami dan batas saya diterima.
 
-Screenshot memperlihatkan commit dan merge perubahan program pada 29 Mei 2026, termasuk hash commit yang dapat dicocokkan dengan riwayat pada repository. Assessor dapat membuka tautan tersebut untuk memeriksa detail waktu commit dan perubahan yang mendukung agreement untuk menyelesaikan program, mengelola Git, dan menuntaskan pekerjaan sebelum deadline. Bukti pesan penolakan kepada keluarga atau teman tidak tersedia pada lampiran ini, sehingga klaim tersebut tetap didasarkan pada catatan refleksi.
-
-![Chat koordinasi pengujian lokal dan perubahan algoritma kelompok](../assets/evidence/week-01/screenshot-chat.png){width=85%}
+![Chat koordinasi pengujian lokal dan perubahan algoritma kelompok](../assets/evidence/screenshot/screenshot-chat.png){width=85%}
 
 Screenshot chat mendukung koordinasi teknis: saya meminta pengujian lokal, mengonfirmasi perbaikan, dan menerima usulan algoritma. Bukti ini tidak digunakan untuk mengklaim adanya pesan penolakan kepada keluarga atau teman.
+
+![Chat penolakan ajakan nongkrong dari teman](../assets/evidence/screenshot/ss-whatsapp-temen.png){width=85%}
+
+Teman menerima penolakan saya karena harus mengerjakan tubes dan menjawab, “semangat” serta mengusulkan waktu nongkrong berikutnya.
+
+![Chat pemberitahuan tidak ikut perjalanan kepada keluarga](../assets/evidence/screenshot/ss-whatsapp-mamah1.png){width=85%}
+
+Mama menerima keputusan saya untuk tidak ikut perjalanan, menyarankan saya tidur dan beristirahat di rumah.
 :::
 
 **Kontribusi saya:** Saya mengerjakan bagian program dan laporan, mengelola commit perubahan kelompok, menjaga koordinasi, menolak ajakan bermain, menyampaikan keputusan kepada keluarga, dan hadir serta berpartisipasi di kegiatan GDGoC.
 
+**Status revisi evidence:** Screenshot pesan teman dan Mama sudah dilampirkan. Waktu pengiriman dan balasan penerima terlihat pada screenshot, sehingga assessor dapat memeriksa bahwa penolakan dikirim sebelum atau sekitar deadline dan diterima oleh pihak terkait.
+
 **Hasil atau response yang terjadi:** Tubes diselesaikan dan dikumpulkan sebelum deadline, lalu saya tidak ikut perjalanan keluarga. Saya tetap hadir di Welcoming Party pukul 13.00, tetapi pengalaman kurang tidur menunjukkan bahwa cerita “selama tugas selesai semuanya baik-baik saja” perlu diperbarui dengan pertimbangan kesehatan dan batas fisik.
+
+**Ringkasan bukti penolakan sosial:**
+
+| Penerima | Pesan yang benar-benar dikirim | Waktu kirim | Balasan/konfirmasi penerima |
+|---|---|---|---|
+| Teman | Menolak ajakan nongkrong karena harus mengerjakan tubes. | 28 Mei 2026, 21.41–21.43 | Teman memahami, memberi semangat, dan mengusulkan waktu nongkrong berikutnya. |
+| Mama | Menyampaikan tidak ikut perjalanan karena kelelahan setelah mengerjakan tugas semalaman. | 29 Mei 2026, 06.41–06.43 | Mama menerima keputusan dan menyarankan tidur serta beristirahat di rumah. |
 
 ## Analisis khusus berdasarkan template umum
 
@@ -114,10 +129,10 @@ Screenshot chat mendukung koordinasi teknis: saya meminta pengujian lokal, mengo
 | Objective & state | State awal: tubes dan laporan belum selesai, deadline pukul 07.00, dan perubahan empat anggota perlu dikelola. Objective: tugas selesai dengan program berjalan, laporan terisi, dan perubahan tercatat. State setelahnya: tugas selesai, tetapi tubuh kurang tidur dan perlu pemulihan. |
 | Repertoire & language | Repertoire saya berupa pemecahan masalah, debugging, commit kecil, konfirmasi perubahan, penolakan ajakan bermain, dan penyampaian batas kepada keluarga. Kalimat internal persis belum tercatat sehingga bagian dialog di atas adalah rekonstruksi yang perlu saya konfirmasi. |
 | Response & adaptation | Reaction yang terlihat adalah terus bekerja dan menunda kebutuhan istirahat. Response yang lebih sadar adalah memilah prioritas, mengatur Git, menolak aktivitas yang mengganggu, dan mengevaluasi kondisi setelah deadline. Adaptasi berikutnya perlu menambahkan waktu berhenti dan tidur. |
-| Agreement/action | Agreement internal menghasilkan penyelesaian program, laporan, commit, penolakan ajakan bermain, dan keputusan tidak ikut perjalanan keluarga. Screenshot riwayat commit dan tautan repository di bagian evidence mendukung tindakan teknis; pesan penolakan sosial belum dilampirkan. |
+| Agreement/action | Agreement internal menghasilkan penyelesaian program, laporan, commit, penolakan ajakan bermain, dan keputusan tidak ikut perjalanan keluarga. Screenshot commit, koordinasi teknis, serta balasan teman dan Mama mendukung tindakan tersebut. |
 | Relationship outcome | Dengan kelompok, perubahan lebih tertata; dengan keluarga dan teman, batas disampaikan tetapi kemungkinan kekecewaan perlu dikelola; dengan komunitas, saya tetap terhubung, meski kehadiran dalam kondisi kurang tidur perlu dievaluasi. |
 
-**Informasi yang masih perlu dilengkapi:** waktu dan isi pesan kepada keluarga/teman, waktu pengumpulan jika akan dilampirkan, serta feedback langsung dari keluarga atau teman. Riwayat commit sudah dilampirkan dan dapat diverifikasi melalui tautan repository. Kalimat initial story dan intensitas emosi sudah diisi berdasarkan keterangan saya.
+**Informasi yang masih perlu dilengkapi:** waktu pengumpulan jika akan dilampirkan dan feedback formal tambahan dari anggota kelompok. Waktu dan isi pesan kepada teman serta Mama sudah terlihat pada screenshot. Kalimat initial story dan intensitas emosi sudah diisi berdasarkan keterangan saya.
 
 ## Panduan pengisian template umum
 
@@ -132,7 +147,7 @@ Pada bagian `Analisis komunikasi`, hubungkan jawaban dengan episode di atas:
 
 Pada bagian `Feedback dan tindak lanjut`:
 
-- **Feedback yang diterima:** Belum ada feedback formal dari keluarga, teman, atau anggota kelompok yang dicatat untuk episode ini. Artifact yang tersedia adalah screenshot riwayat commit dan tautan repository, yang mendukung tindakan teknis; catatan refleksi juga menyatakan bahwa tubes terkumpul sebelum deadline, saya tidak ikut perjalanan keluarga, dan tetap hadir di kegiatan GDGoC.
+- **Feedback yang diterima:** Balasan teman dan Mama pada screenshot menunjukkan pesan dipahami dan diterima. Belum ada feedback formal tambahan dari anggota kelompok. Artifact commit dan chat teknis mendukung tindakan akademik; catatan refleksi menyatakan bahwa tubes terkumpul sebelum deadline dan saya tidak ikut perjalanan keluarga.
 - **Adaptation/replay:** Jika episode ini diulang, saya akan membuat checkpoint lebih awal, mengatur commit dengan lebih teratur, dan menetapkan batas berhenti setelah tugas selesai. Saya juga akan menilai kondisi tubuh sebelum memutuskan mengikuti kegiatan berikutnya, bukan hanya mempertimbangkan apakah tugas sudah terkumpul.
 - **Next practice:** Pada tugas kelompok berikutnya, saya akan membuat checkpoint status program, Git, dan laporan beberapa jam sebelum deadline serta menetapkan waktu pemulihan setelah pengumpulan.
 
@@ -148,10 +163,10 @@ AI digunakan untuk membantu menata jawaban ke dalam struktur portfolio berdasark
 |---|---:|---|
 | Person & Character | 3 | Saya membedakan dorongan memaksa diri dari character yang ingin mengatur prioritas dan batas fisik. |
 | Objective & State | 3 | Deadline, kondisi awal tugas, target pengumpulan, dan kondisi lelah setelahnya dijelaskan. |
-| Repertoire, Language & AI | 3 | Strategi Git, penolakan ajakan, komunikasi kepada keluarga, serta penggunaan AI dan pemeriksaan fakta sudah dicatat. |
+| Repertoire, Language & AI | 4 | Strategi Git, penolakan ajakan, komunikasi kepada keluarga, serta penggunaan AI dan pemeriksaan fakta sudah dicatat. |
 | Response & Adaptation | 3 | Saya menyelesaikan tugas dan menolak perjalanan, tetapi keputusan mengikuti kegiatan siang dalam kondisi kurang tidur perlu dievaluasi. |
-| Agreement, Action & Relationship | 3 | Internal agreement menghasilkan pengumpulan sebelum deadline dan batas sosial, tetapi feedback langsung belum tersedia. |
+| Agreement, Action & Relationship | 4 | Screenshot balasan teman dan Mama memverifikasi penerimaan batas sosial. |
 
-**Total sementara:** 15 / 20
+**Total sementara:** 17 / 20
 
 {{< include ../includes/evidence-template.md >}}
