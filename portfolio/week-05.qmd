@@ -101,7 +101,7 @@ Catat bagian yang menunjukkan pengalaman konkret. Jika tidak dapat membagikan tr
 
 > “Penjual diecast mengalami profit yang sangat kecil atau hanya balik modal ketika menjual melalui marketplace dengan biaya admin yang dapat mencapai 20%, sehingga harus menaikkan harga barang dan membuat calon pembeli kurang tertarik. Ia membutuhkan proses jual beli melalui perantara yang aman, mudah digunakan, dan memiliki biaya jasa yang masuk akal agar dapat mempertahankan harga yang wajar serta memperoleh profit yang layak, dengan mempertimbangkan tingkat kepercayaan perantara dan kemudahan calon pembeli.”
 
-**Konfirmasi partner menurut catatan interview:** Jon menyatakan bahwa shared problem statement tersebut menggambarkan masalahnya. Ia merasa senang karena rumusan tersebut menangkap persoalan biaya admin dan adanya alternatif yang dapat dipertimbangkan. Catatan ini belum didukung screenshot konfirmasi tertulis yang terpisah.
+**Konfirmasi partner:** Jon menyatakan bahwa shared problem statement tersebut sudah benar melalui pesan tertulis pada screenshot `ss-chat-facebook2.png`. Respons “Udah bener bro” dan “Yoi bro” menjadi bukti konfirmasi langsung atas rangkuman masalah.
 
 ## Evidence, feedback, dan next step
 
@@ -120,15 +120,30 @@ Screenshot ini menunjukkan partner menyampaikan bahwa biaya admin marketplace da
 ![Screenshot consent dan konfirmasi shared problem statement](../assets/evidence/screenshot/ss-chat-facebook2.png){width=85%}
 
 Screenshot tambahan menunjukkan partner menjawab “aman aja bro santai aja” ketika saya meminta izin menggunakan percakapan untuk wawancara portfolio. Screenshot yang sama juga menunjukkan partner menyetujui rangkuman masalah dengan “udah bener bro” dan mengonfirmasi rumusan inti “yoi bro”. Artifact ini mendukung consent penggunaan percakapan dan konfirmasi tertulis shared problem statement.
+
+**Transkrip teks artifact untuk verifikasi langsung:**
+
+> **Saya:** “Rencananya percakapan kita bakal gw pake buat wawancara salah satu tugas portfolio gw, kira-kira aman ga ya?”
+>
+> **Partner:** “Aman aja bro santai aja.”
+>
+> **Saya:** “Kalau lu sebagai seller di jual-beli diecast ngerasa keberatan karena admin marketplace yang lumayan gede dan itu ngurangin profit lu saat ngejual diecast, kira-kira udah bener belum rangkuman gw?”
+>
+> **Partner:** “Udah bener bro.”
+>
+> **Saya:** “Berarti problem utama yang lu alami tuh ‘Admin marketplace yang terlalu besar’, kan?”
+> **Partner:** “Yoi bro.”
+
+Transkrip ini ditulis dari screenshot yang dilampirkan, dengan identitas partner disamarkan. Screenshot asli tetap menjadi artifact utama; transkrip menyediakan bentuk teks yang dapat dibaca assessor bila gambar atau tautan eksternal tidak dapat diakses.
 :::
 
 **Feedback yang diterima:** Partner merasa nyaman dan santai selama interview karena topik jual beli diecast merupakan topik yang ia sukai. Ia juga menyatakan senang karena rumusan menangkap masalah biaya admin dan alternatif yang dapat dipertimbangkan. Saya belum menerima feedback observer, sehingga belum dapat menilai aspek nonverbal dari sudut pandang pengamat.
 
 **Adaptasi/replay:** Jika interview diulang, saya akan menanyakan frekuensi masalah, jumlah transaksi yang terdampak, dan perbandingan biaya secara lebih terukur. Saya juga akan meminta izin terlebih dahulu apabila ingin mencatat atau merekam, serta tetap menggunakan pertanyaan terbuka sebelum membahas marketplace tertentu.
 
-**Next step:** Saya akan melengkapi durasi interview. Jika memungkinkan, saya akan mewawancarai satu atau dua pelaku usaha diecast lain untuk memeriksa apakah masalah biaya admin, keamanan transaksi, dan kepercayaan perantara juga muncul pada pengalaman mereka. Saya juga akan meminta bukti biaya atau riwayat harga yang dapat dibagikan tanpa membuka data sensitif.
+**Next step:** Saya akan menggunakan hasil interview ini sebagai discovery awal. Jika diperlukan untuk keputusan berikutnya, saya akan memeriksa data biaya atau riwayat harga yang dapat dibagikan tanpa membuka data sensitif. Kesimpulan portfolio dibatasi pada pengalaman partner ini.
 
-**Template artefak revisi yang masih dibutuhkan:**
+**Artefak revisi yang sudah tersedia:**
 
 | Artefak | Isi minimum | Status |
 |---|---|---|
@@ -148,8 +163,8 @@ AI digunakan untuk membantu menata hasil interview ke dalam struktur portfolio. 
 | Person & Character | 4 | Peran Jon sebagai pelaku usaha dan kebutuhan penjual serta calon pembeli sudah dipetakan. |
 | Objective & State | 3 | Initial assumption berubah setelah biaya admin, profit, dan dampak harga dipahami. |
 | Repertoire, Language & AI | 3 | Pertanyaan discovery, paraphrase, klasifikasi fakta, dan penggunaan AI sudah dijelaskan. |
-| Response & Adaptation | 4 | Rumusan diperbaiki dan dikonfirmasi kepada Jon; interview tambahan sudah dilakukan. |
-| Agreement, Action & Relationship | 4 | Consent penggunaan percakapan dan konfirmasi tertulis atas rangkuman/shared problem statement sudah dilampirkan; interview tambahan sudah dilakukan. |
+| Response & Adaptation | 3 | Rumusan diperbaiki dan dikonfirmasi kepada Jon berdasarkan satu interview discovery. |
+| Agreement, Action & Relationship | 4 | Consent penggunaan percakapan dan konfirmasi tertulis atas rangkuman/shared problem statement sudah dilampirkan. |
 
 **Total sementara:** 18 / 20
 

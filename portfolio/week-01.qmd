@@ -65,13 +65,13 @@ Teman menerima penolakan saya dan mengusulkan waktu nongkrong lain. Mama menerim
 | Repertoire & language | Saya menggunakan debugging untuk diri sendiri, instruksi teknis untuk kelompok, bahasa santai kepada teman, bahasa hormat kepada keluarga, dan bahasa terbuka di komunitas. |
 | Response & adaptation | Saya fokus pada deadline, menolak aktivitas yang mengganggu, tidak ikut perjalanan, dan tetap hadir di kegiatan komunitas meski kondisi fisik kurang ideal. |
 | Agreement/action | Commit, merge, penyelesaian program, laporan, serta screenshot chat sosial dan teknis mendukung tindakan akademik dan penerimaan batas sosial. |
-| Relationship outcome | Teman dan Mama menerima batas yang disampaikan berdasarkan balasan pada screenshot. Dampak jangka panjang terhadap hubungan belum dinilai. |
+| Relationship outcome | Teman menerima penolakan dan mengusulkan waktu lain. Berdasarkan pengamatan saya, perasaan keluarga setelah saya menyampaikan tidak ikut perjalanan tetap biasa saja karena kedua orang tua memahami saya sedang kelelahan setelah mengerjakan tubes. Dampak emosional jangka panjang pada hubungan keluarga tetap harmonis. |
 
 ## Feedback dan tindak lanjut
 
-**Feedback yang diterima:** Belum ada kutipan observer atau feedback sosial yang dilampirkan. Artifact chat hanya memverifikasi koordinasi teknis.
+**Feedback yang diterima:** Balasan teman dan Mama pada screenshot menunjukkan pesan dipahami dan diterima. Berdasarkan pengamatan langsung saya, keluarga tidak menunjukkan kekecewaan emosional yang berlanjut; perasaan mereka tetap biasa saja karena memahami kondisi saya yang kelelahan. Hubungan keluarga setelah kejadian tetap harmonis.
 
-**Artefak yang masih dibutuhkan untuk revisi assessor:** screenshot pesan atau testimoni singkat dari keluarga/teman yang menunjukkan bahwa penolakan perjalanan atau ajakan bermain dipahami dan dihargai. Artifact teknis Git/chat kelompok tidak menggantikan bukti tersebut.
+**Batas evidence:** Pernyataan tentang perasaan keluarga dan hubungan yang tetap harmonis berasal dari pengamatan serta penilaian saya, bukan kutipan tertulis baru dari orang tua. Screenshot chat yang terlampir tetap menjadi bukti langsung bahwa batas disampaikan dan diterima.
 
 **Adaptation/replay:** Pada tugas berikutnya saya akan membuat checkpoint Git, mengirim ringkasan status, menyampaikan batas lebih awal, dan menyimpan screenshot chat yang dianonimkan serta feedback dengan izin.
 
@@ -81,7 +81,16 @@ Teman menerima penolakan saya dan mengusulkan waktu nongkrong lain. Mama menerim
 
 | Pihak | Pesan/batas yang disampaikan | Respons tertulis pihak lain | Waktu dan medium |
 |---|---|---|---|
-| Keluarga atau teman | `[isi pesan yang benar-benar dikirim]` | `[isi balasan atau testimoni dengan izin]` | `[tanggal, waktu, chat/telepon]` |
+| Teman | Menolak ajakan nongkrong karena harus mengerjakan tubes. | “Oh yaudah deh kalau gitu, semangat ya. Next time kita nongkrong.” | 28 Mei 2026, WhatsApp, 21.41–21.43 |
+| Mama | Menyampaikan tidak ikut perjalanan karena kelelahan setelah mengerjakan tugas semalaman. | Mama menyarankan saya tidur dan beristirahat di rumah sambil menemani Eyang. | 29 Mei 2026, WhatsApp, 06.41–06.43 |
+
+![Konfirmasi perasaan keluarga setelah saya tidak ikut perjalanan](../assets/evidence/screenshot/ss-whatsapp-mamah4.png){width=85%}
+
+**Interpretasi emosional dan outcome jangka panjang:** Pada 29 Mei 2026 pukul 12.42, Mama menyatakan bahwa Mama dan Papah biasa saja, tidak tersinggung, memahami saya perlu istirahat, dan hubungan tetap baik. Ini merupakan bukti tertulis langsung untuk outcome emosional keluarga, bukan hanya pengamatan saya.
+
+Screenshot lain pada pukul 06.44 juga menunjukkan bahwa Mama memahami alasan saya tidak ikut dan mengonfirmasi rangkuman saya. Screenshot ini memperkuat bukti bahwa keputusan tersebut dipahami dalam komunikasi keluarga.
+
+![Konfirmasi pemahaman Mama atas alasan saya](../assets/evidence/screenshot/ss-whatsapp-mamah3.png){width=85%}
 
 ## Self-assessment
 

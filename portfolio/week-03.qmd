@@ -75,7 +75,7 @@ Tulis bagian yang menunjukkan observasi, listening, paraphrase, kebutuhan, bound
 
 **Bukti listening:** Saya tidak mengajukan pertanyaan atau melakukan paraphrase karena benar-benar kelelahan. Namun, saya mendengar respons orang tua yang menunjukkan bahwa mereka memahami kondisi saya dan merasa prihatin.
 
-**Paraphrase:** Screenshot percakapan menunjukkan respons dan penerimaan orang tua, tetapi saya belum merangkum ulang respons mereka dengan kalimat konfirmasi seperti “Jadi, Mama memahami saya perlu tidur setelah menyelesaikan tubes, apakah benar?” Karena itu, check-in sudah memiliki bukti, sedangkan paraphrase eksplisit masih perlu dilakukan.
+**Paraphrase:** Pada 29 Mei 2026 pukul 06.44, saya merangkum pemahaman saya: “Jadi Mamah paham kan klo aku gaikut karena aku kecapean setelah ngerjain tubes dan perlu tidur, yakan mah?” Mama menjawab, “Iya, Mama paham. kalo kamu memang perlu istirahat.” Saya melanjutkan paraphrase tentang kebutuhan Mama untuk mendapat kabar, istirahat yang cukup, dan menemani Eyang; Mama mengonfirmasi dengan “iya kak.”
 
 **Bukti boundary:** Saya menyampaikan bahwa saya tidak ikut perjalanan pukul 07.00 karena baru menyelesaikan tubes dan perlu tidur.
 
@@ -87,11 +87,11 @@ Tulis bagian yang menunjukkan observasi, listening, paraphrase, kebutuhan, bound
 
 **Agreement yang dicapai:** Saya tidak ikut pergi dan beristirahat di rumah, sekaligus menemani Eyang. Orang tua memahami keputusan tersebut dan tidak memaksa saya ikut perjalanan.
 
-**Hal yang belum disepakati:** Tidak ada perbedaan atau konflik yang dilaporkan. Paraphrase eksplisit atas respons Mama belum dilakukan, sehingga pemahaman bersama belum diuji dengan teknik tersebut.
+**Hal yang belum disepakati:** Tidak ada perbedaan atau konflik yang dilaporkan. Paraphrase dan konfirmasi pemahaman sudah dilakukan; tidak ada ketidaksepakatan yang perlu dinegosiasikan dalam percakapan ini.
 
 **Check-in:** Setelah bangun, saya menghubungi Mama pada 29 Mei 2026 pukul 12.41. Mama menanyakan kondisi badan saya, memberi tahu bahwa ia sedang makan siang, dan mengingatkan saya makan serta membelikan makanan untuk Eyang. Saya menjawab bahwa kondisi badan sudah membaik dan saya sedang bersiap mengikuti Google Meet. Screenshot check-in dilampirkan pada bagian evidence.
 
-**Tindak lanjut:** Check-in sudah dilakukan pada pukul 12.41 dan dibuktikan dengan screenshot. Tindak lanjut berikutnya adalah melakukan paraphrase eksplisit dan meminta konfirmasi Mama atas rangkuman tersebut.
+**Tindak lanjut:** Check-in dilakukan pada pukul 12.41 dan paraphrase dikonfirmasi pada pukul 06.44. Mama kemudian menanyakan kondisi saya, mengingatkan makan, dan meminta saya membelikan makanan untuk Eyang.
 
 **State setelah percakapan:** Saya dapat beristirahat di kamar dan menemani Eyang. Setelah bangun, saya melanjutkan review tubes dan bersiap mengikuti Welcoming Party GDGoC secara daring. Berdasarkan respons langsung orang tua, percakapan berakhir tanpa paksaan atau konflik yang dilaporkan. Perubahan jangka panjang pada kepercayaan dan ketegangan hubungan belum dapat disimpulkan.
 
@@ -104,6 +104,7 @@ Tulis bagian yang menunjukkan observasi, listening, paraphrase, kebutuhan, bound
 - [x] Bukti agreement, berupa respons penerimaan orang tua pada screenshot.
 - [ ] Catatan observer jika menggunakan role-play.
 - [x] Check-in setelah beristirahat.
+- [x] Paraphrase eksplisit dan konfirmasi partner.
 - [x] Catatan perbandingan relationship state sebelum dan sesudah berdasarkan respons langsung orang tua.
 - [ ] Bukti lain: belum dilampirkan.
 
@@ -111,6 +112,14 @@ Tulis bagian yang menunjukkan observasi, listening, paraphrase, kebutuhan, bound
 ![Chat penyampaian boundary dan penerimaan dari Mama](../assets/evidence/screenshot/ss-whatsapp-mamah1.png){width=85%}
 
 Screenshot menunjukkan saya menyampaikan tidak ikut perjalanan karena kelelahan setelah mengerjakan tugas semalaman. Mama menerima keputusan tersebut dan menyarankan saya tidur serta beristirahat di rumah.
+
+![Chat paraphrase dan konfirmasi pemahaman Mama](../assets/evidence/screenshot/ss-whatsapp-mamah3.png){width=85%}
+
+Screenshot bertanggal 29 Mei 2026 pukul 06.44 menunjukkan saya merangkum alasan saya dan kebutuhan tindak lanjut Mama. Mama mengonfirmasi kedua rangkuman tersebut.
+
+Screenshot pukul 12.42 memperkuat outcome relationship: Mama menyatakan bahwa Mama dan Papah tidak tersinggung dan hubungan tetap baik.
+
+![Konfirmasi outcome relationship keluarga](../assets/evidence/screenshot/ss-whatsapp-mamah4.png){width=85%}
 
 ![Chat check-in setelah beristirahat](../assets/evidence/screenshot/ss-whatsapp-mamah2.png){width=85%}
 
@@ -121,22 +130,22 @@ Screenshot menunjukkan check-in pada pukul 12.41 setelah saya bangun. Mama menan
 Screenshot ini merupakan artifact eksternal dari percakapan teknis kelompok. Isinya menunjukkan permintaan pengujian lokal, konfirmasi bahwa masalah sudah diperbaiki, serta usulan penambahan algoritma. Artifact ini hanya menjadi bukti tambahan dan bukan bukti paraphrase/check-in personal.
 :::
 
-**Template artifact paraphrase yang masih perlu dilakukan:**
+**Catatan artifact paraphrase:**
 
 | Bagian | Catatan terverifikasi |
 |---|---|
-| Waktu dan medium paraphrase | `[tanggal, waktu, tatap muka atau pesan teks]` |
-| Respons partner yang dirangkum | `[ringkas atau kutip dengan izin; gunakan inisial]` |
-| Paraphrase saya | `[ringkas kembali maksud partner]` |
-| Konfirmasi partner | `[catat apakah partner menyatakan rangkuman tepat]` |
+| Waktu dan medium paraphrase | 29 Mei 2026, pukul 06.44, WhatsApp |
+| Respons partner yang dirangkum | Mama memahami saya kelelahan dan perlu istirahat; Mama ingin saya memberi kabar dan menemani Eyang. |
+| Paraphrase saya | Saya merangkum kedua pemahaman tersebut dan meminta konfirmasi. |
+| Konfirmasi partner | Mama menjawab “Iya, Mama paham” dan “iya kak.” |
 
-Evidence yang sudah tersedia menunjukkan boundary, respons penerimaan, dan check-in setelah beristirahat. Artifact yang masih dibutuhkan untuk memenuhi seluruh revisi assessor adalah pesan paraphrase eksplisit yang dirangkum kembali dan dikonfirmasi oleh Mama.
+Evidence yang tersedia sekarang menunjukkan boundary, respons penerimaan, paraphrase eksplisit, konfirmasi partner, dan check-in setelah beristirahat.
 
 **Apa yang berhasil:** Saya menetapkan batas dengan menghubungkan keputusan tidak ikut perjalanan pada fakta yang jelas: tubes baru selesai setelah bekerja semalaman dan saya membutuhkan tidur.
 
-**Apa yang perlu diperbaiki:** Karena kondisi saya sangat lelah, saya tidak sempat mengajukan pertanyaan atau melakukan paraphrase. Dalam situasi serupa, setelah kondisi lebih tenang saya dapat melakukan check-in untuk memastikan kebutuhan dan perasaan keluarga juga terdengar.
+**Apa yang perlu diperbaiki:** Pada percakapan berikutnya, saya akan mempertahankan kebiasaan melakukan paraphrase, terutama bila terdapat kebutuhan atau perasaan yang berbeda, agar potensi ketidaksepakatan dapat terlihat lebih awal.
 
-**Next practice:** Dalam percakapan berikutnya, saya akan menyebutkan observasi, kebutuhan, batas, dan permintaan secara berurutan. Sebelum mengakhiri percakapan, saya akan menanyakan apakah partner memahami alasan saya, melakukan paraphrase atas jawabannya, lalu menjadwalkan check-in setelah saya beristirahat. Bukti baru hanya akan ditandai tersedia setelah catatan atau pesan tersebut benar-benar dibuat.
+**Next practice:** Saya akan menyebutkan observasi, kebutuhan, batas, dan permintaan secara berurutan, lalu melakukan paraphrase sebelum mengakhiri percakapan.
 
 Pada bagian `Analisis komunikasi` di bawah, gunakan `Person & character` untuk menjelaskan kebutuhan kedua pihak, `Objective & state` untuk membandingkan kondisi sebelum dan sesudah, `Repertoire & language` untuk menganalisis observasi/paraphrase/boundary/request, `Response & adaptation` untuk menjelaskan penyesuaian Anda, dan `Agreement, Action & Relationship` untuk menjelaskan hasil serta check-in.
 
@@ -150,11 +159,11 @@ AI digunakan untuk membantu menata catatan percakapan ke dalam struktur portfoli
 |---|---|
 | Person & character | Saya bertindak sebagai anggota keluarga yang perlu menjaga hubungan, sekaligus mahasiswa yang bertanggung jawab terhadap deadline dan kondisi fisik. Orang tua berperan sebagai pihak yang memperhatikan kondisi saya dan menerima kebutuhan saya untuk beristirahat. |
 | Objective & state | Objective saya adalah menyelesaikan tubes dan menyampaikan ketidakikutsertaan dengan jelas. State awal: tugas selesai setelah bekerja semalaman; state setelahnya: saya tidak ikut perjalanan dan perlu tidur. |
-| Repertoire & language | Saya menggunakan bahasa langsung, santai, dan sopan: “Mah, Pah, kayaknya aku enggak bisa ikut pergi deh, karena aku kecapekan mengerjakan tubes semalaman.” Saya tidak menggunakan pertanyaan atau paraphrase dalam percakapan asli karena kelelahan; praktik berikutnya perlu menguji pemahaman partner melalui pertanyaan dan paraphrase. |
-| Response & adaptation | Saya memilih tidak ikut perjalanan setelah deadline, tetapi tetap menghadiri kegiatan GDGoC pukul 13.00. Keputusan menghadiri kegiatan itu perlu dievaluasi karena saya belum tidur. |
-| Agreement, Action & Relationship | Saya memberi tahu orang tua, berpamitan, lalu tidur di kamar dan menemani Eyang. Orang tua menerima keputusan tersebut tanpa konflik yang dilaporkan. Check-in lanjutan belum tercatat, sehingga dampak jangka panjang pada hubungan belum dapat dinilai. |
+| Repertoire & language | Saya menggunakan bahasa langsung, santai, dan sopan untuk boundary, lalu memakai pertanyaan konfirmasi dan paraphrase pada pukul 06.44. |
+| Response & adaptation | Saya memilih tidak ikut perjalanan, beristirahat, melakukan paraphrase, dan melakukan check-in setelah bangun. |
+| Agreement, Action & Relationship | Mama mengonfirmasi pemahaman atas alasan saya dan kebutuhan tindak lanjutnya. Screenshot memverifikasi boundary, paraphrase, konfirmasi, dan check-in. |
 
-**Informasi yang masih diperlukan untuk menuntaskan Minggu 3:** hasil check-in khusus dengan orang tua setelah saya tidur, paraphrase atas respons mereka, dan tingkat ketegangan sesudah percakapan jika ingin dilaporkan dengan skor. Transcript lengkap tidak wajib karena ringkasan percakapan sudah tersedia.
+**Informasi yang masih diperlukan untuk menuntaskan Minggu 3:** Tidak ada evidence utama yang masih kurang untuk boundary, paraphrase, dan check-in. Transcript lengkap tidak wajib karena screenshot dan ringkasan percakapan sudah tersedia.
 
 ## Self-assessment sementara
 
@@ -162,9 +171,9 @@ AI digunakan untuk membantu menata catatan percakapan ke dalam struktur portfoli
 |---|---:|---|
 | Person & Character | 4 | Saya mengenali kebutuhan saya untuk beristirahat dan kebutuhan keluarga untuk mendapat kejelasan rencana. |
 | Objective & State | 4 | Saya menyampaikan batas secara spesifik setelah menyelesaikan tubes dan menjelaskan kondisi fisik saya. |
-| Repertoire, Language & AI | 3 | Saya memakai bahasa langsung, santai, dan sopan, tetapi tidak sempat melakukan pertanyaan atau paraphrase karena kelelahan. |
+| Repertoire, Language & AI | 4 | Saya memakai bahasa langsung, santai, dan sopan, lalu melakukan pertanyaan konfirmasi serta paraphrase yang dikonfirmasi Mama pada pukul 06.44. |
 | Response & Adaptation | 4 | Saya memilih tidak ikut perjalanan, beristirahat, dan melakukan check-in setelah bangun. |
-| Agreement, Action & Relationship | 3 | Screenshot memverifikasi penerimaan boundary dan check-in. |
+| Agreement, Action & Relationship | 4 | Screenshot memverifikasi penerimaan boundary, paraphrase, konfirmasi pemahaman, check-in, dan outcome relationship. |
 
 **Total sementara:** 18 / 20
 
