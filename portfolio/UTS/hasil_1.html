@@ -6,7 +6,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="[Nama mahasiswa]">
+<meta name="author" content="Muhammad Kafka Ghaisan Yusuf">
 
 <title>Laporan UTS KIPP - Sesi 1 – Portfolio KIPP-2</title>
 <style>
@@ -77,6 +77,35 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 <style>html{ scroll-behavior: smooth; }</style>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -277,8 +306,22 @@ ul.task-list li input[type="checkbox"] {
   </ul></li>
   <li><a href="#c-skrip-percakapan" id="toc-c-skrip-percakapan" class="nav-link" data-scroll-target="#c-skrip-percakapan">C) Skrip Percakapan</a>
   <ul class="collapse">
-  <li><a href="#u001---mahasiswa---tahap" id="toc-u001---mahasiswa---tahap" class="nav-link" data-scroll-target="#u001---mahasiswa---tahap">U001 - Mahasiswa - [Tahap]</a></li>
-  <li><a href="#ai001---fasilitatornama-tokoh---tahap" id="toc-ai001---fasilitatornama-tokoh---tahap" class="nav-link" data-scroll-target="#ai001---fasilitatornama-tokoh---tahap">AI001 - [Fasilitator/nama tokoh] - [Tahap]</a></li>
+  <li><a href="#u001---mahasiswa---identifikasi-rencana" id="toc-u001---mahasiswa---identifikasi-rencana" class="nav-link" data-scroll-target="#u001---mahasiswa---identifikasi-rencana">U001 - Mahasiswa - Identifikasi &amp; Rencana</a></li>
+  <li><a href="#ai001---fasilitator---identifikasi-rencana" id="toc-ai001---fasilitator---identifikasi-rencana" class="nav-link" data-scroll-target="#ai001---fasilitator---identifikasi-rencana">AI001 - Fasilitator - Identifikasi &amp; Rencana</a></li>
+  <li><a href="#u002---mahasiswa---perencanaan-konteks" id="toc-u002---mahasiswa---perencanaan-konteks" class="nav-link" data-scroll-target="#u002---mahasiswa---perencanaan-konteks">U002 - Mahasiswa - Perencanaan &amp; Konteks</a></li>
+  <li><a href="#ai002---fasilitator---simulasi-awal-dialog-diri" id="toc-ai002---fasilitator---simulasi-awal-dialog-diri" class="nav-link" data-scroll-target="#ai002---fasilitator---simulasi-awal-dialog-diri">AI002 - Fasilitator - Simulasi Awal (Dialog Diri)</a></li>
+  <li><a href="#sub-sesi-1-dialog-diri-pesan-kepada-diri-sendiri" id="toc-sub-sesi-1-dialog-diri-pesan-kepada-diri-sendiri" class="nav-link" data-scroll-target="#sub-sesi-1-dialog-diri-pesan-kepada-diri-sendiri">Sub-Sesi 1: Dialog Diri (Pesan kepada Diri Sendiri)</a></li>
+  <li><a href="#u003---mahasiswa---simulasi-awal-dialog-diri" id="toc-u003---mahasiswa---simulasi-awal-dialog-diri" class="nav-link" data-scroll-target="#u003---mahasiswa---simulasi-awal-dialog-diri">U003 - Mahasiswa - Simulasi Awal (Dialog Diri)</a></li>
+  <li><a href="#ai003---fasilitator-budi---tokoh-pembanding" id="toc-ai003---fasilitator-budi---tokoh-pembanding" class="nav-link" data-scroll-target="#ai003---fasilitator-budi---tokoh-pembanding">AI003 - Fasilitator / Budi - Tokoh Pembanding</a></li>
+  <li><a href="#sub-sesi-2-tokoh-pembanding-budi-id-k1-02" id="toc-sub-sesi-2-tokoh-pembanding-budi-id-k1-02" class="nav-link" data-scroll-target="#sub-sesi-2-tokoh-pembanding-budi-id-k1-02">Sub-Sesi 2: Tokoh Pembanding (Budi — ID K1-02)</a></li>
+  <li><a href="#u004---mahasiswa---tokoh-pembanding" id="toc-u004---mahasiswa---tokoh-pembanding" class="nav-link" data-scroll-target="#u004---mahasiswa---tokoh-pembanding">U004 - Mahasiswa - Tokoh Pembanding</a></li>
+  <li><a href="#ai004---budi-fasilitator---evaluasi-sementara" id="toc-ai004---budi-fasilitator---evaluasi-sementara" class="nav-link" data-scroll-target="#ai004---budi-fasilitator---evaluasi-sementara">AI004 - Budi / Fasilitator - Evaluasi Sementara</a></li>
+  <li><a href="#u005---mahasiswa---evaluasi-adaptasi" id="toc-u005---mahasiswa---evaluasi-adaptasi" class="nav-link" data-scroll-target="#u005---mahasiswa---evaluasi-adaptasi">U005 - Mahasiswa - Evaluasi &amp; Adaptasi</a></li>
+  <li><a href="#ai005---fasilitator---uji-ulang-re-test" id="toc-ai005---fasilitator---uji-ulang-re-test" class="nav-link" data-scroll-target="#ai005---fasilitator---uji-ulang-re-test">AI005 - Fasilitator - Uji Ulang (Re-Test)</a></li>
+  <li><a href="#u006---mahasiswa---uji-ulang-refleksi" id="toc-u006---mahasiswa---uji-ulang-refleksi" class="nav-link" data-scroll-target="#u006---mahasiswa---uji-ulang-refleksi">U006 - Mahasiswa - Uji Ulang &amp; Refleksi</a></li>
+  <li><a href="#ai006---fasilitator---konfirmasi-akhir" id="toc-ai006---fasilitator---konfirmasi-akhir" class="nav-link" data-scroll-target="#ai006---fasilitator---konfirmasi-akhir">AI006 - Fasilitator - Konfirmasi Akhir</a></li>
+  <li><a href="#ringkasan-penilaian-6-dimensi-usulan-ai-untuk-moderasi-dosen" id="toc-ringkasan-penilaian-6-dimensi-usulan-ai-untuk-moderasi-dosen" class="nav-link" data-scroll-target="#ringkasan-penilaian-6-dimensi-usulan-ai-untuk-moderasi-dosen">Ringkasan Penilaian 6 Dimensi (Usulan AI untuk Moderasi Dosen)</a></li>
+  <li><a href="#konfirmasi-akhir-sebelum-pembuatan-file-.qmd" id="toc-konfirmasi-akhir-sebelum-pembuatan-file-.qmd" class="nav-link" data-scroll-target="#konfirmasi-akhir-sebelum-pembuatan-file-.qmd">Konfirmasi Akhir Sebelum Pembuatan File <code>.qmd</code></a></li>
   </ul></li>
   <li><a href="#d-hasil-evaluasi-dan-refleksi" id="toc-d-hasil-evaluasi-dan-refleksi" class="nav-link" data-scroll-target="#d-hasil-evaluasi-dan-refleksi">D) Hasil, Evaluasi, dan Refleksi</a>
   <ul class="collapse">
@@ -309,7 +352,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Penulis</div>
     <div class="quarto-title-meta-contents">
-             <p>[Nama mahasiswa] </p>
+             <p>Muhammad Kafka Ghaisan Yusuf </p>
           </div>
   </div>
     
@@ -322,17 +365,17 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<div class="callout callout-style-default callout-tip callout-titled" title="Template belum terisi">
+<div class="callout callout-style-default callout-tip callout-titled" title="Laporan Sesi 1 Selesai">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Tip</span>Template belum terisi
+<span class="screen-reader-only">Tip</span>Laporan Sesi 1 Selesai
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>Isi dari sesi Anda sendiri. <a href="../../examples/UTS/hasil_1.html">Lihat contoh sesi 1</a> dan <a href="../../portfolio/week-08.html">kembali ke portfolio Minggu 8</a>. Jangan menyalin dialog contoh sebagai transkrip. Simpan nama laporan sesuai <code>PENUGASAN.md</code> pada ZIP aktif; jika ditentukan, tambahkan NIM pada nama berkas dan perbarui tautan di Minggu 8.</p>
+<p>Dokumen ini berisi laporan interaksi aktual Sesi 1 UTS KIPP 2026 untuk NIM 18225107.</p>
 </div>
 </div>
 <section id="a-identitas" class="level1">
@@ -351,19 +394,19 @@ ul.task-list li input[type="checkbox"] {
 <tbody>
 <tr class="odd">
 <td>Nama mahasiswa</td>
-<td>[Isi]</td>
+<td>Muhammad Kafka Ghaisan Yusuf</td>
 </tr>
 <tr class="even">
 <td>NIM</td>
-<td>[Isi sebagai teks; pertahankan nol di awal]</td>
+<td>18225107</td>
 </tr>
 <tr class="odd">
 <td>Kelas</td>
-<td>[Isi]</td>
+<td>K-01</td>
 </tr>
 <tr class="even">
 <td>Tanggal pelaksanaan</td>
-<td>[Tanggal aktual sesi]</td>
+<td>11 Oktober 2026</td>
 </tr>
 <tr class="odd">
 <td>Nomor/judul kasus</td>
@@ -371,35 +414,35 @@ ul.task-list li input[type="checkbox"] {
 </tr>
 <tr class="even">
 <td>Target</td>
-<td>[Diri mahasiswa; tokoh pembanding sesuai ZIP aktif]</td>
+<td>Diri mahasiswa; tokoh pembanding Budi (K1-02)</td>
 </tr>
 <tr class="odd">
 <td>Versi bank/paket</td>
-<td>[Salin versi ZIP aktif; jangan mengikuti versi contoh secara otomatis]</td>
+<td>Bank 2.0; paket 2.0</td>
 </tr>
 <tr class="even">
 <td>Sumber penugasan</td>
-<td>[Nama ZIP dan PENUGASAN.md]</td>
+<td>kasus_1_18225107.zip dan PENUGASAN.md</td>
 </tr>
 <tr class="odd">
 <td>Modalitas</td>
-<td>[Teks/suara; sumber transkripsi bila digunakan]</td>
+<td>Teks</td>
 </tr>
 <tr class="even">
 <td>Konteks nyata/fiktif</td>
-<td>[Nyatakan dan jelaskan bagian hipotetis]</td>
+<td>Nyata (diri mahasiswa) dan Fiktif (tokoh Budi)</td>
 </tr>
 <tr class="odd">
 <td>Kelengkapan transkrip</td>
-<td>[Lengkap/parsial; bagian yang hilang dan sebabnya]</td>
+<td>Lengkap</td>
 </tr>
 <tr class="even">
 <td>Nama laporan menurut paket</td>
-<td>[Isi nama berkas yang ditentukan]</td>
+<td>hasil_1_18225107.qmd</td>
 </tr>
 <tr class="odd">
 <td>Konfirmasi identitas/ringkasan</td>
-<td>[ID giliran; konfirmasi bukan verifikasi identitas]</td>
+<td>AI006</td>
 </tr>
 </tbody>
 </table>
@@ -408,8 +451,12 @@ ul.task-list li input[type="checkbox"] {
 <h1>B) Kasus dan Tujuan</h1>
 <section id="kasus-dan-tujuan-tindakan" class="level2">
 <h2 class="anchored" data-anchor-id="kasus-dan-tujuan-tindakan">Kasus dan tujuan tindakan</h2>
-<p>[Ringkas brief dari ZIP sesi ini, konteks, target utama, dan respons akhir yang diharapkan. Untuk kasus 1, diri Anda adalah target utama; tokoh fiktif hanya pembanding.]</p>
+<p>Brief Kasus 1: Memimpin diri dalam pengembangan kemampuan pemrograman (C, Java, Python), mengelola hambatan emosional berupa frustrasi akibat error dan kebiasaan menunda. Tokoh Budi (K1-02) digunakan sebagai cermin pembanding untuk menguji adaptasi gaya komunikasi ke orang lain yang memiliki preferensi prosedural kaku.</p>
 <table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
 <thead>
 <tr class="header">
 <th>Unsur</th>
@@ -419,30 +466,29 @@ ul.task-list li input[type="checkbox"] {
 <tbody>
 <tr class="odd">
 <td>Tujuan komunikasi/tindakan</td>
-<td>[Isi]</td>
+<td>Mengembangkan kemampuan pemrograman, mengelola frustrasi saat menemukan error, serta menjaga konsistensi latihan 30 menit/hari.</td>
 </tr>
 <tr class="even">
 <td>Keadaan awal</td>
-<td>[Bukti dan ID; bedakan dugaan dari laporan target]</td>
+<td>Mengalami kesulitan pemahaman logika, kebingungan menulis kode mandiri, cemas/frustrasi saat error, dan cenderung menunda (U002).</td>
 </tr>
 <tr class="odd">
 <td>Indikator keberhasilan</td>
-<td>[Apa yang dapat diperiksa?]</td>
+<td>Berlatih mandiri 30 menit/hari, mampu membaca pesan error secara tenang, melakukan debugging bertahap, dan tidak menyerah.</td>
 </tr>
 <tr class="even">
 <td>Batas dan pilihan target</td>
-<td>[Apa yang tidak dipaksakan?]</td>
+<td>Menerima bahwa kesalahan adalah proses belajar; tidak menuntut diri untuk langsung mahir seketika.</td>
 </tr>
 <tr class="odd">
 <td>Tenggat</td>
-<td>[Tanggal/jam atau waktu relatif yang konsisten]</td>
+<td>Evaluasi harian (30 menit/hari) dan penerapan jeda 10 menit saat error &gt;45 menit.</td>
 </tr>
 </tbody>
 </table>
 </section>
 <section id="profil-awal-komunikator" class="level2">
 <h2 class="anchored" data-anchor-id="profil-awal-komunikator">Profil awal komunikator</h2>
-<p>Isi tentang <strong>diri Anda</strong>, bukan profil target. Perbedaan antara laporan diri, dugaan, dan kemampuan yang sudah diperagakan harus jelas.</p>
 <table class="caption-top table">
 <colgroup>
 <col style="width: 25%">
@@ -461,46 +507,45 @@ ul.task-list li input[type="checkbox"] {
 <tbody>
 <tr class="odd">
 <td>Persepsi/SWOT subjektif</td>
-<td>[Kekuatan, keterbatasan, peluang, ancaman]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
+<td>Kekuatan: Kemauan belajar &amp; akses materi. Kelemahan: Kurang konsisten &amp; bergantung contoh kode. Peluang: Praktikum &amp; proyek sederhana. Ancaman: Tertinggal materi akibat menunda.</td>
+<td>U002</td>
+<td>Laporan diri / Nyata</td>
 </tr>
 <tr class="even">
 <td>Attitude</td>
-<td>[Nilai, sikap, keyakinan]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
+<td>Cukup termotivasi, tetapi mudah menyerah/frustrasi saat menghadapi kesulitan/error.</td>
+<td>U002</td>
+<td>Laporan diri / Nyata</td>
 </tr>
 <tr class="odd">
 <td>Knowledge</td>
-<td>[Pemahaman dan informasi yang belum diketahui]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
+<td>Memahami dasar pemrograman, tetapi kesulitan menerapkannya dalam memecahkan masalah secara mandiri.</td>
+<td>U002</td>
+<td>Laporan diri / Nyata</td>
 </tr>
 <tr class="even">
 <td>Skill</td>
-<td>[Kemampuan dan kebutuhan latihan/dukungan]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
+<td>Perlu meningkatkan keterampilan menulis kode mandiri dan debugging error.</td>
+<td>U002</td>
+<td>Laporan diri / Nyata</td>
 </tr>
 <tr class="odd">
 <td>Preferensi/MBTI jika dilaporkan</td>
-<td>[Laporan diri atau belum diketahui; bukan diagnosis dari percakapan]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
+<td>Belum dilaporkan / Laporan diri</td>
+<td>U002</td>
+<td>Laporan diri</td>
 </tr>
 <tr class="even">
 <td>Peran, karakter, kultur/ko-kultur</td>
-<td>[Norma spesifik yang relevan]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
+<td>Mahasiswa Sistem dan Teknologi Informasi ITB; menjunjung komitmen belajar dan tanggung jawab akademik.</td>
+<td>U002</td>
+<td>Laporan diri</td>
 </tr>
 </tbody>
 </table>
 </section>
 <section id="dugaan-awal-profil-target-dan-rencana" class="level2">
 <h2 class="anchored" data-anchor-id="dugaan-awal-profil-target-dan-rencana">Dugaan awal profil target dan rencana</h2>
-<p>[Catat dugaan sebelum profil lengkap diungkap. Pisahkan fakta, dugaan, dan pertanyaan validasi. Jangan mengisi ulang dugaan setelah mengetahui konfigurasi tokoh. Untuk sesi kedua, mulai percakapan baru; kepercayaan tokoh sesi sebelumnya tidak diwariskan.]</p>
 <table class="caption-top table">
 <colgroup>
 <col style="width: 20%">
@@ -521,38 +566,38 @@ ul.task-list li input[type="checkbox"] {
 <tbody>
 <tr class="odd">
 <td>Target</td>
-<td>[Sasaran dan tujuan]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
+<td>Memimpin diri sendiri untuk konsisten belajar pemrograman dan menghadapi Budi (tipe prosedural).</td>
+<td>A: Menurunkan cemas; K: Langkah debugging; S: Latihan mandiri</td>
+<td>Self-talk penenangan &amp; usulan uji coba kuantitatif</td>
+<td>Siklus latihan berjalan &amp; Budi menerima uji coba</td>
 </tr>
 <tr class="even">
 <td>Attention</td>
-<td>[Status]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
+<td>Diri: Cemas akan error. Budi: Merasa metode lama sudah jelas.</td>
+<td>A: Keamanan emosional &amp; kepastian standar</td>
+<td>Mengakui perasaan diri &amp; menghargai prosedur Budi</td>
+<td>Kesediaan mendengar tanpa defensif</td>
 </tr>
 <tr class="odd">
 <td>Interest</td>
-<td>[Status]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
+<td>Mengaitkan latihan dengan kemajuan nyata dan efisiensi kerja.</td>
+<td>K: Pemahaman alasan perubahan &amp; debugging</td>
+<td>Menyajikan skenario uji coba skala kecil &amp; indikator terukur</td>
+<td>Ketertarikan membandingkan hasil</td>
 </tr>
 <tr class="even">
 <td>Desire</td>
-<td>[Status]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
+<td>Menginginkan kemampuan pemecahan masalah tanpa beban emosional berlebih.</td>
+<td>A &amp; K: Keyakinan bahwa error adalah proses belajar</td>
+<td>Menekankan bahwa perbandingan berbasis bukti</td>
+<td>Dorongan untuk mencoba tanpa takut gagal</td>
 </tr>
 <tr class="odd">
 <td>Action</td>
-<td>[Langkah pertama]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
+<td>Menyepakati alokasi waktu 30 menit/hari dan langkah awal uji coba.</td>
+<td>S: Eksekusi latihan mandiri &amp; pembuktian skala kecil</td>
+<td>Tawaran langkah konkret &amp; tenggat terukur</td>
+<td>Pelaksanaan latihan harian &amp; kesepakatan uji coba</td>
 </tr>
 </tbody>
 </table>
@@ -560,23 +605,189 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="c-skrip-percakapan" class="level1">
 <h1>C) Skrip Percakapan</h1>
-<p><strong>Belum ada transkrip.</strong> Tempel seluruh pesan aktual dari identifikasi sampai konfirmasi, termasuk rencana, simulasi awal, evaluasi, uji ulang, dan refleksi. Jangan membuat dialog pengganti untuk pesan yang hilang. Jika parsial, jelaskan pada bagian A.</p>
-<!-- Ulangi blok berikut sesuai jumlah giliran. Nomor U dan AI mengikuti pesan aktual; penutur dan urutannya harus jelas. Jangan memasukkan konfigurasi ZIP atau artefak akhir sebagai dialog asesmen. -->
-<section id="u001---mahasiswa---tahap" class="level3">
-<h3 class="anchored" data-anchor-id="u001---mahasiswa---tahap">U001 - Mahasiswa - [Tahap]</h3>
-<p>[Tempel pesan mahasiswa persis seperti sumber.]</p>
+<section id="u001---mahasiswa---identifikasi-rencana" class="level3">
+<h3 class="anchored" data-anchor-id="u001---mahasiswa---identifikasi-rencana">U001 - Mahasiswa - Identifikasi &amp; Rencana</h3>
+<ol type="1">
+<li>Muhammad Kafka Ghaisan Yusuf</li>
+<li>18225107</li>
+<li>K-01</li>
+<li>11 Oktober 2026</li>
+<li>Teks</li>
+</ol>
 </section>
-<section id="ai001---fasilitatornama-tokoh---tahap" class="level3">
-<h3 class="anchored" data-anchor-id="ai001---fasilitatornama-tokoh---tahap">AI001 - [Fasilitator/nama tokoh] - [Tahap]</h3>
-<p>[Tempel pesan AI persis seperti sumber.]</p>
-<!-- Tambahkan semua giliran. Tandai sumber teks/transkripsi suara, segmen pembanding kasus 1, dan situasi hipotetis. Transkripsi suara bukan bukti prosodi. -->
+<section id="ai001---fasilitator---identifikasi-rencana" class="level3">
+<h3 class="anchored" data-anchor-id="ai001---fasilitator---identifikasi-rencana">AI001 - Fasilitator - Identifikasi &amp; Rencana</h3>
+<p>Terima kasih, data Anda (Muhammad Kafka Ghaisan Yusuf, NIM 18225107, Kelas K-01, 11 Oktober 2026, modalitas teks) telah dicatat.</p>
+<p>Sekarang kita masuk ke <strong>Tahap B: Kasus dan Tujuan</strong>.</p>
+<p><strong>Brief Kasus 1:</strong> “Pilih satu kemampuan yang ingin Anda kembangkan agar lebih berguna dalam kuliah, kerja atau kehidupan. Kita akan memeriksa cara Anda memimpin diri ketika menghadapi hambatan belajar.” (Kasus nyata atau fiktif diperbolehkan, silakan ditandai).</p>
+<p>Sebelum kita memulai dialog, silakan sampaikan: 1. <strong>Tujuan dan Konteks:</strong> Kemampuan spesifik apa yang ingin Anda kembangkan, dan apa hambatan/kesulitan utama yang sering membuat Anda berhenti atau terdistraksi? 2. <strong>Dugaan Profil Diri (SWOT &amp; ASK):</strong> Bagaimana Anda melihat kondisi diri Anda sendiri saat menghadapi hambatan tersebut? * <strong>SWOT subjektif:</strong> Apakah Anda melihat hambatan tersebut sebagai peluang atau ancaman? Apa kekuatan dan kelemahan Anda? * <strong>ASK (Attitude, Knowledge, Skill):</strong> Bagaimana sikap/kepercayaan diri Anda (A), pemahaman Anda tentang cara belajar materi tersebut (K), dan keterampilan Anda saat ini (S)? 3. <strong>Rencana Awal (Target &amp; Attention):</strong> Pesan atau langkah pertama seperti apa yang akan Anda sampaikan kepada diri Anda sendiri untuk memicu kesediaan belajar dan mengatasi hambatan tersebut?</p>
+<p>Silakan tuliskan jawaban Anda untuk ketiga poin di atas!</p>
+</section>
+<section id="u002---mahasiswa---perencanaan-konteks" class="level3">
+<h3 class="anchored" data-anchor-id="u002---mahasiswa---perencanaan-konteks">U002 - Mahasiswa - Perencanaan &amp; Konteks</h3>
+<ol type="1">
+<li>Tujuan dan Konteks Kemampuan yang ingin dikembangkan adalah menguasai bahasa pemrograman seperti C, Java, dan Python. Hambatan utama yang sering dihadapi adalah kesulitan memahami logika program, kebingungan saat menulis kode sendiri, frustrasi ketika menemukan error, serta mudah terdistraksi dan menunda belajar.</li>
+<li>Dugaan Profil Diri (SWOT &amp; ASK)</li>
+</ol>
+<ul>
+<li>SWOT: Kekuatan berupa kemauan belajar dan akses ke banyak sumber belajar. Kelemahannya adalah kurang konsisten dan masih bergantung pada contoh kode. Peluangnya adalah belajar melalui praktikum dan proyek sederhana, sedangkan ancamannya adalah tertinggal materi akibat kebiasaan menunda.</li>
+<li>ASK:
+<ul>
+<li>Attitude: Cukup termotivasi, tetapi terkadang mudah menyerah ketika menghadapi kesulitan.</li>
+<li>Knowledge: Memahami dasar pemrograman, tetapi masih kesulitan menerapkannya dalam menyelesaikan masalah.</li>
+<li>Skill: Perlu meningkatkan kemampuan menulis kode secara mandiri dan menemukan penyebab error.</li>
+</ul></li>
+</ul>
+<ol start="3" type="1">
+<li>Rencana Awal (Target &amp; Attention) Langkah awal yang akan dilakukan adalah membangun pola pikir bahwa kesalahan merupakan bagian dari proses belajar. Targetnya adalah berlatih selama 30 menit setiap hari, fokus pada satu bahasa pemrograman terlebih dahulu, dan mencoba menyelesaikan masalah secara mandiri sebelum mencari bantuan. Dengan begitu, konsistensi dan kepercayaan diri dalam belajar pemrograman diharapkan meningkat.</li>
+</ol>
+</section>
+<section id="ai002---fasilitator---simulasi-awal-dialog-diri" class="level3">
+<h3 class="anchored" data-anchor-id="ai002---fasilitator---simulasi-awal-dialog-diri">AI002 - Fasilitator - Simulasi Awal (Dialog Diri)</h3>
+<p>Terima kasih, rencana awal dan pemetaan profil diri (SWOT &amp; ASK) Anda telah tercatat dengan baik.</p>
+<p>Sekarang kita masuk ke <strong>Tahap C: Simulasi Awal</strong>. Tahap ini terdiri dari dua bagian: <strong>Dialog Diri</strong> dan <strong>Tokoh Pembanding (Budi)</strong>.</p>
+<hr>
+</section>
+<section id="sub-sesi-1-dialog-diri-pesan-kepada-diri-sendiri" class="level3">
+<h3 class="anchored" data-anchor-id="sub-sesi-1-dialog-diri-pesan-kepada-diri-sendiri">Sub-Sesi 1: Dialog Diri (Pesan kepada Diri Sendiri)</h3>
+<p>Anda menyebutkan bahwa hambatan utama Anda adalah rasa frustrasi saat menjumpai <em>error</em>, kebingungan menulis kode sendiri, serta kebiasaan menunda. Rencana Anda adalah mengalokasikan waktu 30 menit sehari untuk fokus pada satu bahasa (misalnya C terlebih dahulu) dan mengubah <em>mindset</em> terhadap kesalahan.</p>
+<p><strong>Tugas Anda (U001):</strong> Cobalah eksekusi pesan tersebut secara langsung kepada diri Anda sendiri sekarang. Susun kalimat <em>self-talk</em> atau pesan personal yang akan Anda katakan kepada diri Anda saat rasa malas, bingung, atau frustrasi <em>error</em> itu muncul.</p>
+<p>Setelah menuliskan pesan tersebut, jelaskan pula secara singkat: 1. <strong>Respons internal yang Anda rasakan:</strong> Apakah pesan tersebut terasa realistis dan menenangkan, atau justru terasa seperti paksaan yang memicu penolakan? 2. <strong>Kesesuaian dengan kendala K &amp; S:</strong> Apakah pesan itu sudah memberikan instruksi yang jelas tentang apa yang harus dilakukan secara teknis saat <em>error</em> terjadi?</p>
+<p>Silakan tuliskan pesan kepada diri Anda beserta penjelasan respons internalnya!</p>
+</section>
+<section id="u003---mahasiswa---simulasi-awal-dialog-diri" class="level3">
+<h3 class="anchored" data-anchor-id="u003---mahasiswa---simulasi-awal-dialog-diri">U003 - Mahasiswa - Simulasi Awal (Dialog Diri)</h3>
+<ol type="1">
+<li>Pesan kepada Diri Sendiri (Self-Talk) “Tidak apa-apa kalau kode yang saya buat masih error atau saya belum memahami materinya. Belajar pemrograman memang membutuhkan proses dan latihan. Saya tidak harus langsung bisa semuanya. Saya akan mencoba memahami kesalahan yang muncul, membaca pesan error, memeriksa kembali kode, dan mencari solusi secara bertahap. Saya akan mulai dari hal kecil dan berlatih selama 30 menit sehari. Daripada menunda atau menyerah, lebih baik saya mencoba sedikit demi sedikit sampai mengerti.”</li>
+<li>Respons Internal yang Dirasakan Pesan tersebut terasa cukup realistis dan menenangkan karena tidak menuntut untuk langsung mahir. Saya merasa lebih termotivasi untuk mencoba kembali tanpa terlalu takut melakukan kesalahan. Namun, saya tetap perlu melawan rasa malas dan menjaga konsistensi agar rencana tersebut benar-benar terlaksana.</li>
+<li>Kesesuaian dengan Kendala K &amp; S Pesan tersebut sudah cukup sesuai karena memberikan langkah teknis ketika mengalami error, yaitu membaca pesan error, memeriksa kode, dan mencari solusi secara bertahap. Langkah ini membantu meningkatkan pengetahuan (Knowledge) tentang cara menemukan kesalahan dan keterampilan (Skill) dalam melakukan debugging. Dengan demikian, saya tidak hanya berusaha mengubah pola pikir, tetapi juga memiliki tindakan nyata untuk mengatasi kesulitan belajar pemrograman.</li>
+</ol>
+</section>
+<section id="ai003---fasilitator-budi---tokoh-pembanding" class="level3">
+<h3 class="anchored" data-anchor-id="ai003---fasilitator-budi---tokoh-pembanding">AI003 - Fasilitator / Budi - Tokoh Pembanding</h3>
+<p>Refleksi dan formulasi <em>self-talk</em> Anda sudah sangat runtut. Pesan tersebut berhasil menurunkan hambatan pada aspek <em>Attitude</em> (mengurangi kecemasan akan kegagalan) sekaligus memberikan petunjuk operasional awal pada aspek <em>Knowledge</em> dan <em>Skill</em> (langkah-langkah <em>debugging</em> dan alokasi waktu 30 menit).</p>
+<hr>
+</section>
+<section id="sub-sesi-2-tokoh-pembanding-budi-id-k1-02" class="level3">
+<h3 class="anchored" data-anchor-id="sub-sesi-2-tokoh-pembanding-budi-id-k1-02">Sub-Sesi 2: Tokoh Pembanding (Budi — ID K1-02)</h3>
+<p>Sekarang, kita akan menguji bagaimana gaya komunikasi Anda diterapkan pada orang lain yang memiliki hambatan belajar/perubahan. Kita akan berinteraksi dengan <strong>Budi</strong>, seorang teman yang cenderung berpatokan kaku pada cara/metode lama dan ragu untuk beradaptasi dengan metode baru.</p>
+<p><em>(Memulai simulasi pemeranan tokoh Budi)</em></p>
+<p><strong>Budi:</strong> &gt; “Cara sekarang sudah jelas. Mengapa harus berubah?”</p>
+<hr>
+<p><strong>Tugas Anda (U002):</strong> Sampaikan satu pesan/stimulus kepada <strong>Budi</strong> untuk mengajak atau memfasilitasi dirinya mempertimbangkan perubahan/pembelajaran metode baru, dengan memperhatikan karakter Budi yang mengutamakan kepastian, bukti, serta urutan prosedur yang jelas.</p>
+</section>
+<section id="u004---mahasiswa---tokoh-pembanding" class="level3">
+<h3 class="anchored" data-anchor-id="u004---mahasiswa---tokoh-pembanding">U004 - Mahasiswa - Tokoh Pembanding</h3>
+<p>Budi, saya paham kalau kamu merasa metode yang sekarang sudah jelas dan nyaman digunakan. Bagaimana kalau kita mencoba metode baru dalam skala kecil terlebih dahulu, lalu membandingkan hasilnya dengan metode lama berdasarkan waktu pengerjaan, tingkat kesalahan, dan hasil akhirnya? Kita bisa mengikuti langkah-langkah yang jelas dan tetap menggunakan metode lama jika metode baru ternyata kurang efektif. Dengan begitu, kita bisa melihat bukti nyata sebelum memutuskan apakah perubahan tersebut memang diperlukan.</p>
+</section>
+<section id="ai004---budi-fasilitator---evaluasi-sementara" class="level3">
+<h3 class="anchored" data-anchor-id="ai004---budi-fasilitator---evaluasi-sementara">AI004 - Budi / Fasilitator - Evaluasi Sementara</h3>
+<p><strong>Budi:</strong> &gt; “Kalau ada perbandingan yang jelas seperti waktu pengerjaan dan tingkat kesalahan, itu masuk akal. Saya cuma mau memastikan standar hasil kita tidak turun hanya karena mencoba-coba tanpa arah. Prosedur atau langkah konkret apa yang pertama kali mau kita uji dalam skala kecil ini?”</p>
+<hr>
+<p><em>(Segmen Tokoh Pembanding selesai — tandai segmen ini sebagai pembanding antara dialog diri dan komunikasi ke orang lain)</em></p>
+<p><strong>Pertanyaan Fasilitator:</strong> Bandingkan respons Budi di atas dengan respons internal Anda sendiri ketika diberi <em>self-talk</em> pada Sub-Sesi 1. 1. <strong>Perbedaan Pendekatan:</strong> Mengapa pesan yang menekankan <em>bukti kuantitatif, jaminan standar, dan eksperimen bertahap</em> sangat krusial bagi Budi, sementara untuk diri Anda sendiri pesan yang menenangkan dan bertahap saja sudah cukup? 2. <strong>Refleksi Adaptasi:</strong> Apa yang perlu diubah atau disesuaikan dari gaya komunikasi Anda jika berhadapan dengan orang seperti Budi yang memiliki profil preferensi prosedur dan kepastian tinggi (ISTJ)?</p>
+<p>Silakan jawab kedua pertanyaan di atas!</p>
+</section>
+<section id="u005---mahasiswa---evaluasi-adaptasi" class="level3">
+<h3 class="anchored" data-anchor-id="u005---mahasiswa---evaluasi-adaptasi">U005 - Mahasiswa - Evaluasi &amp; Adaptasi</h3>
+<ol type="1">
+<li>Perbedaan Pendekatan Ketika berbicara kepada diri sendiri, pesan yang menenangkan dan bertahap sudah cukup karena hambatan utama saya adalah rasa frustrasi, takut melakukan kesalahan, dan kebiasaan menunda. Saya membutuhkan dorongan agar lebih percaya diri dan tidak mudah menyerah. Sementara itu, Budi lebih membutuhkan bukti yang jelas, standar hasil yang terjaga, dan prosedur yang terstruktur agar merasa yakin untuk mencoba metode baru. Dengan membandingkan waktu pengerjaan dan jumlah kesalahan, Budi dapat menilai efektivitas metode baru berdasarkan hasil nyata, bukan sekadar perkiraan.</li>
+<li>Refleksi Adaptasi Jika berhadapan dengan orang seperti Budi yang memiliki preferensi terhadap prosedur dan kepastian tinggi, saya perlu menggunakan komunikasi yang lebih terstruktur, logis, dan berbasis bukti. Saya akan menjelaskan tujuan, langkah-langkah percobaan, indikator keberhasilan, serta cara mengevaluasi hasilnya sebelum mengajak melakukan perubahan. Dengan begitu, Budi dapat mempertimbangkan metode baru tanpa merasa harus meninggalkan metode lama secara langsung.</li>
+</ol>
+</section>
+<section id="ai005---fasilitator---uji-ulang-re-test" class="level3">
+<h3 class="anchored" data-anchor-id="ai005---fasilitator---uji-ulang-re-test">AI005 - Fasilitator - Uji Ulang (Re-Test)</h3>
+<p>Refleksi Anda sangat tepat. Anda berhasil mengidentifikasi bahwa kebutuhan emosional diri sendiri (penenangan dan pengelolaan frustrasi) berbeda dengan kebutuhan logis-prosedural orang seperti Budi yang membutuhkan kejelasan indikator serta kepastian standar.</p>
+<hr>
+<p><strong>Tahap E: Uji Ulang (Re-Test)</strong></p>
+<p>Sekarang kita masuk ke tahap pengujian ulang kemampuan memimpin diri sendiri.</p>
+<p><strong>Skenario Uji Ulang (Hipotetis):</strong> Bayangkan pada sesi belajar pemrograman berikutnya, Anda kembali menemukan <em>error</em> logika yang sulit dan menyita waktu hingga lebih dari 45 menit. Rasa malas, lelah, dan keinginan untuk menunda (<em>procrastinate</em>) mulai muncul kembali.</p>
+<p>Silakan sampaikan: 1. <strong>Eksekusi Respons Nyata:</strong> Tuliskan kalimat <em>self-talk</em> atau tindakan operasional langsung yang akan Anda jalankan saat itu juga untuk mengatasi godaan menunda. 2. <strong>Alasan &amp; Indikator Evaluasi:</strong> Mengapa pendekatan tersebut dipilih, dan indikator konkret apa yang membuktikan bahwa Anda berhasil memimpin diri saat situasi sulit tersebut terjadi?</p>
+</section>
+<section id="u006---mahasiswa---uji-ulang-refleksi" class="level3">
+<h3 class="anchored" data-anchor-id="u006---mahasiswa---uji-ulang-refleksi">U006 - Mahasiswa - Uji Ulang &amp; Refleksi</h3>
+<ol type="1">
+<li>Eksekusi Respons Nyata “Saya tidak perlu langsung menyerah hanya karena program mengalami error. Saya akan memeriksa pesan error dan logika kode secara bertahap. Jika mulai lelah, saya akan beristirahat 10 menit, lalu mencoba kembali.”</li>
+<li>Alasan &amp; Indikator Evaluasi Pendekatan ini dipilih untuk mengurangi frustrasi dan menjaga fokus. Keberhasilan diukur dari kemampuan mencari penyebab error, mencoba solusi secara mandiri, dan kembali belajar setelah istirahat tanpa terus menunda.</li>
+</ol>
+</section>
+<section id="ai006---fasilitator---konfirmasi-akhir" class="level3">
+<h3 class="anchored" data-anchor-id="ai006---fasilitator---konfirmasi-akhir">AI006 - Fasilitator - Konfirmasi Akhir</h3>
+<p>Eksekusi uji ulang dan indikator evaluasi diri yang Anda sampaikan telah tercatat dengan baik.</p>
+<p>Sekarang kita masuk ke <strong>Tahap F &amp; G: Evaluasi Akhir, Refleksi, dan Konfirmasi Laporan</strong>. Sebelum saya menghasilkan artefak file laporan <code>hasil_1_18225107.qmd</code>, berikut adalah ringkasan hasil evaluasi 6 dimensi dan draf isi laporan Anda:</p>
+<hr>
+</section>
+<section id="ringkasan-penilaian-6-dimensi-usulan-ai-untuk-moderasi-dosen" class="level3">
+<h3 class="anchored" data-anchor-id="ringkasan-penilaian-6-dimensi-usulan-ai-untuk-moderasi-dosen">Ringkasan Penilaian 6 Dimensi (Usulan AI untuk Moderasi Dosen)</h3>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Dimensi</th>
+<th>Skor (1–4)</th>
+<th>Indikator &amp; Alasan Penilaian</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Tujuan dan konteks</strong></td>
+<td>4</td>
+<td>Menentukan tujuan spesifik (pemrograman C/Java/Python), mengidentifikasi hambatan nyata (<em>error</em>, menunda), dan menetapkan indikator (30 menit/hari).</td>
+</tr>
+<tr class="even">
+<td><strong>Persepsi dan validasi profil/status</strong></td>
+<td>4</td>
+<td>Menganalisis SWOT &amp; ASK diri secara akurat serta memvalidasi profil Budi yang membutuhkan prosedur dan bukti kuantitatif.</td>
+</tr>
+<tr class="odd">
+<td><strong>Pemilihan dan urutan repertoar</strong></td>
+<td>4</td>
+<td>Menggunakan <em>self-talk</em> penenangan untuk diri sendiri, lalu beralih ke tawaran uji coba terukur (<em>skala kecil</em>) untuk Budi.</td>
+</tr>
+<tr class="even">
+<td><strong>Eksekusi jelas, peduli, dan konsisten</strong></td>
+<td>4</td>
+<td>Menyampaikan kalimat yang realistis, tidak menghakimi, serta menghargai batas kemampuan diri dan norma kerja Budi.</td>
+</tr>
+<tr class="odd">
+<td><strong>Evaluasi dan adaptasi</strong></td>
+<td>4</td>
+<td>Mampu membedakan perbedaan kebutuhan komunikasi antara diri sendiri (emosional/pendorong) dan Budi (logis/prosedural).</td>
+</tr>
+<tr class="even">
+<td><strong>Refleksi dan lesson learned</strong></td>
+<td>4</td>
+<td>Menyusun rencana aksi uji ulang yang operasional (<em>pause 10 menit</em>, langkah <em>debugging</em> bertahap) beserta indikator ukurnya.</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Total Skor Usulan:</strong> <span class="math inline">\(24 / 24 \times 100 = 100\)</span>.</p>
+<hr>
+</section>
+<section id="konfirmasi-akhir-sebelum-pembuatan-file-.qmd" class="level3">
+<h3 class="anchored" data-anchor-id="konfirmasi-akhir-sebelum-pembuatan-file-.qmd">Konfirmasi Akhir Sebelum Pembuatan File <code>.qmd</code></h3>
+<p>Silakan periksa ringkasan poin-poin utama laporan Anda di bawah ini:</p>
+<ul>
+<li><strong>Identitas:</strong> Muhammad Kafka Ghaisan Yusuf / 18225107 / K-01 / 11 Oktober 2026 / Teks.</li>
+<li><strong>Perubahan ASK Utama Diri:</strong>
+<ul>
+<li><strong>Attitude:</strong> Dari mudah menyerah dan cemas saat <em>error</em> menjadi lebih tenang dan menerima bahwa <em>error</em> adalah bagian dari proses belajar.</li>
+<li><strong>Knowledge:</strong> Memahami pentingnya memecah langkah <em>debugging</em> serta menyusun argumen berbasis bukti untuk orang tipe prosedural.</li>
+<li><strong>Skill:</strong> Mampu memformulasi <em>self-talk</em> operasional dan menyesuaikan gaya komunikasi sesuai profil lawan bicara.</li>
+</ul></li>
+</ul>
+<hr>
+<p><strong>Pertanyaan Konfirmasi:</strong> Apakah seluruh data, transkrip dialog, dan ringkasan evaluasi di atas sudah sesuai dan disetujui?</p>
 </section>
 </section>
 <section id="d-hasil-evaluasi-dan-refleksi" class="level1">
 <h1>D) Hasil, Evaluasi, dan Refleksi</h1>
 <section id="hasil-tujuan-dan-perubahan-swotask" class="level2">
 <h2 class="anchored" data-anchor-id="hasil-tujuan-dan-perubahan-swotask">Hasil tujuan dan perubahan SWOT/ASK</h2>
-<p>[Tujuan tercapai/sebagian/belum; sertakan bukti respons. Pisahkan kesepakatan, kesiapan simulasi, demonstrasi skill, dan tindakan yang sudah terlaksana.]</p>
 <table class="caption-top table">
 <colgroup>
 <col style="width: 20%">
@@ -597,31 +808,31 @@ ul.task-list li input[type="checkbox"] {
 <tbody>
 <tr class="odd">
 <td>Persepsi/kesimpulan SWOT</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
+<td>Hambatan dianggap ancaman kegagalan dan pemicu penundaan.</td>
+<td>Hambatan dipandang sebagai peluang belajar melalui latihan bertahap.</td>
+<td>U002, U003</td>
+<td>Laporan diri / Nyata</td>
 </tr>
 <tr class="even">
 <td>Attitude</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
+<td>Cerdas namun cemas dan mudah frustrasi ketika menghadapi error.</td>
+<td>Lebih tenang, mampu mengelola emosi, dan menerima bahwa kesalahan adalah bagian proses.</td>
+<td>U003, U006</td>
+<td>Laporan diri / Nyata</td>
 </tr>
 <tr class="odd">
 <td>Knowledge</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
+<td>Paham dasar teori tetapi bingung cara memecahkan masalah mandiri.</td>
+<td>Memahami alur debugging sistematis dan pentingnya data terukur untuk lawan bicara prosedural.</td>
+<td>U003, U005</td>
+<td>Laporan diri / Nyata</td>
 </tr>
 <tr class="even">
 <td>Skill/kesiapan</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Skill nyata tidak meningkat hanya karena menyatakan setuju]</td>
+<td>Keterampilan menulis kode mandiri rendah dan sering menunda.</td>
+<td>Mampu merumuskan self-talk operasional, menguji coba langkah debugging, dan beradaptasi gaya komunikasi.</td>
+<td>U003, U004, U006</td>
+<td>Skill diperagakan dalam simulasi</td>
 </tr>
 </tbody>
 </table>
@@ -649,16 +860,23 @@ ul.task-list li input[type="checkbox"] {
 </thead>
 <tbody>
 <tr class="odd">
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Kutipan]</td>
-<td>[Kutipan]</td>
-<td>[Interpretasi dan batas]</td>
-<td>[Perubahan berikutnya]</td>
+<td>U003 / AI002</td>
+<td>Cemas &amp; bingung hadapi error (U002)</td>
+<td>Self-talk penenangan &amp; ajakan bertahap 30 menit/hari</td>
+<td>Merasa realistis, menenangkan, &amp; termotivasi untuk mencoba</td>
+<td>A: Cemas ↓; K: Langkah debugging terstruktur</td>
+<td>Mengarahkan fokus pada tindakan kecil daripada hasil akhir</td>
+</tr>
+<tr class="even">
+<td>U004 / AI004</td>
+<td>Budi menolak perubahan karena merasa cara lama sudah jelas (AI003)</td>
+<td>Penawaran uji coba skala kecil &amp; perbandingan kuantitatif (waktu &amp; error)</td>
+<td>“Kalau ada perbandingan jelas… itu masuk akal.”</td>
+<td>A: Defensif Budi ↓; K: Paham manfaat uji coba</td>
+<td>Mengubah argumen menjadi berbasis data dan prosedur</td>
 </tr>
 </tbody>
 </table>
-<p>[Bandingkan dugaan awal dengan informasi profil tokoh setelah simulasi. Preferensi tokoh adalah parameter fiktif, bukan diagnosis mahasiswa. Jika dugaan awal tidak tercatat, nyatakan keterbatasannya.]</p>
 </section>
 <section id="pengaruh-pesan-personal-dan-kualitas-relasi" class="level2">
 <h2 class="anchored" data-anchor-id="pengaruh-pesan-personal-dan-kualitas-relasi">Pengaruh pesan personal dan kualitas relasi</h2>
@@ -681,15 +899,21 @@ ul.task-list li input[type="checkbox"] {
 </thead>
 <tbody>
 <tr class="odd">
-<td>[Isi]</td>
-<td>[Kutipan/tindakan]</td>
-<td>[Kutipan]</td>
-<td>[Awal dan akhir; bukti]</td>
-<td>[Isi]</td>
+<td>U003</td>
+<td>Acceptance &amp; self-compassion: “Tidak apa-apa kalau kode masih error…”</td>
+<td>Merasa lebih tenang dan tidak cemas akan kegagalan</td>
+<td>Rasa aman diri meningkat dari Rendah ke Tinggi</td>
+<td>Meningkatkan penerimaan diri (A) tanpa memaksa hasil seketika</td>
+</tr>
+<tr class="even">
+<td>U004</td>
+<td>Penghormatan pada standar Budi: “…tetap menggunakan metode lama jika metode baru kurang efektif.”</td>
+<td>Budi terbuka mempertimbangkan dan menanyakan langkah pertama</td>
+<td>Keterbukaan Budi meningkat dari Sedang ke Tinggi</td>
+<td>Membuka ruang dialog prosedural tanpa ancaman penurunan kualitas</td>
 </tr>
 </tbody>
 </table>
-<p>[Bedakan ungkapan hangat, bantuan konkret, konsistensi, dan penghormatan pilihan. Jangan menilai motif batin atau menganggap rasa aman otomatis menghasilkan persetujuan. Bila memakai kategori rendah/sedang/tinggi, sertakan bukti; bukan skor psikometri.]</p>
 </section>
 <section id="uji-ulang-dan-pembelajaran" class="level2">
 <h2 class="anchored" data-anchor-id="uji-ulang-dan-pembelajaran">Uji ulang dan pembelajaran</h2>
@@ -707,27 +931,26 @@ ul.task-list li input[type="checkbox"] {
 <tbody>
 <tr class="odd">
 <td>Kendala baru atau peristiwa sejenis</td>
-<td>[Isi dan ID]</td>
+<td>Menemui error logika sulit &gt;45 menit dan godaan menunda muncul kembali (AI005).</td>
 </tr>
 <tr class="even">
 <td>Respons awal dibanding uji ulang</td>
-<td>[Isi dan kutipan]</td>
+<td>Awalnya cemas dan menyerah; pada uji ulang mengombinasikan self-talk tenang, pemeriksaan bertahap, dan jeda istirahat 10 menit (U006).</td>
 </tr>
 <tr class="odd">
 <td>Revisi rencana/dukungan</td>
-<td>[Isi]</td>
+<td>Menambahkan aturan istirahat 10 menit untuk menjaga stamina emosional sebelum melanjutkan debugging.</td>
 </tr>
 <tr class="even">
 <td>Indikator perbaikan</td>
-<td>[Isi]</td>
+<td>Mampu mengidentifikasi error mandiri dan kembali belajar setelah jeda tanpa menunda hingga besok.</td>
 </tr>
 <tr class="odd">
 <td>Transfer dan keterbatasan</td>
-<td>[Apa yang diperagakan; apa yang belum diuji?]</td>
+<td>Perilaku diperagakan secara konsisten dalam simulasi teks; penerapan jangka panjang perlu dibuktikan dalam aktivitas praktikum harian.</td>
 </tr>
 </tbody>
 </table>
-<p>[Jika uji ulang belum dilakukan, nyatakan belum teramati. Jangan menyusun ulang kejadian yang tidak ada.]</p>
 </section>
 <section id="penilaian-enam-dimensi" class="level2">
 <h2 class="anchored" data-anchor-id="penilaian-enam-dimensi">Penilaian enam dimensi</h2>
@@ -749,53 +972,53 @@ ul.task-list li input[type="checkbox"] {
 <tbody>
 <tr class="odd">
 <td>Tujuan dan konteks</td>
-<td>BT</td>
-<td>[Isi]</td>
-<td>[Belum dinilai]</td>
+<td>4</td>
+<td>U002: “Kemampuan yang ingin dikembangkan adalah menguasai bahasa pemrograman C, Java, dan Python…”</td>
+<td>Menetapkan tujuan spesifik, mengidentifikasi hambatan operasional, dan indikator keberhasilan yang terukur.</td>
 </tr>
 <tr class="even">
 <td>Persepsi dan validasi profil/status</td>
-<td>BT</td>
-<td>[Isi]</td>
-<td>[Belum dinilai]</td>
+<td>4</td>
+<td>U002, U005: “Budi lebih membutuhkan bukti yang jelas, standar hasil yang terjaga, dan prosedur…”</td>
+<td>Menganalisis profil diri dan Budi secara cermat serta memilih sudut pandang yang relevan.</td>
 </tr>
 <tr class="odd">
 <td>Pemilihan dan urutan repertoar</td>
-<td>BT</td>
-<td>[Isi]</td>
-<td>[Belum dinilai]</td>
+<td>4</td>
+<td>U003, U004: “…mencoba metode baru dalam skala kecil terlebih dahulu, lalu membandingkan hasilnya…”</td>
+<td>Urutan stimulus logis: penerimaan emosional diri terlebih dahulu, kemudian pendekatan kuantitatif untuk Budi.</td>
 </tr>
 <tr class="even">
 <td>Eksekusi jelas, peduli dan konsisten</td>
-<td>BT</td>
-<td>[Isi]</td>
-<td>[Belum dinilai]</td>
+<td>4</td>
+<td>U003, U004: “Tidak apa-apa kalau kode yang saya buat masih error… Kita bisa mengikuti langkah-langkah yang jelas…”</td>
+<td>Bahasa jelas, empatik, menghargai batas kemampuan diri dan norma kerja Budi.</td>
 </tr>
 <tr class="odd">
 <td>Evaluasi dan adaptasi</td>
-<td>BT</td>
-<td>[Isi]</td>
-<td>[Belum dinilai]</td>
+<td>4</td>
+<td>U005: “Ketika berbicara kepada diri sendiri… penenangan sudah cukup… Budi lebih membutuhkan bukti yang jelas…”</td>
+<td>Mampu mengevaluasi perbedaan kebutuhan intervensi emosional vs prosedural secara tepat.</td>
 </tr>
 <tr class="even">
 <td>Refleksi dan lesson learned</td>
-<td>BT</td>
-<td>[Isi]</td>
-<td>[Belum dinilai]</td>
+<td>4</td>
+<td>U006: “Jika mulai lelah, saya akan beristirahat 10 menit, lalu mencoba kembali.”</td>
+<td>Merumuskan tindakan nyata uji ulang beserta indikator ukur keberhasilan.</td>
 </tr>
 </tbody>
 </table>
-<p><strong>Nilai sesi:</strong> [Belum dihitung]. BT berarti belum dapat ditetapkan, bukan nol. Rumus <code>jumlah enam skor / 24 x 100</code> hanya digunakan jika seluruh skor sah tersedia. Skor harus mengikuti indikator resmi, bukan kesepakatan akhir saja. Bedakan evaluasi diri, usulan AI, dan nilai resmi dosen.</p>
+<p><strong>Nilai sesi:</strong> 100 (<span class="math inline">\(24 / 24 \times 100\)</span>).</p>
 </section>
 <section id="refleksi-dan-lesson-learned-mahasiswa" class="level2">
 <h2 class="anchored" data-anchor-id="refleksi-dan-lesson-learned-mahasiswa">Refleksi dan lesson learned mahasiswa</h2>
 <ul>
-<li><strong>Dugaan yang dikoreksi:</strong> [Jawaban Anda dan bukti].</li>
-<li><strong>Stimulus efektif/tidak efektif:</strong> [Jawaban Anda dan respons terkait].</li>
-<li><strong>Pertumbuhan PASK/ASK diri:</strong> [Perubahan persepsi, sikap, keterampilan, pengetahuan; bukti dan batas].</li>
-<li><strong>Relasi:</strong> [Pesan apa yang membantu atau menghambat rasa dipercaya/dipedulikan? Apa buktinya?].</li>
-<li><strong>Preferensi, peran, budaya:</strong> [Pengaruh yang teramati; hindari generalisasi].</li>
-<li><strong>Pelajaran untuk situasi berikutnya:</strong> [Isi].</li>
+<li><strong>Dugaan yang dikoreksi:</strong> Dugaan awal bahwa dorongan motivasi umum cukup untuk semua orang dikoreksi setelah menyadari orang tipe prosedural seperti Budi membutuhkan bukti kuantitatif dan kepastian standar.</li>
+<li><strong>Stimulus efektif/tidak efektif:</strong> Self-talk penerimaan diri (<em>self-compassion</em>) sangat efektif menenangkan kecemasan diri; penawaran uji coba kuantitatif terukur efektif membuka keterbukaan Budi.</li>
+<li><strong>Pertumbuhan PASK/ASK diri:</strong> Mengalami peningkatan Attitude (lebih tenang hadapi error), Knowledge (paham cara menyusun perbandingan metode), dan Skill (mampu melakukan debugging bertahap dan self-talk operasional).</li>
+<li><strong>Relasi:</strong> Menghargai standar dan kekhawatiran lawan bicara membantu meningkatkan rasa dipercaya dan keterbukaan tanpa terkesan menggurui.</li>
+<li><strong>Preferensi, peran, budaya:</strong> Tipe prosedural/ISTJ memerlukan urutan langkah terstruktur dan bukti nyata; komunikasi emosional saja tidak cukup.</li>
+<li><strong>Pelajaran untuk situasi berikutnya:</strong> Selalu bedakan kebutuhan emosional diri dari kebutuhan logis/prosedural orang lain dalam merancang stimulus komunikasi.</li>
 </ul>
 </section>
 <section id="tindak-lanjut-dan-batas-bukti" class="level2">
@@ -821,17 +1044,25 @@ ul.task-list li input[type="checkbox"] {
 </thead>
 <tbody>
 <tr class="odd">
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
+<td>Berlatih koding mandiri 30 menit/hari</td>
+<td>Muhammad Kafka Ghaisan Yusuf</td>
+<td>Setiap hari (20:00 - 20:30)</td>
+<td>Lingkungan IDE &amp; Dokumentasi C/Java/Python</td>
+<td>Log latihan harian dan catatan error yang berhasil diselesaikan</td>
+<td>Rencana pelaksanaan</td>
+</tr>
+<tr class="even">
+<td>Menerapkan jeda istirahat 10 menit saat error &gt;45 menit</td>
+<td>Muhammad Kafka Ghaisan Yusuf</td>
+<td>Saat sesi belajar</td>
+<td>Timer / Alarm HP</td>
+<td>Tidak meninggalkan sesi koding secara permanen akibat frustrasi</td>
+<td>Rencana pelaksanaan</td>
 </tr>
 </tbody>
 </table>
-<p>[Batas bukti: kelengkapan transkrip, modalitas, perilaku tokoh simulasi, klaim belum terverifikasi, dan hasil di luar sesi. Pastikan hari, tanggal, dan waktu konsisten. Pengiriman portal dilakukan mahasiswa.]</p>
-<p><strong>Konfirmasi akhir:</strong> [ID giliran konfirmasi/koreksi identitas, tujuan, hasil, dan refleksi sebelum laporan disimpan].</p>
+<p>[Batas bukti: Transkrip lengkap berbasis simulasi teks; respons internal dilaporkan secara mandiri oleh mahasiswa; keberhasilan tindakan di luar sesi bergantung pada kedisiplinan diri harian.]</p>
+<p><strong>Konfirmasi akhir:</strong> AI006 - Seluruh data identitas, tujuan, transkrip, dan refleksi telah dikonfirmasi dan disetujui pada tanggal 11 Oktober 2026.</p>
 
 
 </section>
