@@ -1,36 +1,36 @@
 ﻿---
 title: "Portfolio Minggu 8 — UTS KIPP"
 week: 8
-status: "Belum dimulai"
-self_score: "—"
+status: "Selesai"
+self_score: "Lima sesi: 100/100; Pra-UTS: selesai"
 assessor_score: "—"
 description: "Makalah pra-UTS dan lima laporan kasus individual."
 categories: [Assessment, UTS]
 ---
 
-::: {.callout-tip title="Mulai mengisi"}
-Baca [instruksi UTS](../lk/lk-UTS/index.qmd), jalankan ZIP sesuai NIM, lalu isi makalah dan lima laporan pada tabel berikut. [Lihat contoh jawaban Minggu 8](../examples/week-08.qmd) untuk acuan struktur dan analisis. Halaman ini merupakan indeks serta refleksi lintas sesi; transkrip lengkap tetap berada dalam masing-masing laporan.
+::: {.callout-tip title="Status pengisian"}
+Makalah pra-UTS dan lima sesi UTS telah selesai dilaporkan. [Lihat contoh jawaban Minggu 8](../examples/week-08.qmd) untuk acuan struktur dan analisis. Halaman ini merupakan indeks serta refleksi lintas sesi; transkrip lengkap tetap berada dalam masing-masing laporan.
 :::
 
 ## Identitas dan status paket
 
 | Elemen | Isi mahasiswa |
 |---|---|
-| Nama | [Isi] |
-| NIM | [Isi sebagai teks; pertahankan nol di awal] |
-| Kelas | [Isi] |
-| Periode/tanggal pelaksanaan | [Isi tanggal aktual setiap sesi pada laporan] |
-| Versi bank/paket aktif | [Salin dari PENUGASAN.md dalam ZIP Anda] |
-| Modalitas | [Teks/suara; sumber transkripsi] |
-| Status pengumpulan | [Belum diunggah/sudah diunggah; bukti bila tersedia] |
+| Nama | Muhammad Kafka Ghaisan Yusuf |
+| NIM | 18225107 |
+| Kelas | K-01 |
+| Periode/tanggal pelaksanaan | 11 Oktober 2026 untuk sesi 1, 2a, 2b, 3a, dan 3b |
+| Versi bank/paket aktif | Bank 2.0; paket 2.0 |
+| Modalitas | Teks |
+| Status pengumpulan | Belum diunggah melalui portal; bukti pengunggahan belum tersedia |
 
 ## Makalah dan lima laporan
 
 | Tahap | Template untuk diisi | Target sesuai ZIP | Status | Bukti/ID atau bagian yang masih kurang |
 |---|---|---|---|---|
-| Pra-UTS | [paper.qmd](UTS/paper.qmd) | Kajian empat pertanyaan MBTI/PASK | Belum dimulai | [Isi] |
-| 1 | [hasil_1.qmd](UTS/hasil_1.qmd) | Diri; [nama/ID pembanding] | Belum dimulai | [Isi] |
-| 2a | [hasil_2a.qmd](UTS/hasil_2a.qmd) | [Nama/ID target pertama kasus 2] | Belum dimulai | [Isi] |
-| 2b | [hasil_2b.qmd](UTS/hasil_2b.qmd) | [Nama/ID target kedua; berbeda dari 2a] | Belum dimulai | [Isi] |
-| 3a | [hasil_3a.qmd](UTS/hasil_3a.qmd) | [Nama/ID target pertama kasus 3] | Belum dimulai | [Isi] |
-| 3b | [hasil_3b.qmd](UTS/hasil_3b_07381119.qmd) | [Nama/ID target kedua; berbeda dari 3a] | Belum dimulai | [Isi] |
+| Pra-UTS | [paper.qmd](UTS/paper.qmd) | Kajian empat pertanyaan MBTI/PASK | Selesai | Makalah selesai; status `Selesai` dan identitas NIM 18225107 tercantum |
+| 1 | [hasil_1.qmd](UTS/hasil_1.qmd) | Diri; Budi (K1-02) sebagai pembanding | Selesai | Konfirmasi AI006; transkrip lengkap; nilai sesi 100 |
+| 2a | [hasil_2a.qmd](UTS/hasil_2a.qmd) | Ali (K2-01) | Selesai | Konfirmasi AI004; transkrip lengkap; nilai sesi 100 |
+| 2b | [hasil_2b.qmd](UTS/hasil_2b.qmd) | Budi (K2-02) | Selesai | Konfirmasi AI004; transkrip lengkap; nilai sesi 100 |
+| 3a | [hasil_3a.qmd](UTS/hasil_3a.qmd) | Cyntia (K3-03) | Selesai | Konfirmasi AI004; transkrip lengkap; nilai sesi 100 |
+| 3b | [hasil_3b.qmd](UTS/hasil_3b.qmd) | Ali (K3-01) | Selesai | Konfirmasi AI004; transkrip lengkap; nilai sesi 100 |
