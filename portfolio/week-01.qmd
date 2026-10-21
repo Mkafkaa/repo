@@ -3,7 +3,7 @@ title: "Character Map"
 week: 1
 status: "Selesai"
 self_score: "17"
-assessor_score: "—"
+assessor_score: "18"
 description: "Evidence person, personality, character, objective, repertoire, language, action, dan relationship."
 categories: [Fondasi, Person]
 ---
@@ -55,6 +55,16 @@ Screenshot chat menunjukkan saya meminta anggota menguji program secara lokal, m
 
 Teman menerima penolakan saya dan mengusulkan waktu nongkrong lain. Mama menerima alasan saya tidak ikut perjalanan, menyarankan saya beristirahat dan menemani Eyang. Kedua screenshot ini memberi verifikasi eksternal bahwa batas sosial saya disampaikan dan diterima pada percakapan tersebut.
 :::
+
+## Penggunaan AI dan human review
+
+AI digunakan sebagai alat bantu untuk mengelompokkan pengalaman yang sudah saya ceritakan ke dalam kategori person, personality, character, objective, repertoire, language, action, dan relationship. AI tidak menjadi sumber fakta atau pengganti bukti screenshot. Saya meninjau ulang hasilnya dengan mencocokkan tanggal, deadline, urutan kejadian, isi pesan, dan identitas yang dianonimkan dengan catatan serta screenshot asli. Saya menghapus atau mengoreksi klaim yang tidak dapat saya verifikasi, termasuk klaim tentang perasaan pihak lain yang tidak memiliki kutipan tertulis. Versi yang diserahkan adalah hasil validasi saya sebagai mahasiswa.
+
+| Tahap | Bukti proses | Batas dan keputusan human review |
+|---|---|---|
+| Penyusunan awal dengan AI | Struktur tabel dan kategori analisis dibantu AI berdasarkan fakta yang saya masukkan | AI tidak diberi kewenangan menambahkan kejadian atau dialog baru |
+| Pemeriksaan bukti | Screenshot riwayat Git, koordinasi kelompok, dan chat teman/keluarga dibandingkan dengan uraian laporan | Tautan repository yang tidak dapat dibuka tidak dipakai sebagai bukti utama |
+| Validasi akhir | Saya memeriksa ulang tanggal 28–29 Mei 2026, deadline pukul 07.00, serta respons tertulis teman dan Mama | Interpretasi hubungan jangka panjang dipisahkan dari fakta yang hanya terbukti pada chat |
 
 ## Analisis komunikasi
 
