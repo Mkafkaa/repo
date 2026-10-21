@@ -22,7 +22,7 @@ Makalah pra-UTS dan lima sesi UTS telah selesai dilaporkan. [Lihat contoh jawaba
 | Periode/tanggal pelaksanaan | 11 Oktober 2026 untuk sesi 1, 2a, 2b, 3a, dan 3b |
 | Versi bank/paket aktif | Bank 2.0; paket 2.0 |
 | Modalitas | Teks |
-| Status pengumpulan | Belum diunggah melalui portal; bukti pengunggahan belum tersedia |
+| Status pengumpulan | Sudah Diunggah |
 
 ## Makalah dan lima laporan
 
