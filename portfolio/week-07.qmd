@@ -1,7 +1,7 @@
 ---
 title: "Problem–Solution Interest Pitch"
 week: 7
-status: "Belum dimulai"
+status: "Sedang berlangsung"
 self_score: "—"
 assessor_score: "—"
 description: "Problem–solution fit dan signal Interest."
@@ -22,4 +22,83 @@ Menghubungkan solution mechanism dengan problem, benefit, dan value yang relevan
 [Buka contoh fiktif Minggu 7](../examples/week-07.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Konteks performance
+
+**Tanggal dan setting:** Data yang tersedia berasal dari discovery interview Jon pada 22 September 2026 selama sekitar 30 menit melalui percakapan daring. Tidak ada catatan terpisah tentang pitch solusi atau demonstration pada Week 7.
+
+**Objective dan initial state:** Week 5 bertujuan memahami masalah, bukan menawarkan solusi. Jon sudah mengakui masalah biaya admin, tetapi belum ada evidence bahwa ia telah menerima atau mencoba solution pitch tertentu.
+
+## Attention evidence dan solution hypothesis
+
+**Attention evidence:** Jon menyatakan biaya admin marketplace dapat mencapai sekitar 20%, memberi contoh harga Rp200.000 menjadi Rp240.000, dan mengonfirmasi problem statement. Ini adalah evidence attention/problem awareness dari Week 5.
+
+**Solution hypothesis:** Menguji marketplace atau proses jual beli alternatif yang memiliki biaya perantara lebih masuk akal, tetap aman, dipercaya komunitas hobi, dan mudah digunakan pembeli dapat membantu menjaga harga wajar serta profit penjual. Ini masih hipotesis; Week 5 belum membuktikan hasilnya.
+
+| Problem | Mechanism | Expected benefit | Value bagi target |
+|---|---|---|---|
+| Biaya admin tinggi mengurangi profit dan menaikkan harga | Membandingkan atau menguji perantara dengan biaya lebih rendah | Harga tidak perlu dinaikkan sebesar biaya marketplace | Profit Jon dan ketertarikan pembeli dapat lebih terjaga |
+| Kekhawatiran keamanan dan kepercayaan | Memeriksa reputasi, keamanan, dan kemudahan proses sebelum berpindah | Risiko transaksi dapat dipahami sebelum digunakan | Jon tidak menukar profit dengan risiko kepercayaan |
+
+## Pitch dan demonstration
+
+> Pitch atau demonstration belum tersedia pada evidence Week 1–5. Rumusan pitch yang dapat diuji: “Kita bisa membandingkan biaya, keamanan, dan kemudahan beberapa pilihan sebelum menyimpulkan bahwa alternatif tertentu lebih baik.”
+
+**Response target:** Jon menyebut TOCO sebagai workaround yang tidak mengenakan biaya admin dan telah dipercaya serta digunakan beberapa komunitas hobi. Namun, belum ada response terhadap pitch atau demonstration prototype pada Week 7.
+
+## Hidden concern dan adaptation
+
+**Asumsi awal tentang concern target:** Saya semula mengira concern utama adalah menemukan marketplace baru.
+
+**Hidden concern yang ditemukan:** Keamanan, kepercayaan, kemudahan, dan biaya jasa yang masuk akal. Evidence-nya berasal dari jawaban Jon pada Week 5, tetapi belum merupakan hidden concern yang ditemukan melalui objection terhadap pitch Week 7.
+
+**Adaptation:** Saya mempersempit solusi dari “mencari marketplace baru” menjadi evaluasi trade-off biaya, keamanan, kepercayaan, dan kemudahan. Adaptation setelah demonstration belum dapat diisi.
+
+**State setelah interaksi:** Problem aware/attention terhadap masalah berdasarkan Week 5. Interest terhadap solusi belum terbukti karena belum ada pitch solusi yang diterima atau diuji.
+
+## Evidence
+
+::: {.evidence-block}
+Evidence Week 5 berupa screenshot discovery dan konfirmasi problem statement. Evidence itu mendukung attention evidence, tetapi belum ada rekaman pitch/demo, prototype, response terhadap demo, atau bukti target mencoba solusi.
+:::
+
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| Person & character | Jon adalah penjual diecast dengan value profit, harga wajar, keamanan, kepercayaan, dan kemudahan. Saya memosisikan diri sebagai interviewer/discovery partner, bukan penyedia solusi yang sudah terbukti. |
+| Objective & state | Objective yang terbukti adalah memahami problem. Jon problem aware; interest terhadap solusi belum dapat dinilai. |
+| Repertoire & language | Saya menggunakan pertanyaan dan paraphrase. Hubungan problem–mechanism–benefit–value baru berupa hypothesis. |
+| Response & adaptation | Jawaban tentang TOCO dan constraint mengubah framing solusi, tetapi belum ada objection terhadap pitch. |
+| Agreement/action | Jon memberi consent dan mengonfirmasi problem statement. Tidak ada agreement untuk mencoba solusi. |
+| Relationship outcome | Jon merasa nyaman dalam interview dan menyetujui rangkuman. Outcome setelah pitch belum tersedia. |
+
+## Penggunaan AI
+
+AI digunakan untuk menata hasil discovery. Saya tidak menggunakan output AI sebagai bukti bahwa TOCO atau solusi lain pasti lebih baik. Saya menjaga nama samaran dan memeriksa kembali fakta dari interview.
+
+## Feedback dan tindak lanjut
+
+**Feedback yang diterima:** Jon mengonfirmasi shared problem statement; belum ada feedback terhadap pitch solusi.  
+**Adaptation/replay:** Solusi dirumuskan sebagai evaluasi beberapa constraint, bukan langsung menganggap marketplace alternatif pasti tepat.  
+**Next practice:** Membuat perbandingan sederhana dan menguji pitch solusi kepada Jon sebelum menyatakan adanya Interest.
+
+## Self-assessment
+
+| Dimensi | Skor 1–4 | Evidence singkat |
+|---|---:|---|
+| Person & Character | 3 | Value dan constraint Jon sudah dipetakan dari discovery. |
+| Objective & State | 2 | Attention evidence ada, tetapi Interest belum terbukti. |
+| Repertoire, Language & AI | 3 | Pertanyaan, paraphrase, dan batas AI terdokumentasi. |
+| Response & Adaptation | 2 | Framing berubah, tetapi belum ada response terhadap pitch. |
+| Agreement, Action & Relationship | 2 | Consent interview ada; action mencoba solusi belum ada. |
+
+**Total sementara:** 12 / 20
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::

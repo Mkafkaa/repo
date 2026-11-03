@@ -1,7 +1,7 @@
 ---
 title: "Multi-Person Negotiation Challenge"
 week: 11
-status: "Belum dimulai"
+status: "Sedang berlangsung"
 self_score: "—"
 assessor_score: "—"
 description: "Stakeholder map, interests, options, trade-offs, dan agreement."
@@ -22,4 +22,94 @@ Memfasilitasi beberapa person dengan objective, constraint, authority, dan state
 [Buka contoh fiktif Minggu 11](../examples/week-11.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Konteks performance
+
+**Tanggal dan setting:** Data yang tersedia berasal dari satu discovery interview dengan Jon pada 22 September 2026 melalui percakapan daring. Tidak ada bukti rapat atau negosiasi yang melibatkan beberapa stakeholder.
+
+**Objective dan initial state:** Objective Week 5 adalah memahami dan mengonfirmasi shared problem statement. Initial state stakeholder lain belum dipetakan, sehingga objective, constraint, authority, dan state multi-person belum dapat dinilai.
+
+## Stakeholder dan multi-state map
+
+| Person | Position | Interest/constraint | Authority | State |
+|---|---|---|---|---|
+| Jon, penjual diecast | Biaya admin marketplace mengurangi profit dan menaikkan harga | Profit, harga wajar, keamanan, kepercayaan, kemudahan | Dapat menjelaskan pengalaman dan keputusan pribadinya; authority platform tidak diketahui | Problem aware / Desire terhadap kondisi yang lebih baik belum dikonfirmasi |
+| Calon pembeli | Disebut dapat kurang tertarik pada harga yang naik | Harga wajar dan transaksi mudah/aman | Tidak ada data authority atau interview | Belum diketahui |
+| Komunitas hobi | Disebut sebagai sumber kepercayaan bagi alternatif tertentu | Kepercayaan dan penerimaan komunitas | Tidak ada perwakilan komunitas yang diwawancarai | Belum diketahui |
+| Marketplace/perantara | Kebijakan biaya dan proses transaksi memengaruhi masalah | Biaya, keamanan, kepercayaan, dan aturan platform | Authority tidak diketahui dari Week 5 | Belum diketahui |
+
+**Common ground:** Secara hypothesis, penjual dan pembeli sama-sama dapat berkepentingan pada transaksi yang aman, mudah, dipercaya, dan memiliki harga yang wajar. Ini belum dikonfirmasi kepada pembeli atau komunitas.  
+**Perbedaan penting:** Kepentingan, constraint, authority, dan state stakeholder selain Jon belum memiliki evidence langsung.
+
+## Negotiation evidence
+
+> **Jon:** "Saya ingin menjual diecast dengan aman dan mudah melalui marketplace, tetapi biaya adminnya kadang bisa mencapai 20%." *(Paraphrase Week 5.)*  
+> **Saya:** "Jadi, masalahnya bukan hanya memilih tempat berjualan, tetapi menjaga biaya perantara agar tidak menghilangkan profit dan membuat harga terlalu tinggi." *(Paraphrase.)*  
+> **Jon:** "Udah bener bro" dan "Yoi bro." *(Konfirmasi shared problem statement.)*
+
+**Interpretasi:** Percakapan mengungkap interest dan constraint Jon serta mengubah pemahaman saya dari “mencari marketplace baru” menjadi trade-off biaya, profit, harga, keamanan, kepercayaan, dan kemudahan. Ini bukan evidence negosiasi multi-person.
+
+## Options, agreement, dan dissent
+
+**Options yang dibahas:**
+
+1. **Membandingkan biaya beberapa perantara:** dapat memperjelas trade-off, tetapi belum menguji keamanan dan pengalaman transaksi.  
+2. **Menguji satu transaksi dengan alternatif:** dapat menghasilkan evidence nyata, tetapi membutuhkan consent dan pemeriksaan risiko.  
+3. **Melakukan discovery tambahan:** risiko lebih rendah, tetapi belum menghasilkan keputusan atau outcome transaksi.
+
+**Agreement:** Yang terbukti hanya Jon menyetujui penggunaan percakapan dan mengonfirmasi shared problem statement. Tidak ada agreement solusi dengan beberapa stakeholder.  
+**Dissent:** Belum ada dissent yang tercatat. Tidak boleh mengarang pihak yang tidak setuju.  
+**Review/threshold:** Belum ada jadwal review atau threshold.
+
+## Relationship review dan repair
+
+**Feedback atau observer note:** Jon merasa nyaman dalam interview dan memberikan konfirmasi. Tidak ada observer note tentang negosiasi multi-person.
+
+**Repair/adaptation:** Saya melakukan paraphrase dan memperbaiki initial assumption berdasarkan jawaban Jon. Repair atas ketidakseimbangan stakeholder belum dapat dinilai karena belum ada rapat multi-person.
+
+## Evidence
+
+::: {.evidence-block}
+Evidence yang tersedia: screenshot discovery, consent, dan konfirmasi shared problem statement. Evidence tersebut mendukung satu interview, bukan stakeholder map yang tervalidasi, negotiation record, agreement/dissent, atau relationship review multi-person.
+:::
+
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| Person & character | Jon, pembeli, komunitas, dan marketplace dapat disebut sebagai stakeholder potensial, tetapi role, power, interest, dan authority hanya Jon yang sebagian terdokumentasi. |
+| Objective & state | Hanya objective dan state Jon dalam discovery yang diketahui. Multi-state belum terbukti. |
+| Repertoire & language | Saya memakai pertanyaan, paraphrase, dan reframing dalam satu interview. Options belum dinegosiasikan bersama beberapa pihak. |
+| Response & adaptation | Constraint Jon mengubah framing saya. Belum ada constraint antar-stakeholder yang mengubah desain negosiasi. |
+| Agreement/action | Consent dan konfirmasi problem statement tersedia; agreement, dissent, owner, threshold, dan review belum ada. |
+| Relationship outcome | Hubungan interview dengan Jon tetap nyaman. Relationship outcome antar-stakeholder belum dapat dinilai. |
+
+## Penggunaan AI
+
+AI digunakan untuk menata hasil interview dan memeriksa kelengkapan template. Saya tidak menggunakan AI untuk menetapkan authority, membuat dissent, atau mengklaim adanya consensus. Nama dan data pribadi disamarkan.
+
+## Feedback dan tindak lanjut
+
+**Feedback yang diterima:** Jon menyatakan rangkuman masalah sudah benar dan memberi consent.  
+**Adaptation/replay:** Saya memperbaiki initial assumption melalui paraphrase dan shared problem statement.  
+**Next practice:** Mengadakan diskusi dengan minimal dua stakeholder tambahan, meminta izin, memetakan authority, dan mencatat agreement serta dissent secara terpisah.
+
+## Self-assessment
+
+| Dimensi | Skor 1–4 | Evidence singkat |
+|---|---:|---|
+| Person & Character | 2 | Satu stakeholder terdokumentasi; stakeholder lain masih potensial. |
+| Objective & State | 1 | Multi-person objective dan state belum tersedia. |
+| Repertoire, Language & AI | 3 | Paraphrase, reframing, dan batas AI terdokumentasi. |
+| Response & Adaptation | 2 | Adaptation terhadap satu partner ada, tetapi bukan negosiasi multi-person. |
+| Agreement, Action & Relationship | 1 | Belum ada agreement/dissent/repair multi-person. |
+
+**Total sementara:** 9 / 20
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::

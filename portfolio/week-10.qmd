@@ -1,7 +1,7 @@
 ---
 title: "Action & Agreement Challenge"
 week: 10
-status: "Belum dimulai"
+status: "Sedang berlangsung"
 self_score: "—"
 assessor_score: "—"
 description: "Barrier, authority, negotiation, agreement, dan action evidence."
@@ -22,4 +22,94 @@ Menemukan desire–action gap dan menghasilkan agreement yang feasible serta eks
 [Buka contoh fiktif Minggu 10](../examples/week-10.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Konteks performance
+
+**Tanggal dan setting:** Data berasal dari discovery interview Jon pada 22 September 2026 melalui percakapan daring. Tidak ada bukti bahwa action planning atau negosiasi agreement dilakukan setelah interview.
+
+**Person dan relationship:** Jon adalah teman dari Facebook dan penjual diecast. Authority Jon atas keputusan pribadi atau pengalamannya sendiri ada, tetapi authority atas kebijakan marketplace, komunitas, atau pembeli lain belum diketahui.
+
+**Desire dan initial state:** Desire yang dapat diturunkan dari Week 5 adalah menjaga profit dengan biaya perantara yang masuk akal, tanpa kehilangan keamanan, kepercayaan, dan kemudahan. Initial state: masalah sudah diakui, tetapi belum ada action, owner, deadline, atau review.
+
+## Desire–action gap
+
+Week 5 membuktikan adanya masalah dan workaround TOCO, tetapi belum membuktikan komitmen untuk menjalankan pengujian tertentu. Karena itu, desire–action gap adalah jarak antara kebutuhan akan perantara yang lebih sesuai dan belum adanya action terukur untuk membandingkan atau menguji pilihan.
+
+| Barrier | Person dengan authority | Respons atau langkah yang dibutuhkan |
+|---|---|---|
+| Belum ada perbandingan biaya dan hasil antarperantara | Jon dapat memberi data pengalaman pribadi; authority atas data pihak lain belum diketahui | Menyusun perbandingan kecil dengan data yang dapat dibagikan |
+| Keamanan dan kepercayaan belum diverifikasi | Authority belum diketahui; perlu konfirmasi dari Jon atau komunitas/platform | Menentukan kriteria pemeriksaan sebelum mencoba |
+| Belum ada target action, deadline, dan review | Belum ada owner yang disepakati | Mengadakan follow-up untuk membagi owner dan waktu |
+
+**Kesalahan pemetaan authority yang diperbaiki:** Belum ada pemetaan authority aktual pada Week 5. Saya tidak akan menganggap Jon dapat menyetujui kebijakan marketplace atau mewakili semua pembeli dan komunitas.
+
+## Options dan trade-off
+
+1. **Membandingkan biaya beberapa perantara:** scope kecil dan informatif, tetapi belum menguji pengalaman transaksi secara langsung.  
+2. **Menguji satu transaksi dengan alternatif yang dipercaya:** evidence lebih dekat dengan pengalaman nyata, tetapi membutuhkan consent, keamanan, dan owner yang jelas.  
+3. **Melakukan discovery tambahan tanpa transaksi:** risiko rendah dan cepat, tetapi tidak membuktikan outcome profit atau kemudahan.
+
+**Opsi yang dipilih:** Belum ada opsi yang dipilih dalam evidence Week 1–5.  
+**Syarat atau batasan:** Data pribadi, keamanan transaksi, kepercayaan platform, biaya, dan persetujuan pihak yang terlibat harus diperiksa sebelum action.
+
+## Agreement eksplisit
+
+> **Scope:** Belum disepakati.  
+> **Owner:** Belum disepakati.  
+> **Deadline:** Belum disepakati.  
+> **Evidence:** Belum disepakati; kandidatnya adalah perbandingan biaya, harga, keamanan, dan feedback.  
+> **Stop rule:** Belum disepakati; perlu mencakup risiko keamanan atau data pribadi.  
+> **Review:** Belum dijadwalkan.
+
+## Action evidence dan adaptation
+
+**Action yang benar-benar terjadi:** Action yang terbukti hanya interview discovery, penyusunan problem statement, permintaan consent, dan konfirmasi Jon. Tidak ada action pilot atau review yang terdokumentasi.
+
+**Adaptation:** Saya mengubah framing dari “mencari marketplace baru” menjadi mempertimbangkan biaya, keamanan, kepercayaan, dan kemudahan. Adaptation terhadap action plan belum ada.
+
+## Evidence
+
+::: {.evidence-block}
+Evidence yang tersedia adalah screenshot discovery, consent, dan konfirmasi problem statement dari Week 5. Evidence tersebut tidak cukup untuk membuktikan agreement, owner, deadline, atau action pilot.
+:::
+
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| Person & character | Jon dipahami sebagai penjual dengan pengalaman langsung, tetapi authority-nya terbatas pada pengalaman dan keputusan yang memang berada dalam kendalinya. |
+| Objective & state | Desire adalah proses yang aman, dipercaya, mudah, dan berbiaya masuk akal; action gap belum tertutup. |
+| Repertoire & language | Week 5 memakai pertanyaan, paraphrase, dan shared problem statement. Options dan trade-off Week 10 belum dibahas dengan target. |
+| Response & adaptation | Constraint Jon mengubah framing solusi, tetapi belum ada feedback/review terhadap action. |
+| Agreement/action | Scope, owner, deadline, stop rule, dan review belum disepakati. |
+| Relationship outcome | Consent dan konfirmasi menunjukkan hubungan interview tetap nyaman; outcome negosiasi belum ada. |
+
+## Penggunaan AI
+
+AI digunakan untuk menata hasil discovery dan menguji kelengkapan struktur. Saya tidak menggunakan AI untuk menetapkan authority atau mengklaim bahwa action telah dilakukan. Data dan nama disamarkan serta fakta diperiksa kembali.
+
+## Feedback dan tindak lanjut
+
+**Feedback yang diterima:** Jon mengonfirmasi problem statement, bukan agreement action.  
+**Adaptation/replay:** Saya memperjelas bahwa solusi harus mempertimbangkan lebih dari biaya.  
+**Next practice:** Melakukan follow-up untuk memilih satu opsi kecil, menetapkan owner, deadline, evidence, stop rule, dan review.
+
+## Self-assessment
+
+| Dimensi | Skor 1–4 | Evidence singkat |
+|---|---:|---|
+| Person & Character | 2 | Jon dan sebagian constraint diketahui; authority belum dipetakan. |
+| Objective & State | 2 | Desire–action gap dapat dirumuskan, tetapi belum ada tindakan. |
+| Repertoire, Language & AI | 3 | Discovery dan batas AI terdokumentasi. |
+| Response & Adaptation | 2 | Framing berubah, tanpa evidence adaptation action. |
+| Agreement, Action & Relationship | 1 | Belum ada agreement eksplisit atau action evidence. |
+
+**Total sementara:** 10 / 20
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::

@@ -1,7 +1,7 @@
 ---
 title: "Desire-State Communication"
 week: 9
-status: "Belum dimulai"
+status: "Sedang berlangsung"
 self_score: "—"
 assessor_score: "—"
 description: "Current state, desired state, value, evidence, dan risk."
@@ -22,4 +22,87 @@ Membangun desired state bersama target dan menghubungkannya dengan solution seca
 [Buka contoh fiktif Minggu 9](../examples/week-09.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Konteks performance
+
+**Tanggal dan setting:** Data berasal dari discovery interview Jon pada 22 September 2026 selama sekitar 30 menit melalui percakapan daring. Belum ada percakapan lanjutan yang secara khusus menggali desired state.
+
+**Person dan relationship:** Jon adalah teman dari Facebook dan penjual diecast. Ia menjadi partner discovery, bukan perwakilan semua penjual atau pembeli.
+
+## Current dan desired state
+
+| Elemen | Rumusan berdasarkan evidence, bukan asumsi |
+|---|---|
+| Current state | Jon menjelaskan biaya admin marketplace dapat mencapai sekitar 20%; contoh harga Rp200.000 perlu dinaikkan menjadi Rp240.000, sehingga profit tipis atau hanya balik modal dan calon pembeli dapat kurang tertarik. |
+| Desired state | Belum dirumuskan secara eksplisit oleh Jon. Rumusan sementara dari constraint-nya: proses jual beli yang aman, mudah, dipercaya, dan memiliki biaya jasa masuk akal sehingga harga tetap wajar dan profit layak. |
+| Value | Menjaga profit penjual, harga yang dapat diterima pembeli, keamanan, kepercayaan, dan kemudahan transaksi. |
+| Acceptable risk | Belum ditanyakan. Tidak boleh diasumsikan bahwa Jon bersedia menukar keamanan atau kepercayaan demi biaya rendah. |
+| Evidence threshold | Belum disepakati. Kandidat awal: perbandingan biaya, bukti keamanan/kepercayaan, kemudahan proses, dan hasil uji transaksi; semua masih perlu dikonfirmasi. |
+
+## Feature–benefit–value–outcome chain
+
+`Perantara dengan biaya jasa yang lebih masuk akal dan proses aman` → harga tidak perlu dinaikkan terlalu tinggi → profit dan ketertarikan pembeli lebih terjaga → perlu diuji melalui perbandingan biaya, keamanan, kemudahan, dan hasil transaksi.
+
+**Asumsi yang perlu diuji:** Semua panah masih berupa hypothesis. Week 5 hanya membuktikan masalah biaya dan constraint yang disebut Jon, bukan bahwa feature tertentu akan memperbaiki outcome.
+
+## Percakapan dan response
+
+> **Anda:** "Selain biaya admin yang lebih rendah, apa keadaan yang ingin tetap terjaga ketika memilih perantara jual beli?" *(Pertanyaan yang dapat digunakan; belum tercatat sebagai transcript Week 5.)*  
+> **Target:** Jon menyampaikan bahwa perantara tetap harus aman, dipercaya, dan mudah digunakan, dengan biaya jasa masuk akal. *(Paraphrase dari Week 5, bukan transcript desired-state terpisah.)*
+
+**Adaptasi solution atau objective:** Initial assumption berubah dari mencari marketplace baru menjadi mengevaluasi keseimbangan biaya, profit, harga wajar, keamanan, kepercayaan, dan kemudahan. Desired state belum dikonfirmasi dalam percakapan khusus Week 9.
+
+## Risk dan evidence
+
+**Risiko utama:** Alternatif yang murah dapat kurang aman, kurang dipercaya, atau sulit digunakan; selain itu satu interview tidak cukup untuk mengukur hasil pada semua transaksi.
+
+**Safeguard:** Jangan menyimpulkan solusi terbaik sebelum membandingkan biaya, keamanan, kepercayaan, kemudahan, dan hasil uji. Batas scope harus satu percobaan atau perbandingan kecil yang disetujui target.
+
+**Evidence yang dibutuhkan:** Data biaya aktual, contoh harga sebelum/sesudah, feedback penjual dan pembeli, bukti keamanan atau kepercayaan, serta catatan kemudahan proses. Threshold keberhasilan belum disepakati Jon.
+
+## Evidence
+
+::: {.evidence-block}
+Evidence yang tersedia: catatan/paraphrase interview, screenshot discovery, consent, dan konfirmasi problem statement. Evidence ini cukup untuk current state dan constraint awal, tetapi belum cukup untuk desired state yang dikonfirmasi, threshold, atau hasil uji solusi.
+:::
+
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| Person & character | Saya memahami Jon sebagai penjual yang perlu menjaga profit, harga wajar, keamanan, kepercayaan, dan kemudahan. Kesimpulan ini berasal dari satu discovery. |
+| Objective & state | Current state terdokumentasi; desired state masih rumusan sementara dari constraint, belum dikonfirmasi melalui percakapan khusus. |
+| Repertoire & language | Saya memakai pertanyaan terbuka dan paraphrase. Feature–benefit–value chain masih hypothesis. |
+| Response & adaptation | Respons Jon membuat saya meninggalkan asumsi “cukup cari marketplace baru” dan memakai framing multi-constraint. |
+| Agreement/action | Consent dan konfirmasi problem statement ada. Technical check atau test belum disepakati. |
+| Relationship outcome | Jon nyaman dan menyetujui rangkuman. Perubahan keterbukaan setelah desired-state conversation belum dapat dinilai. |
+
+## Penggunaan AI
+
+AI digunakan untuk menata hasil interview. Saya memeriksa ulang angka, batas evidence, dan nama samaran. AI tidak digunakan untuk menetapkan desired state atau threshold yang belum dikonfirmasi Jon.
+
+## Feedback dan tindak lanjut
+
+**Feedback yang diterima:** Jon menyetujui problem statement dan menyebut constraint keamanan, kepercayaan, kemudahan, serta biaya masuk akal.  
+**Adaptation/replay:** Saya mengubah framing solusi menjadi evaluasi trade-off.  
+**Next practice:** Melakukan follow-up untuk meminta Jon menetapkan desired state dan evidence threshold secara eksplisit.
+
+## Self-assessment
+
+| Dimensi | Skor 1–4 | Evidence singkat |
+|---|---:|---|
+| Person & Character | 3 | Value dan constraint Jon tersedia dari discovery. |
+| Objective & State | 2 | Current state ada; desired state dan threshold belum dikonfirmasi. |
+| Repertoire, Language & AI | 3 | Pertanyaan, paraphrase, dan batas hypothesis tercatat. |
+| Response & Adaptation | 3 | Framing berubah setelah response Jon. |
+| Agreement, Action & Relationship | 2 | Consent dan konfirmasi problem ada, tetapi test belum disepakati. |
+
+**Total sementara:** 13 / 20
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::

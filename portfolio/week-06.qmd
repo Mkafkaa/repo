@@ -1,7 +1,7 @@
 ---
 title: "Target–Attention Challenge"
 week: 6
-status: "Belum dimulai"
+status: "Sedang berlangsung"
 self_score: "—"
 assessor_score: "—"
 description: "Target map, attention pitch, response, dan state assessment."
@@ -22,4 +22,83 @@ Memilih target person yang tepat dan membuat issue diakui relevan melalui eviden
 [Buka contoh fiktif Minggu 6](../examples/week-06.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Konteks performance
+
+**Tanggal dan setting:** Sumber evidence berasal dari discovery interview pada 22 September 2026 selama sekitar 30 menit melalui percakapan daring dengan Jon, nama samaran untuk penjual diecast. Portfolio Week 5 mendokumentasikan discovery tersebut, bukan attention pitch terpisah untuk Week 6.
+
+**Objective dan initial state:** Berdasarkan Week 5, objective awal saya adalah memahami pengalaman Jon sebelum menawarkan solusi. Jon sudah problem aware: ia menjelaskan biaya admin marketplace yang dapat mencapai sekitar 20%, kenaikan harga diecast dari Rp200.000 menjadi Rp240.000, dan dampaknya terhadap profit serta ketertarikan pembeli. Belum ada evidence bahwa saya sudah melakukan pitch khusus untuk mengubah state target pada Week 6.
+
+## Target map
+
+| Person | Relevance | Authority | Current state |
+|---|---|---|---|
+| Jon, penjual diecast | Masalah biaya admin langsung memengaruhi profit dan harga jualnya. | Dapat menjelaskan pengalaman, menilai workaround, dan memberi feedback; authority atas kebijakan marketplace belum diketahui. | Problem aware berdasarkan interview Week 5 |
+| Calon pembeli diecast | Kenaikan harga dapat memengaruhi ketertarikan pembeli, tetapi tidak ada interview langsung. | Authority pembelian pribadi; relevance dan state belum dapat diukur. | Belum diketahui |
+| Komunitas hobi diecast | Week 5 menyebut kepercayaan komunitas sebagai constraint, tetapi tidak mencatat wawancara dengan komunitas. | Dapat memengaruhi kepercayaan atau adopsi, tetapi authority spesifik belum diketahui. | Belum diketahui |
+
+**Target yang dipilih:** Jon.  
+**Alasan pemilihan:** Jon memiliki direct experience terhadap masalah dan telah memberikan data contoh serta konfirmasi shared problem statement. Ia dipilih sebagai target awal karena evidence paling langsung tersedia dari dirinya, bukan karena ia memiliki authority atas marketplace.
+
+## Attention pitch
+
+> Berdasarkan interview Week 5, rumusan pitch yang dapat digunakan adalah: “Anda menyampaikan bahwa biaya admin marketplace dapat mencapai sekitar 20%, sehingga diecast Rp200.000 perlu dijual Rp240.000 dan profit menjadi tipis. Apakah masalah utama yang perlu kita periksa adalah biaya perantara, sambil tetap menjaga keamanan, kepercayaan, dan kemudahan pembeli?”
+
+**Status pitch:** Rumusan ini diturunkan dari data Week 5. Belum ada bukti bahwa kalimat ini atau pitch setara sudah disampaikan sebagai interaksi Week 6.
+
+**Evidence yang digunakan:** Catatan/paraphrase interview 22 September 2026, contoh harga Rp200.000 menjadi Rp240.000, pernyataan biaya admin sekitar 20%, serta konfirmasi Jon bahwa shared problem statement sudah benar. Keterbatasannya: evidence berasal dari satu penjual dan belum membuktikan frekuensi masalah pada semua transaksi atau penjual.
+
+## Response dan state assessment
+
+**Response target:** Pada interview Week 5, Jon mengonfirmasi rangkuman masalah dengan “Udah bener bro” dan “Yoi bro”. Ini membuktikan pengakuan atas problem statement, tetapi bukan response terhadap pitch Week 6.
+
+**State setelah pitch:** Belum dapat dinilai karena pitch khusus Week 6 belum terdokumentasi. State yang dapat dibuktikan dari Week 5 adalah Problem aware.
+
+**Adaptation:** Dalam Week 5, saya mengubah initial assumption dari “Jon hanya membutuhkan marketplace baru” menjadi masalah yang lebih luas: keseimbangan biaya, profit, harga wajar, keamanan, kepercayaan, dan kemudahan. Adaptation setelah pitch Week 6 belum tersedia.
+
+## Evidence
+
+::: {.evidence-block}
+Evidence yang tersedia dari Week 5: screenshot discovery, screenshot consent, dan screenshot konfirmasi shared problem statement. Evidence tersebut mendukung problem awareness dan kontribusi saya dalam bertanya serta merangkum masalah, tetapi belum membuktikan attention pitch baru, state sesudah pitch, atau adaptation Week 6.
+:::
+
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| Person & target | Jon dipilih karena memiliki pengalaman langsung dan mengonfirmasi problem statement. Authority-nya atas marketplace belum terbukti. |
+| Objective & state | Objective Week 5 adalah discovery. Jon berada pada state Problem aware berdasarkan jawaban dan konfirmasinya. Perubahan state setelah pitch belum tersedia. |
+| Repertoire & language | Saya menggunakan pertanyaan terbuka, paraphrase, dan bahasa informal yang sesuai dengan hubungan. Pitch attention baru masih berupa rumusan, bukan evidence interaksi. |
+| Response & adaptation | Response Jon mengubah pemahaman saya tentang masalah dari sekadar marketplace baru menjadi trade-off biaya, profit, harga, keamanan, kepercayaan, dan kemudahan. |
+| Agreement/action | Agreement yang terbukti hanya consent interview dan konfirmasi problem statement. Tidak ada action Week 6 yang terdokumentasi. |
+| Relationship outcome | Jon menyatakan nyaman dan menyetujui rangkuman. Dampak relationship setelah pitch baru belum dapat dinilai. |
+
+## Penggunaan AI
+
+AI digunakan untuk membantu menata jawaban interview ke struktur portfolio. Fakta, angka, urutan kejadian, dan konfirmasi Jon berasal dari evidence Week 5. Saya memeriksa ulang angka dan menggunakan nama samaran. AI belum digunakan untuk membuktikan response atau authority Jon.
+
+## Feedback dan tindak lanjut
+
+**Feedback yang diterima:** Jon mengonfirmasi bahwa rangkuman masalah sudah benar.  
+**Adaptation/replay:** Saya memperluas rumusan masalah dari kebutuhan marketplace baru menjadi trade-off biaya, profit, harga, keamanan, kepercayaan, dan kemudahan.  
+**Next practice:** Melakukan attention pitch terpisah kepada Jon dan mencatat response serta state sesudahnya.
+
+## Self-assessment
+
+| Dimensi | Skor 1–4 | Evidence singkat |
+|---|---:|---|
+| Person & Character | 3 | Target dipilih berdasarkan direct experience, tetapi authority belum diketahui. |
+| Objective & State | 2 | Problem awareness terbukti; state setelah attention pitch belum ada. |
+| Repertoire, Language & AI | 3 | Discovery, paraphrase, dan batas penggunaan AI terdokumentasi. |
+| Response & Adaptation | 2 | Adaptation dari discovery tersedia, tetapi adaptation setelah pitch belum ada. |
+| Agreement, Action & Relationship | 2 | Consent dan konfirmasi problem statement ada; action lanjutan belum terbukti. |
+
+**Total sementara:** 12 / 20
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::
