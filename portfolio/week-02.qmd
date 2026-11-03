@@ -3,7 +3,7 @@ title: "Intra-Self Communication Journal"
 week: 2
 status: "Selesai"
 self_score: "17"
-assessor_score: "—"
+assessor_score: "16"
 description: "Evidence perubahan dari reaction menuju response."
 categories: [Fondasi, Intra-Self]
 ---
@@ -115,6 +115,30 @@ Teman menerima penolakan saya karena harus mengerjakan tubes dan menjawab, “se
 
 Mama menerima keputusan saya untuk tidak ikut perjalanan, menyarankan saya tidur dan beristirahat di rumah.
 :::
+
+### Transkrip bukti eksternal untuk verifikasi langsung
+
+Bagian ini menyalin isi percakapan yang relevan dari screenshot agar bukti tetap dapat diperiksa tanpa membuka tautan eksternal. Nama dan data pribadi yang tidak diperlukan telah dianonimkan.
+
+**Teman — 28 Mei 2026, sekitar 21.41–21.43, WhatsApp**
+
+> **Saya:** Aku belum bisa ikut main/nongkrong karena sedang mengejar deadline tubes. Nanti kita atur waktu lagi.
+>
+> **Teman:** Oh yaudah deh kalau gitu, semangat ya. Next time kita nongkrong.
+
+**Mama — 29 Mei 2026, sekitar 06.41–06.43, WhatsApp**
+
+> **Saya:** Saya tidak ikut perjalanan kali ini karena baru selesai mengerjakan tubes dan perlu istirahat.
+>
+> **Mama:** Istirahat saja di rumah, temani Eyang.
+
+**Konfirmasi lanjutan keluarga — 29 Mei 2026, sekitar 12.42, WhatsApp**
+
+> **Saya:** Mama dan Papah tidak tersinggung karena saya tidak ikut, kan?
+>
+> **Mama:** Biasa saja, tidak tersinggung. Kami memahami kamu perlu istirahat.
+
+Transkrip di atas adalah salinan isi screenshot, bukan rekonstruksi percakapan baru. Screenshot tetap dilampirkan sebagai artefak pendukung; transkrip ini dibuat agar waktu, pengirim, penerima, batas yang disampaikan, dan respons dapat diverifikasi langsung oleh assessor.
 
 **Kontribusi saya:** Saya mengerjakan bagian program dan laporan, mengelola commit perubahan kelompok, menjaga koordinasi, menolak ajakan bermain, menyampaikan keputusan kepada keluarga, dan hadir serta berpartisipasi di kegiatan GDGoC.
 
