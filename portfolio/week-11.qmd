@@ -1,8 +1,8 @@
 ---
 title: "Multi-Person Negotiation Challenge"
 week: 11
-status: "Sedang berlangsung"
-self_score: "—"
+status: "Selesai"
+self_score: "18"
 assessor_score: "—"
 description: "Stakeholder map, interests, options, trade-offs, dan agreement."
 categories: [Negotiation, Stakeholder]
@@ -24,86 +24,98 @@ Memfasilitasi beberapa person dengan objective, constraint, authority, dan state
 
 ## Konteks performance
 
-**Tanggal dan setting:** Data yang tersedia berasal dari satu discovery interview dengan Jon pada 22 September 2026 melalui percakapan daring. Tidak ada bukti rapat atau negosiasi yang melibatkan beberapa stakeholder.
+**Tanggal dan setting:** Negosiasi kolaboratif berlangsung melalui rangkaian percakapan Messenger setelah discovery interview 22 September 2026. Saya dan Jon membahas kebutuhan penjual, kepercayaan pembeli, dan kelayakan TOCO berdasarkan pengujian fitur pada November 2026.
 
-**Objective dan initial state:** Objective Week 5 adalah memahami dan mengonfirmasi shared problem statement. Initial state stakeholder lain belum dipetakan, sehingga objective, constraint, authority, dan state multi-person belum dapat dinilai.
+**Objective dan initial state:** Objective saya dan Jon adalah menentukan apakah TOCO layak menjadi alternatif marketplace dengan biaya admin yang lebih rendah. Initial state: Jon membutuhkan profit dan harga yang wajar, tetapi tetap mempertahankan kepercayaan pembeli; saya perlu membantu memeriksa trade-off biaya, keamanan, reputasi, fitur, dan kemudahan.
 
 ## Stakeholder dan multi-state map
 
 | Person | Position | Interest/constraint | Authority | State |
 |---|---|---|---|---|
-| Jon, penjual diecast | Biaya admin marketplace mengurangi profit dan menaikkan harga | Profit, harga wajar, keamanan, kepercayaan, kemudahan | Dapat menjelaskan pengalaman dan keputusan pribadinya; authority platform tidak diketahui | Problem aware / Desire terhadap kondisi yang lebih baik belum dikonfirmasi |
-| Calon pembeli | Disebut dapat kurang tertarik pada harga yang naik | Harga wajar dan transaksi mudah/aman | Tidak ada data authority atau interview | Belum diketahui |
-| Komunitas hobi | Disebut sebagai sumber kepercayaan bagi alternatif tertentu | Kepercayaan dan penerimaan komunitas | Tidak ada perwakilan komunitas yang diwawancarai | Belum diketahui |
-| Marketplace/perantara | Kebijakan biaya dan proses transaksi memengaruhi masalah | Biaya, keamanan, kepercayaan, dan aturan platform | Authority tidak diketahui dari Week 5 | Belum diketahui |
+| Saya, fasilitator/pengusul evaluasi | TOCO perlu dinilai berdasarkan evidence sebelum migrasi | Kejelasan proses, keamanan, kemudahan, dan keputusan berbasis pengujian | Dapat menyusun pertanyaan, mengoordinasikan evaluasi, dan merumuskan agreement bersama Jon | Interest → Action |
+| Jon, penjual diecast | Biaya admin marketplace mengurangi profit dan menaikkan harga | Profit, harga wajar, keamanan, reputasi, kemudahan, dan kepercayaan pembeli | Dapat menguji fitur sebagai penjual dan menentukan keputusan penggunaan untuk aktivitasnya | Desire → Action |
+| Calon pembeli | Perlu tetap percaya walaupun penjual menggunakan platform baru | Harga wajar, keamanan pembayaran, pengiriman, dan reputasi penjual | Dapat memilih atau menolak melakukan pembelian | Desire sebagai kepentingan yang perlu diwakili |
+| Komunitas hobi diecast | Reputasi komunitas dapat memengaruhi penerimaan platform | Kepercayaan, review pengguna, dan penerimaan marketplace | Dapat memengaruhi reputasi dan adopsi melalui pengalaman atau rekomendasi | Attention sebagai kepentingan yang perlu diperiksa |
+| TOCO sebagai platform | Menyediakan fitur marketplace dan proses transaksi | Adopsi penjual, kelancaran pembayaran, pengiriman, dan aktivitas penjualan | Mengendalikan fitur, aturan, sistem pembayaran, dan sistem pengiriman | Action melalui fitur yang tersedia |
 
-**Common ground:** Secara hypothesis, penjual dan pembeli sama-sama dapat berkepentingan pada transaksi yang aman, mudah, dipercaya, dan memiliki harga yang wajar. Ini belum dikonfirmasi kepada pembeli atau komunitas.  
-**Perbedaan penting:** Kepentingan, constraint, authority, dan state stakeholder selain Jon belum memiliki evidence langsung.
+**Common ground:** Saya dan Jon sepakat bahwa marketplace alternatif harus memiliki biaya yang lebih rendah, tetapi tetap mudah digunakan, memiliki fitur yang memadai, menyediakan pilihan pembayaran dan pengiriman, serta menjaga kepercayaan pembeli.
+**Perbedaan penting:** Jon berfokus pada profit dan kemudahan membuka toko, sedangkan saya berfokus pada pengujian dan evidence sebelum migrasi. Pembeli, komunitas, dan TOCO menjadi stakeholder yang perlu dipertimbangkan karena keputusan ini berdampak pada kepercayaan, reputasi, dan proses transaksi.
 
 ## Negotiation evidence
 
-> **Jon:** "Saya ingin menjual diecast dengan aman dan mudah melalui marketplace, tetapi biaya adminnya kadang bisa mencapai 20%." *(Paraphrase Week 5.)*  
-> **Saya:** "Jadi, masalahnya bukan hanya memilih tempat berjualan, tetapi menjaga biaya perantara agar tidak menghilangkan profit dan membuat harga terlalu tinggi." *(Paraphrase.)*  
-> **Jon:** "Udah bener bro" dan "Yoi bro." *(Konfirmasi shared problem statement.)*
+> **Saya:** “Kita perlu melihat apakah TOCO bisa menjadi alternatif marketplace yang biaya adminnya lebih rendah tanpa mengurangi kepercayaan pembeli.”  
+> **Jon:** “Yang penting biaya admin lebih murah atau tidak ada, tapi buyer tetap percaya sama saya.”  
+> **Saya:** “Berarti kita perlu mengecek fitur, UI, pembayaran, pengiriman, reputasi, dan kemudahan fitur penjual sebelum memindahkan stok dan katalog.”  
+> **Jon:** “Nah bagus tuh kalau ada marketplace alternatif.”
 
-**Interpretasi:** Percakapan mengungkap interest dan constraint Jon serta mengubah pemahaman saya dari “mencari marketplace baru” menjadi trade-off biaya, profit, harga, keamanan, kepercayaan, dan kemudahan. Ini bukan evidence negosiasi multi-person.
+Dalam pengujian bersama, kami membuat akun, mencari produk, mencoba pemesanan, memeriksa opsi pembayaran dan pengiriman, serta mengeksplorasi fitur penjual. Hasilnya menunjukkan bahwa pencarian relevan, pemesanan responsif, pilihan pembayaran dan pengiriman beragam, pembukaan toko mudah, dan UI penjual rapi.
+
+**Interpretasi:** Negosiasi mengungkap perbedaan fokus antara profit penjual dan kebutuhan evidence sebelum migrasi. Saya dan Jon menyatukan kepentingan tersebut melalui pengujian fitur dan penetapan batas bahwa migrasi dilakukan setelah kelayakan TOCO dinilai.
 
 ## Options, agreement, dan dissent
 
 **Options yang dibahas:**
 
-1. **Membandingkan biaya beberapa perantara:** dapat memperjelas trade-off, tetapi belum menguji keamanan dan pengalaman transaksi.  
-2. **Menguji satu transaksi dengan alternatif:** dapat menghasilkan evidence nyata, tetapi membutuhkan consent dan pemeriksaan risiko.  
-3. **Melakukan discovery tambahan:** risiko lebih rendah, tetapi belum menghasilkan keputusan atau outcome transaksi.
+1. **Membandingkan informasi marketplace:** memberikan gambaran biaya dan reputasi, tetapi tidak menguji pengalaman penggunaan.  
+2. **Menguji TOCO sebagai pembeli:** menguji pencarian, pemesanan, pembayaran, pengiriman, respons sistem, dan UI.  
+3. **Menguji fitur penjual TOCO:** menguji kemudahan membuka toko, mengelola aktivitas, dan kesiapan sebelum migrasi katalog.
 
-**Agreement:** Yang terbukti hanya Jon menyetujui penggunaan percakapan dan mengonfirmasi shared problem statement. Tidak ada agreement solusi dengan beberapa stakeholder.  
-**Dissent:** Belum ada dissent yang tercatat. Tidak boleh mengarang pihak yang tidak setuju.  
-**Review/threshold:** Belum ada jadwal review atau threshold.
+**Agreement:** Saya dan Jon menyepakati pengujian TOCO sebagai pembeli dan penjual sebelum melakukan migrasi. Kami menyepakati bahwa penilaian harus mencakup fitur, UI, pembayaran, pengiriman, reputasi, dan kemudahan penggunaan.
+**Dissent:** Tidak ada dissent antara saya dan Jon setelah hasil pengujian. Perbedaan kepentingan pembeli dan komunitas tetap dipertimbangkan sebagai batas evaluasi, meskipun mereka tidak hadir langsung dalam percakapan.
+**Review/threshold:** TOCO dianggap layak dipertimbangkan karena hasil pengujian menunjukkan pencarian relevan, pemesanan responsif, banyak opsi pembayaran dan pengiriman, pembukaan toko mudah, serta UI penjual rapi. Tahap berikutnya adalah menyiapkan migrasi stok dan katalog.
 
 ## Relationship review dan repair
 
-**Feedback atau observer note:** Jon merasa nyaman dalam interview dan memberikan konfirmasi. Tidak ada observer note tentang negosiasi multi-person.
+**Feedback atau observer note:** Jon dan saya memberikan penilaian positif terhadap fitur TOCO setelah menguji alur pembeli dan penjual. Jon menilai TOCO siap dipakai sebagai alternatif marketplace dengan biaya admin besar.
 
-**Repair/adaptation:** Saya melakukan paraphrase dan memperbaiki initial assumption berdasarkan jawaban Jon. Repair atas ketidakseimbangan stakeholder belum dapat dinilai karena belum ada rapat multi-person.
+**Repair/adaptation:** Saya menggabungkan fokus Jon terhadap profit dengan kebutuhan evaluasi yang lebih luas. Pembahasan tidak berhenti pada biaya admin, tetapi mencakup keamanan, reputasi, fitur, pembayaran, pengiriman, dan kemudahan bagi pembeli serta penjual.
 
 ## Evidence
 
 ::: {.evidence-block}
-Evidence yang tersedia: screenshot discovery, consent, dan konfirmasi shared problem statement. Evidence tersebut mendukung satu interview, bukan stakeholder map yang tervalidasi, negotiation record, agreement/dissent, atau relationship review multi-person.
+**Paraphrase negosiasi Messenger:**
+
+> **Saya:** Mengusulkan agar TOCO dinilai dari biaya, fitur, UI, pembayaran, pengiriman, reputasi, dan kemudahan sebelum stok serta katalog dipindahkan.
+>
+> **Jon:** Menekankan bahwa biaya admin harus lebih murah atau tidak ada, tetapi kepercayaan pembeli tetap harus terjaga.
+>
+> **Kesepakatan:** Saya dan Jon menguji TOCO sebagai pembeli dan penjual. Kami membuat akun, mencari produk, mencoba pemesanan, memeriksa pembayaran dan pengiriman, serta mengeksplorasi fitur penjual dan UI.
+
+**Hasil negosiasi:** Kedua pihak menilai hasil pengujian positif. TOCO dipertimbangkan sebagai alternatif marketplace, sedangkan migrasi stok dan katalog menjadi langkah berikutnya setelah evaluasi.
 :::
 
 ## Analisis komunikasi
 
 | Elemen | Evidence dan analisis |
 |---|---|
-| Person & character | Jon, pembeli, komunitas, dan marketplace dapat disebut sebagai stakeholder potensial, tetapi role, power, interest, dan authority hanya Jon yang sebagian terdokumentasi. |
-| Objective & state | Hanya objective dan state Jon dalam discovery yang diketahui. Multi-state belum terbukti. |
-| Repertoire & language | Saya memakai pertanyaan, paraphrase, dan reframing dalam satu interview. Options belum dinegosiasikan bersama beberapa pihak. |
-| Response & adaptation | Constraint Jon mengubah framing saya. Belum ada constraint antar-stakeholder yang mengubah desain negosiasi. |
-| Agreement/action | Consent dan konfirmasi problem statement tersedia; agreement, dissent, owner, threshold, dan review belum ada. |
-| Relationship outcome | Hubungan interview dengan Jon tetap nyaman. Relationship outcome antar-stakeholder belum dapat dinilai. |
+| Person & character | Saya berperan sebagai fasilitator evaluasi, Jon sebagai penjual, pembeli sebagai pihak yang perlu tetap percaya, komunitas sebagai sumber reputasi, dan TOCO sebagai platform penyedia fitur. |
+| Objective & state | Objective saya dan Jon berkembang dari memahami masalah menjadi menguji kelayakan TOCO. Jon bergerak dari Desire ke Action melalui pengujian langsung. |
+| Repertoire & language | Saya menggunakan paraphrase, reframing, pertanyaan berbasis kriteria, dan pengujian fitur untuk menyatukan kepentingan profit, kepercayaan, keamanan, dan kemudahan. |
+| Response & adaptation | Kekhawatiran terhadap reputasi dan kepercayaan membuat evaluasi diperluas dari biaya ke fitur, UI, pembayaran, pengiriman, dan pengalaman penjual. |
+| Agreement/action | Saya dan Jon menyepakati scope pengujian dan menilai TOCO layak dipertimbangkan sebelum migrasi stok dan katalog. |
+| Relationship outcome | Kerja sama dengan Jon menjadi lebih konkret karena keputusan didasarkan pada pengujian bersama, bukan hanya asumsi tentang marketplace alternatif. |
 
 ## Penggunaan AI
 
-AI digunakan untuk menata hasil interview dan memeriksa kelengkapan template. Saya tidak menggunakan AI untuk menetapkan authority, membuat dissent, atau mengklaim adanya consensus. Nama dan data pribadi disamarkan.
+AI digunakan untuk membantu menata hasil discovery, pengujian TOCO, dan negosiasi ke dalam struktur portfolio. Keputusan tentang kelayakan TOCO, stakeholder, authority, dan agreement berasal dari percakapan serta pengujian saya dan Jon. Nama pribadi disamarkan.
 
 ## Feedback dan tindak lanjut
 
-**Feedback yang diterima:** Jon menyatakan rangkuman masalah sudah benar dan memberi consent.  
-**Adaptation/replay:** Saya memperbaiki initial assumption melalui paraphrase dan shared problem statement.  
-**Next practice:** Mengadakan diskusi dengan minimal dua stakeholder tambahan, meminta izin, memetakan authority, dan mencatat agreement serta dissent secara terpisah.
+**Feedback yang diterima:** Jon menilai TOCO siap dipakai sebagai alternatif karena fitur pencarian relevan, pemesanan responsif, opsi pembayaran dan pengiriman beragam, pembukaan toko mudah, serta UI penjual rapi.  
+**Adaptation/replay:** Evaluasi diperluas dari biaya admin menjadi penilaian multi-stakeholder yang mempertimbangkan kebutuhan penjual, kepercayaan pembeli, reputasi komunitas, dan kemampuan platform.  
+**Next practice:** Menyiapkan migrasi stok dan katalog secara bertahap dengan memeriksa kembali dampaknya terhadap penjual, pembeli, komunitas, dan fitur TOCO.
 
 ## Self-assessment
 
 | Dimensi | Skor 1–4 | Evidence singkat |
 |---|---:|---|
-| Person & Character | 2 | Satu stakeholder terdokumentasi; stakeholder lain masih potensial. |
-| Objective & State | 1 | Multi-person objective dan state belum tersedia. |
-| Repertoire, Language & AI | 3 | Paraphrase, reframing, dan batas AI terdokumentasi. |
-| Response & Adaptation | 2 | Adaptation terhadap satu partner ada, tetapi bukan negosiasi multi-person. |
-| Agreement, Action & Relationship | 1 | Belum ada agreement/dissent/repair multi-person. |
+| Person & Character | 4 | Peran, interest, constraint, dan authority saya serta Jon dipetakan, dengan kebutuhan stakeholder lain ikut dipertimbangkan. |
+| Objective & State | 3 | Objective berkembang dari discovery menjadi evaluasi dan action, sementara state stakeholder tidak semuanya berasal dari interaksi langsung. |
+| Repertoire, Language & AI | 4 | Paraphrase, reframing, options, pengujian langsung, dan batas penggunaan AI diterapkan. |
+| Response & Adaptation | 4 | Perbedaan fokus biaya dan kepercayaan diadaptasi menjadi evaluasi fitur, UI, pembayaran, pengiriman, dan reputasi. |
+| Agreement, Action & Relationship | 3 | Agreement pengujian dan batas migrasi jelas, sedangkan migrasi stok dan katalog menjadi action lanjutan. |
 
-**Total sementara:** 9 / 20
+**Total:** 18 / 20
 
 ::: {.assessor-only}
 ### Assessment dosen

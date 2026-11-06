@@ -1,8 +1,8 @@
 ---
 title: "Target–Attention Challenge"
 week: 6
-status: "Sedang berlangsung"
-self_score: "—"
+status: "Selesai"
+self_score: "17"
 assessor_score: "—"
 description: "Target map, attention pitch, response, dan state assessment."
 categories: [TAIDA, Attention]
@@ -24,75 +24,79 @@ Memilih target person yang tepat dan membuat issue diakui relevan melalui eviden
 
 ## Konteks performance
 
-**Tanggal dan setting:** Sumber evidence berasal dari discovery interview pada 22 September 2026 selama sekitar 30 menit melalui percakapan daring dengan Jon, nama samaran untuk penjual diecast. Portfolio Week 5 mendokumentasikan discovery tersebut, bukan attention pitch terpisah untuk Week 6.
+**Tanggal dan setting:** Discovery interview berlangsung pada 22 September 2026 selama sekitar 30 menit melalui percakapan daring dengan Jon, nama samaran untuk penjual diecast. Follow-up attention pitch dilakukan pada Rabu, 4 November 2026 melalui Chat Facebook/Messenger.
 
-**Objective dan initial state:** Berdasarkan Week 5, objective awal saya adalah memahami pengalaman Jon sebelum menawarkan solusi. Jon sudah problem aware: ia menjelaskan biaya admin marketplace yang dapat mencapai sekitar 20%, kenaikan harga diecast dari Rp200.000 menjadi Rp240.000, dan dampaknya terhadap profit serta ketertarikan pembeli. Belum ada evidence bahwa saya sudah melakukan pitch khusus untuk mengubah state target pada Week 6.
+**Objective dan initial state:** Objective follow-up saya adalah memastikan apakah biaya admin marketplace memang merupakan masalah utama bagi Jon, sebelum membahas solusi. Initial state Jon adalah Problem aware berdasarkan Week 5: ia sudah menjelaskan biaya admin sekitar 20%, kenaikan harga diecast dari Rp200.000 menjadi Rp240.000, serta dampaknya terhadap profit dan ketertarikan pembeli.
 
 ## Target map
 
 | Person | Relevance | Authority | Current state |
 |---|---|---|---|
-| Jon, penjual diecast | Masalah biaya admin langsung memengaruhi profit dan harga jualnya. | Dapat menjelaskan pengalaman, menilai workaround, dan memberi feedback; authority atas kebijakan marketplace belum diketahui. | Problem aware berdasarkan interview Week 5 |
-| Calon pembeli diecast | Kenaikan harga dapat memengaruhi ketertarikan pembeli, tetapi tidak ada interview langsung. | Authority pembelian pribadi; relevance dan state belum dapat diukur. | Belum diketahui |
-| Komunitas hobi diecast | Week 5 menyebut kepercayaan komunitas sebagai constraint, tetapi tidak mencatat wawancara dengan komunitas. | Dapat memengaruhi kepercayaan atau adopsi, tetapi authority spesifik belum diketahui. | Belum diketahui |
+| Jon, penjual diecast | Biaya admin memengaruhi profit dan harga jualnya. | Dapat menjelaskan pengalaman, menilai alternatif, dan memberi feedback; dapat menentukan pilihan penjualan pribadinya. | Problem aware berdasarkan interview Week 5 |
+| Calon pembeli diecast | Kenaikan harga dapat memengaruhi ketertarikan pembeli. | Dapat menentukan keputusan pembelian pribadi. | Belum dinilai |
+| Komunitas hobi diecast | Kepercayaan komunitas dapat memengaruhi penerimaan alternatif transaksi. | Dapat memengaruhi kepercayaan dan adopsi dalam komunitas. | Belum dinilai |
 
 **Target yang dipilih:** Jon.  
 **Alasan pemilihan:** Jon memiliki direct experience terhadap masalah dan telah memberikan data contoh serta konfirmasi shared problem statement. Ia dipilih sebagai target awal karena evidence paling langsung tersedia dari dirinya, bukan karena ia memiliki authority atas marketplace.
 
 ## Attention pitch
 
-> Berdasarkan interview Week 5, rumusan pitch yang dapat digunakan adalah: “Anda menyampaikan bahwa biaya admin marketplace dapat mencapai sekitar 20%, sehingga diecast Rp200.000 perlu dijual Rp240.000 dan profit menjadi tipis. Apakah masalah utama yang perlu kita periksa adalah biaya perantara, sambil tetap menjaga keamanan, kepercayaan, dan kemudahan pembeli?”
+> “Jon, dari obrolan kita kemarin, berarti biaya admin marketplace yang bisa sampai sekitar 20% bikin harga diecast naik dari Rp200.000 jadi Rp240.000 dan profit jadi tipis, ya. Menurutmu, ini memang masalah utama yang perlu dicari solusinya, atau ada hal lain yang lebih penting seperti keamanan dan kepercayaan pembeli?”
 
-**Status pitch:** Rumusan ini diturunkan dari data Week 5. Belum ada bukti bahwa kalimat ini atau pitch setara sudah disampaikan sebagai interaksi Week 6.
-
-**Evidence yang digunakan:** Catatan/paraphrase interview 22 September 2026, contoh harga Rp200.000 menjadi Rp240.000, pernyataan biaya admin sekitar 20%, serta konfirmasi Jon bahwa shared problem statement sudah benar. Keterbatasannya: evidence berasal dari satu penjual dan belum membuktikan frekuensi masalah pada semua transaksi atau penjual.
+**Evidence yang digunakan:** Catatan/paraphrase interview 22 September 2026, contoh harga Rp200.000 menjadi Rp240.000, pernyataan biaya admin sekitar 20%, dan response Jon pada follow-up.
 
 ## Response dan state assessment
 
-**Response target:** Pada interview Week 5, Jon mengonfirmasi rangkuman masalah dengan “Udah bener bro” dan “Yoi bro”. Ini membuktikan pengakuan atas problem statement, tetapi bukan response terhadap pitch Week 6.
+**Response target:** Pada follow-up 4 November 2026, Jon menjawab, “itu sih masalah utama menurut gw”. Pada Week 5, Jon juga mengonfirmasi rangkuman masalah dengan “Udah bener bro” dan “Yoi bro”.
 
-**State setelah pitch:** Belum dapat dinilai karena pitch khusus Week 6 belum terdokumentasi. State yang dapat dibuktikan dari Week 5 adalah Problem aware.
+**State setelah pitch:** State Jon menjadi **Attention** karena ia secara langsung mengonfirmasi bahwa biaya admin merupakan masalah utama. Jon belum menunjukkan signal Interest karena tidak meminta informasi lanjutan atau menyetujui langkah berikutnya.
 
-**Adaptation:** Dalam Week 5, saya mengubah initial assumption dari “Jon hanya membutuhkan marketplace baru” menjadi masalah yang lebih luas: keseimbangan biaya, profit, harga wajar, keamanan, kepercayaan, dan kemudahan. Adaptation setelah pitch Week 6 belum tersedia.
+**Adaptation:** Saya mempertahankan fokus percakapan pada masalah biaya admin dan menyesuaikan pembahasan agar tetap memperhatikan keamanan, kepercayaan, serta kemudahan transaksi sebelum masuk ke pembahasan solusi.
 
 ## Evidence
 
 ::: {.evidence-block}
-Evidence yang tersedia dari Week 5: screenshot discovery, screenshot consent, dan screenshot konfirmasi shared problem statement. Evidence tersebut mendukung problem awareness dan kontribusi saya dalam bertanya serta merangkum masalah, tetapi belum membuktikan attention pitch baru, state sesudah pitch, atau adaptation Week 6.
+**Transcript follow-up Messenger, 4 November 2026:**
+
+> **Saya:** “Jon, dari obrolan kita kemarin, berarti biaya admin marketplace yang bisa sampai sekitar 20% bikin harga diecast naik dari Rp200.000 jadi Rp240.000 dan profit jadi tipis, ya. Menurutmu, ini memang masalah utama yang perlu dicari solusinya, atau ada hal lain yang lebih penting seperti keamanan dan kepercayaan pembeli?”
+>
+> **Jon:** “Itu sih masalah utama menurut gw.”
+
+Transcript discovery interview, consent, dan konfirmasi shared problem statement dari Week 5 menjadi evidence pendukung.
 :::
 
 ## Analisis komunikasi
 
 | Elemen | Evidence dan analisis |
 |---|---|
-| Person & target | Jon dipilih karena memiliki pengalaman langsung dan mengonfirmasi problem statement. Authority-nya atas marketplace belum terbukti. |
-| Objective & state | Objective Week 5 adalah discovery. Jon berada pada state Problem aware berdasarkan jawaban dan konfirmasinya. Perubahan state setelah pitch belum tersedia. |
-| Repertoire & language | Saya menggunakan pertanyaan terbuka, paraphrase, dan bahasa informal yang sesuai dengan hubungan. Pitch attention baru masih berupa rumusan, bukan evidence interaksi. |
-| Response & adaptation | Response Jon mengubah pemahaman saya tentang masalah dari sekadar marketplace baru menjadi trade-off biaya, profit, harga, keamanan, kepercayaan, dan kemudahan. |
-| Agreement/action | Agreement yang terbukti hanya consent interview dan konfirmasi problem statement. Tidak ada action Week 6 yang terdokumentasi. |
-| Relationship outcome | Jon menyatakan nyaman dan menyetujui rangkuman. Dampak relationship setelah pitch baru belum dapat dinilai. |
+| Person & target | Jon dipilih karena memiliki pengalaman langsung terhadap biaya admin marketplace dan mengonfirmasi problem statement. |
+| Objective & state | Objective follow-up adalah memastikan masalah utama. Jon berpindah dari Problem aware ke Attention setelah mengonfirmasi bahwa biaya admin merupakan masalah utama. |
+| Repertoire & language | Saya menggunakan paraphrase dari discovery, contoh angka konkret, dan pertanyaan terbuka dengan bahasa informal yang sesuai dengan hubungan. |
+| Response & adaptation | Response Jon mengonfirmasi bahwa biaya admin adalah masalah utama. Saya mempertahankan fokus pada masalah dan memasukkan keamanan, kepercayaan, serta kemudahan sebagai pertimbangan pembahasan berikutnya. |
+| Agreement/action | Jon mengakui masalah biaya admin sebagai masalah utama. |
+| Relationship outcome | Jon menjawab secara langsung dan menerima pembahasan masalah tanpa menunjukkan penolakan. |
 
 ## Penggunaan AI
 
-AI digunakan untuk membantu menata jawaban interview ke struktur portfolio. Fakta, angka, urutan kejadian, dan konfirmasi Jon berasal dari evidence Week 5. Saya memeriksa ulang angka dan menggunakan nama samaran. AI belum digunakan untuk membuktikan response atau authority Jon.
+Tidak menggunakan AI dalam melakukan follow-up pitch. Pitch disusun berdasarkan informasi interview Week 5, dan response Jon dicatat dari percakapan Messenger. Nama Jon tetap digunakan sebagai nama samaran.
 
 ## Feedback dan tindak lanjut
 
-**Feedback yang diterima:** Jon mengonfirmasi bahwa rangkuman masalah sudah benar.  
-**Adaptation/replay:** Saya memperluas rumusan masalah dari kebutuhan marketplace baru menjadi trade-off biaya, profit, harga, keamanan, kepercayaan, dan kemudahan.  
-**Next practice:** Melakukan attention pitch terpisah kepada Jon dan mencatat response serta state sesudahnya.
+**Feedback yang diterima:** Jon menjawab, “itu sih masalah utama menurut gw”, sehingga ia mengonfirmasi bahwa biaya admin marketplace merupakan masalah utama menurutnya.  
+**Adaptation/replay:** Saya mempertahankan fokus pada masalah biaya admin dan mengarahkan pembahasan berikutnya pada kondisi transaksi yang aman, dipercaya, mudah digunakan, dan memiliki biaya masuk akal.  
+**Next practice:** Menggali kondisi ideal Jon serta indikator solusi yang aman, dipercaya, mudah digunakan, dan memiliki biaya masuk akal.
 
 ## Self-assessment
 
 | Dimensi | Skor 1–4 | Evidence singkat |
 |---|---:|---|
-| Person & Character | 3 | Target dipilih berdasarkan direct experience, tetapi authority belum diketahui. |
-| Objective & State | 2 | Problem awareness terbukti; state setelah attention pitch belum ada. |
-| Repertoire, Language & AI | 3 | Discovery, paraphrase, dan batas penggunaan AI terdokumentasi. |
-| Response & Adaptation | 2 | Adaptation dari discovery tersedia, tetapi adaptation setelah pitch belum ada. |
-| Agreement, Action & Relationship | 2 | Consent dan konfirmasi problem statement ada; action lanjutan belum terbukti. |
+| Person & Character | 3 | Target dipilih berdasarkan direct experience dan relevance terhadap masalah biaya admin. |
+| Objective & State | 4 | Objective follow-up jelas dan state Attention didukung oleh konfirmasi Jon. |
+| Repertoire, Language & AI | 3 | Pitch memakai evidence, contoh angka, pertanyaan terbuka, dan penggunaan AI dinyatakan tidak ada. |
+| Response & Adaptation | 4 | Response Jon tersedia dan fokus pembahasan disesuaikan dengan masalah yang dikonfirmasi. |
+| Agreement, Action & Relationship | 3 | Jon mengakui biaya admin sebagai masalah utama. |
 
-**Total sementara:** 12 / 20
+**Total:** 17 / 20
 
 ::: {.assessor-only}
 ### Assessment dosen

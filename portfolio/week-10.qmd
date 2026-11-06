@@ -1,8 +1,8 @@
 ---
 title: "Action & Agreement Challenge"
 week: 10
-status: "Sedang berlangsung"
-self_score: "—"
+status: "Selesai"
+self_score: "18"
 assessor_score: "—"
 description: "Barrier, authority, negotiation, agreement, dan action evidence."
 categories: [TAIDA, Action]
@@ -24,86 +24,92 @@ Menemukan desire–action gap dan menghasilkan agreement yang feasible serta eks
 
 ## Konteks performance
 
-**Tanggal dan setting:** Data berasal dari discovery interview Jon pada 22 September 2026 melalui percakapan daring. Tidak ada bukti bahwa action planning atau negosiasi agreement dilakukan setelah interview.
+**Tanggal dan setting:** Setelah percakapan Week 9 pada 5 November 2026, saya dan Jon melanjutkan diskusi melalui Messenger untuk menguji kelayakan marketplace TOCO sebagai alternatif marketplace lama.
 
-**Person dan relationship:** Jon adalah teman dari Facebook dan penjual diecast. Authority Jon atas keputusan pribadi atau pengalamannya sendiri ada, tetapi authority atas kebijakan marketplace, komunitas, atau pembeli lain belum diketahui.
+**Person dan relationship:** Jon adalah teman dari Facebook dan penjual diecast. Saya dan Jon memiliki authority untuk membuat akun, menguji fitur, mencoba pengalaman sebagai pembeli, dan menilai kelayakan TOCO berdasarkan hasil eksplorasi. Kami tidak memiliki authority untuk mengubah kebijakan TOCO.
 
-**Desire dan initial state:** Desire yang dapat diturunkan dari Week 5 adalah menjaga profit dengan biaya perantara yang masuk akal, tanpa kehilangan keamanan, kepercayaan, dan kemudahan. Initial state: masalah sudah diakui, tetapi belum ada action, owner, deadline, atau review.
+**Desire dan initial state:** Desire Jon adalah menggunakan marketplace dengan biaya admin lebih murah atau tidak ada, tanpa kehilangan kepercayaan pembeli. Initial state: TOCO masih merupakan alternatif yang perlu diuji dari sisi fitur, UI, pembayaran, pengiriman, dan fitur penjual.
 
 ## Desire–action gap
 
-Week 5 membuktikan adanya masalah dan workaround TOCO, tetapi belum membuktikan komitmen untuk menjalankan pengujian tertentu. Karena itu, desire–action gap adalah jarak antara kebutuhan akan perantara yang lebih sesuai dan belum adanya action terukur untuk membandingkan atau menguji pilihan.
+Desire–action gap berada pada jarak antara keinginan menggunakan marketplace dengan biaya admin lebih rendah dan kebutuhan untuk memastikan bahwa marketplace tersebut benar-benar mudah, aman, responsif, dan dapat digunakan untuk aktivitas penjual.
 
 | Barrier | Person dengan authority | Respons atau langkah yang dibutuhkan |
 |---|---|---|
-| Belum ada perbandingan biaya dan hasil antarperantara | Jon dapat memberi data pengalaman pribadi; authority atas data pihak lain belum diketahui | Menyusun perbandingan kecil dengan data yang dapat dibagikan |
-| Keamanan dan kepercayaan belum diverifikasi | Authority belum diketahui; perlu konfirmasi dari Jon atau komunitas/platform | Menentukan kriteria pemeriksaan sebelum mencoba |
-| Belum ada target action, deadline, dan review | Belum ada owner yang disepakati | Mengadakan follow-up untuk membagi owner dan waktu |
+| Kelayakan fitur dan UI TOCO belum diketahui | Saya dan Jon dapat menguji fitur sebagai pengguna | Membuat akun, mencari produk, dan memeriksa tampilan serta respons sistem |
+| Sistem pembayaran dan pengiriman perlu dibandingkan | Saya dan Jon dapat mencoba alur pemesanan sebagai pembeli | Melakukan pemesanan dan mencatat opsi pembayaran serta pengiriman |
+| Kemudahan membuka toko dan mengelola penjualan perlu diverifikasi | Jon memiliki pengalaman sebagai penjual dan dapat menguji fitur penjual | Membuka atau mengeksplorasi halaman penjual serta memeriksa aktivitas yang dapat dipantau |
 
-**Kesalahan pemetaan authority yang diperbaiki:** Belum ada pemetaan authority aktual pada Week 5. Saya tidak akan menganggap Jon dapat menyetujui kebijakan marketplace atau mewakili semua pembeli dan komunitas.
+**Kesalahan pemetaan authority yang diperbaiki:** Jon tidak dianggap sebagai pihak yang dapat mengubah kebijakan TOCO. Authority Jon dan saya dibatasi pada pengujian pengalaman pengguna dan penilaian kelayakan berdasarkan fitur yang tersedia.
 
 ## Options dan trade-off
 
-1. **Membandingkan biaya beberapa perantara:** scope kecil dan informatif, tetapi belum menguji pengalaman transaksi secara langsung.  
-2. **Menguji satu transaksi dengan alternatif yang dipercaya:** evidence lebih dekat dengan pengalaman nyata, tetapi membutuhkan consent, keamanan, dan owner yang jelas.  
-3. **Melakukan discovery tambahan tanpa transaksi:** risiko rendah dan cepat, tetapi tidak membuktikan outcome profit atau kemudahan.
+1. **Membandingkan informasi marketplace:** memberikan gambaran awal tentang biaya dan reputasi, tetapi tidak menguji pengalaman penggunaan.  
+2. **Menguji TOCO sebagai pembeli:** dapat menguji pencarian, pemesanan, pembayaran, pengiriman, respons sistem, dan UI secara langsung.  
+3. **Menguji fitur penjual TOCO:** dapat menunjukkan kemudahan membuka toko dan memantau aktivitas penjualan, tetapi belum mencakup migrasi stok dan katalog.
 
-**Opsi yang dipilih:** Belum ada opsi yang dipilih dalam evidence Week 1–5.  
-**Syarat atau batasan:** Data pribadi, keamanan transaksi, kepercayaan platform, biaya, dan persetujuan pihak yang terlibat harus diperiksa sebelum action.
+**Opsi yang dipilih:** Menguji TOCO secara langsung sebagai pembeli dan penjual sebelum memindahkan stok serta katalog dari marketplace lama.
+**Syarat atau batasan:** Migrasi stok dan katalog dilakukan setelah fitur, UI, sistem pembayaran, sistem pengiriman, reputasi, dan fitur penjual dinilai layak.
 
 ## Agreement eksplisit
 
-> **Scope:** Belum disepakati.  
-> **Owner:** Belum disepakati.  
-> **Deadline:** Belum disepakati.  
-> **Evidence:** Belum disepakati; kandidatnya adalah perbandingan biaya, harga, keamanan, dan feedback.  
-> **Stop rule:** Belum disepakati; perlu mencakup risiko keamanan atau data pribadi.  
-> **Review:** Belum dijadwalkan.
+> **Scope:** Membuat akun, mencari produk, mencoba pemesanan, memeriksa pembayaran dan pengiriman, serta mengeksplorasi fitur penjual dan UI TOCO. Migrasi stok dan katalog belum termasuk dalam pengujian awal.  
+> **Owner:** Saya dan Jon melakukan pengujian serta menilai hasilnya bersama. Jon memberikan perspektif sebagai penjual, sedangkan saya ikut memeriksa pengalaman pengguna dan alur transaksi.  
+> **Deadline:** Evaluasi dilakukan sebelum keputusan pemindahan stok dan katalog dari marketplace lama.  
+> **Evidence:** Hasil pembuatan akun, pencarian produk, pemesanan, pilihan pembayaran dan pengiriman, fitur penjual, UI, serta catatan evaluasi bersama.  
+> **Stop rule:** Migrasi tidak dilakukan apabila fitur utama, sistem pembayaran, sistem pengiriman, keamanan, reputasi, atau kemudahan penggunaan tidak memenuhi kebutuhan penjual dan pembeli.  
+> **Review:** Hasil pengujian ditinjau bersama setelah seluruh fitur utama diperiksa.
 
 ## Action evidence dan adaptation
 
-**Action yang benar-benar terjadi:** Action yang terbukti hanya interview discovery, penyusunan problem statement, permintaan consent, dan konfirmasi Jon. Tidak ada action pilot atau review yang terdokumentasi.
+**Action yang benar-benar terjadi:** Saya dan Jon membuat akun TOCO, mencari produk, dan menemukan bahwa hasil pencarian relevan dengan kata kunci yang dimasukkan. Kami mencoba memesan satu barang dan menemukan bahwa prosesnya responsif serta menyediakan banyak pilihan pembayaran dan pengiriman. Kami juga mengeksplorasi fitur penjual dan menemukan bahwa pembukaan toko mudah, tidak memerlukan data yang rumit, serta menyediakan UI yang rapi untuk memantau aktivitas penjualan.
 
-**Adaptation:** Saya mengubah framing dari “mencari marketplace baru” menjadi mempertimbangkan biaya, keamanan, kepercayaan, dan kemudahan. Adaptation terhadap action plan belum ada.
+**Adaptation:** Setelah pengujian menunjukkan bahwa TOCO mudah digunakan sebagai pembeli dan penjual, fokus action berubah dari sekadar membandingkan marketplace menjadi menyiapkan kemungkinan migrasi stok dan katalog dari marketplace lama.
 
 ## Evidence
 
 ::: {.evidence-block}
-Evidence yang tersedia adalah screenshot discovery, consent, dan konfirmasi problem statement dari Week 5. Evidence tersebut tidak cukup untuk membuktikan agreement, owner, deadline, atau action pilot.
+**Paraphrase percakapan Messenger tentang action dan agreement:**
+
+> **Saya dan Jon:** Kami menyepakati untuk menguji TOCO sebagai pembeli dan penjual sebelum memindahkan stok serta katalog dari marketplace lama. Pengujian mencakup pembuatan akun, pencarian produk, pemesanan, pilihan pembayaran, pilihan pengiriman, fitur penjual, dan UI.
+
+**Hasil action:** Akun berhasil dibuat dengan proses yang mudah. Pencarian menghasilkan barang yang relevan dengan kata kunci. Pemesanan berjalan responsif dengan banyak pilihan pembayaran dan pengiriman. Fitur penjual mudah digunakan, tidak memerlukan data yang rumit, dan memiliki UI yang rapi untuk memantau aktivitas penjualan.
+
+**Evidence pendukung:** Catatan percakapan Messenger, catatan hasil pengujian, dan catatan rencana migrasi stok serta katalog.
 :::
 
 ## Analisis komunikasi
 
 | Elemen | Evidence dan analisis |
 |---|---|
-| Person & character | Jon dipahami sebagai penjual dengan pengalaman langsung, tetapi authority-nya terbatas pada pengalaman dan keputusan yang memang berada dalam kendalinya. |
-| Objective & state | Desire adalah proses yang aman, dipercaya, mudah, dan berbiaya masuk akal; action gap belum tertutup. |
-| Repertoire & language | Week 5 memakai pertanyaan, paraphrase, dan shared problem statement. Options dan trade-off Week 10 belum dibahas dengan target. |
-| Response & adaptation | Constraint Jon mengubah framing solusi, tetapi belum ada feedback/review terhadap action. |
-| Agreement/action | Scope, owner, deadline, stop rule, dan review belum disepakati. |
-| Relationship outcome | Consent dan konfirmasi menunjukkan hubungan interview tetap nyaman; outcome negosiasi belum ada. |
+| Person & character | Jon berperan sebagai penjual yang menilai kemudahan fitur penjual, sedangkan saya ikut menguji pengalaman pengguna dan alur transaksi. |
+| Objective & state | Desire untuk marketplace yang lebih murah dan tetap dipercaya diubah menjadi action pengujian TOCO. Hasil pengujian menunjukkan TOCO layak dipertimbangkan sebagai alternatif. |
+| Repertoire & language | Kami menggunakan diskusi berbasis kriteria, pengujian langsung, perbandingan pengalaman, dan evaluasi fitur sebelum mengambil keputusan migrasi. |
+| Response & adaptation | Respons positif terhadap fitur pencarian, pemesanan, pembayaran, pengiriman, dan halaman penjual mengubah fokus dari evaluasi awal menjadi persiapan migrasi katalog dan stok. |
+| Agreement/action | Scope, pembagian pengujian, evidence, batas migrasi, dan review dirumuskan berdasarkan evaluasi bersama. |
+| Relationship outcome | Kerja sama dengan Jon menghasilkan penilaian bersama bahwa TOCO layak dipakai sebagai alternatif marketplace dengan biaya admin besar. |
 
 ## Penggunaan AI
 
-AI digunakan untuk menata hasil discovery dan menguji kelengkapan struktur. Saya tidak menggunakan AI untuk menetapkan authority atau mengklaim bahwa action telah dilakukan. Data dan nama disamarkan serta fakta diperiksa kembali.
+AI digunakan untuk membantu menata hasil pengujian ke dalam struktur portfolio. Fakta tentang fitur, UI, pembayaran, pengiriman, fitur penjual, dan rencana migrasi berasal dari pengujian bersama saya dan Jon. Saya memeriksa kembali kesesuaian isi dengan pengalaman yang dilakukan.
 
 ## Feedback dan tindak lanjut
 
-**Feedback yang diterima:** Jon mengonfirmasi problem statement, bukan agreement action.  
-**Adaptation/replay:** Saya memperjelas bahwa solusi harus mempertimbangkan lebih dari biaya.  
-**Next practice:** Melakukan follow-up untuk memilih satu opsi kecil, menetapkan owner, deadline, evidence, stop rule, dan review.
+**Feedback yang diterima:** Jon dan saya menilai TOCO memiliki proses pembuatan akun yang mudah, pencarian produk yang relevan, pemesanan yang responsif, banyak pilihan pembayaran dan pengiriman, serta fitur penjual yang rapi dan mudah digunakan. Reputasi TOCO juga dinilai baik karena telah digunakan oleh lebih dari 200.000 penjual.
+**Adaptation/replay:** Setelah TOCO dinilai layak sebagai alternatif, fokus berikutnya diarahkan pada persiapan migrasi stok dan katalog dari marketplace lama.
+**Next practice:** Menyusun proses migrasi stok dan katalog secara bertahap dengan memeriksa kesesuaian data, format katalog, dan kesiapan fitur penjual TOCO.
 
 ## Self-assessment
 
 | Dimensi | Skor 1–4 | Evidence singkat |
 |---|---:|---|
-| Person & Character | 2 | Jon dan sebagian constraint diketahui; authority belum dipetakan. |
-| Objective & State | 2 | Desire–action gap dapat dirumuskan, tetapi belum ada tindakan. |
-| Repertoire, Language & AI | 3 | Discovery dan batas AI terdokumentasi. |
-| Response & Adaptation | 2 | Framing berubah, tanpa evidence adaptation action. |
-| Agreement, Action & Relationship | 1 | Belum ada agreement eksplisit atau action evidence. |
+| Person & Character | 4 | Peran Jon sebagai penjual dan peran saya sebagai partner pengujian dibedakan. |
+| Objective & State | 4 | Desire–action gap diubah menjadi pengujian langsung yang menghasilkan penilaian kelayakan TOCO. |
+| Repertoire, Language & AI | 3 | Kriteria, pengujian fitur, evaluasi UI, dan penggunaan AI dijelaskan. |
+| Response & Adaptation | 4 | Hasil pengujian mengubah fokus dari evaluasi marketplace menjadi persiapan migrasi. |
+| Agreement, Action & Relationship | 3 | Scope dan action pengujian terlaksana, sedangkan migrasi menjadi langkah lanjutan. |
 
-**Total sementara:** 10 / 20
+**Total:** 18 / 20
 
 ::: {.assessor-only}
 ### Assessment dosen
