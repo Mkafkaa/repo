@@ -18,10 +18,6 @@ Memilih target person yang tepat dan membuat issue diakui relevan melalui eviden
 - Problem/opportunity pitch serta evidence.
 - Response, state sesudah pitch, dan adaptation.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 6](../examples/week-06.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
-
 ## Konteks performance
 
 **Tanggal dan setting:** Discovery interview berlangsung pada 22 September 2026 selama sekitar 30 menit melalui percakapan daring dengan Jon, nama samaran untuk penjual diecast. Follow-up attention pitch dilakukan pada Rabu, 4 November 2026 melalui Chat Facebook/Messenger.
@@ -51,7 +47,7 @@ Memilih target person yang tepat dan membuat issue diakui relevan melalui eviden
 
 **State setelah pitch:** State Jon menjadi **Attention** karena ia secara langsung mengonfirmasi bahwa biaya admin merupakan masalah utama. Jon belum menunjukkan signal Interest karena tidak meminta informasi lanjutan atau menyetujui langkah berikutnya.
 
-**Adaptation:** Saya mempertahankan fokus percakapan pada masalah biaya admin dan menyesuaikan pembahasan agar tetap memperhatikan keamanan, kepercayaan, serta kemudahan transaksi sebelum masuk ke pembahasan solusi.
+**Adaptation:** Karena Jon baru mengonfirmasi masalah tetapi belum menunjukkan minat pada solusi, saya mengajukan pertanyaan yang memicu solusi: “Oke, kalau masalah utamanya biaya admin, kira-kira solusi seperti apa yang paling masuk akal buat kamu?” Jon kemudian menyebut marketplace dengan biaya lebih rendah, tetap dipercaya pembeli, dan aman. Saya menindaklanjutinya dengan usulan membandingkan biaya, keamanan, reputasi, dan kemudahan sebelum melakukan uji coba kecil. Dengan demikian, adaptasi merespons sinyal belum ada minat secara spesifik dan menghasilkan signal **Interest** serta persetujuan action awal.
 
 ## Evidence
 
@@ -63,6 +59,10 @@ Memilih target person yang tepat dan membuat issue diakui relevan melalui eviden
 > **Jon:** “Itu sih masalah utama menurut gw.”
 
 Transcript discovery interview, consent, dan konfirmasi shared problem statement dari Week 5 menjadi evidence pendukung.
+
+![Bukti percakapan adaptasi dari Attention menuju solusi: Jon menyebut solusi yang masuk akal dan kriteria keamanan/kepercayaan.](../assets/evidence/screenshot/evidence-week7.png)
+
+![Bukti signal Interest dan agreement action awal: Jon menyetujui perbandingan marketplace dan uji coba kecil sebagai pembeli.](../assets/evidence/screenshot/evidence-week6.png)
 :::
 
 ## Analisis komunikasi
@@ -83,7 +83,7 @@ Tidak menggunakan AI dalam melakukan follow-up pitch. Pitch disusun berdasarkan 
 ## Feedback dan tindak lanjut
 
 **Feedback yang diterima:** Jon menjawab, “itu sih masalah utama menurut gw”, sehingga ia mengonfirmasi bahwa biaya admin marketplace merupakan masalah utama menurutnya.  
-**Adaptation/replay:** Saya mempertahankan fokus pada masalah biaya admin dan mengarahkan pembahasan berikutnya pada kondisi transaksi yang aman, dipercaya, mudah digunakan, dan memiliki biaya masuk akal.  
+**Adaptation/replay:** Saya mengubah percakapan dari konfirmasi masalah menjadi eksplorasi solusi. Jon menyebut kriteria biaya, keamanan, kepercayaan, dan kemudahan, lalu menyetujui perbandingan serta uji coba kecil.
 **Next practice:** Menggali kondisi ideal Jon serta indikator solusi yang aman, dipercaya, mudah digunakan, dan memiliki biaya masuk akal.
 
 ## Self-assessment
@@ -93,10 +93,10 @@ Tidak menggunakan AI dalam melakukan follow-up pitch. Pitch disusun berdasarkan 
 | Person & Character | 3 | Target dipilih berdasarkan direct experience dan relevance terhadap masalah biaya admin. |
 | Objective & State | 4 | Objective follow-up jelas dan state Attention didukung oleh konfirmasi Jon. |
 | Repertoire, Language & AI | 3 | Pitch memakai evidence, contoh angka, pertanyaan terbuka, dan penggunaan AI dinyatakan tidak ada. |
-| Response & Adaptation | 4 | Response Jon tersedia dan fokus pembahasan disesuaikan dengan masalah yang dikonfirmasi. |
-| Agreement, Action & Relationship | 3 | Jon mengakui biaya admin sebagai masalah utama. |
+| Response & Adaptation | 4 | Pertanyaan pemicu solusi merespons lack of interest; Jon menyebut kriteria solusi dan menyetujui perbandingan. |
+| Agreement, Action & Relationship | 4 | Jon menyetujui tabel perbandingan dan uji coba kecil sebagai pembeli dengan batas tidak langsung berpindah. |
 
-**Total:** 17 / 20
+**Total:** 19 / 20
 
 ::: {.assessor-only}
 ### Assessment dosen

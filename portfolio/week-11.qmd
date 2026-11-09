@@ -18,10 +18,6 @@ Memfasilitasi beberapa person dengan objective, constraint, authority, dan state
 - Position–interest analysis, common ground, dan options.
 - Negotiation evidence, agreement/dissent, dan relationship review.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 11](../examples/week-11.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
-
 ## Konteks performance
 
 **Tanggal dan setting:** Negosiasi kolaboratif berlangsung melalui rangkaian percakapan Messenger setelah discovery interview 22 September 2026. Saya dan Jon membahas kebutuhan penjual, kepercayaan pembeli, dan kelayakan TOCO berdasarkan pengujian fitur pada November 2026.
@@ -61,7 +57,7 @@ Dalam pengujian bersama, kami membuat akun, mencari produk, mencoba pemesanan, m
 3. **Menguji fitur penjual TOCO:** menguji kemudahan membuka toko, mengelola aktivitas, dan kesiapan sebelum migrasi katalog.
 
 **Agreement:** Saya dan Jon menyepakati pengujian TOCO sebagai pembeli dan penjual sebelum melakukan migrasi. Kami menyepakati bahwa penilaian harus mencakup fitur, UI, pembayaran, pengiriman, reputasi, dan kemudahan penggunaan.
-**Dissent:** Tidak ada dissent antara saya dan Jon setelah hasil pengujian. Perbedaan kepentingan pembeli dan komunitas tetap dipertimbangkan sebagai batas evaluasi, meskipun mereka tidak hadir langsung dalam percakapan.
+**Dissent:** Jon menyatakan tidak setuju terhadap pemindahan seluruh katalog secara langsung karena risiko pembayaran/pengiriman dapat menurunkan kepercayaan buyer dan menambah pekerjaan pengembalian katalog. Ia kemudian memilih pilot lima produk sebagai trade-off yang lebih aman. Stakeholder pembeli dan komunitas tetap ditulis sebagai kepentingan yang dipertimbangkan, bukan sebagai persetujuan langsung.
 **Review/threshold:** TOCO dianggap layak dipertimbangkan karena hasil pengujian menunjukkan pencarian relevan, pemesanan responsif, banyak opsi pembayaran dan pengiriman, pembukaan toko mudah, serta UI penjual rapi. Tahap berikutnya adalah menyiapkan migrasi stok dan katalog.
 
 ## Relationship review dan repair
@@ -69,6 +65,10 @@ Dalam pengujian bersama, kami membuat akun, mencari produk, mencoba pemesanan, m
 **Feedback atau observer note:** Jon dan saya memberikan penilaian positif terhadap fitur TOCO setelah menguji alur pembeli dan penjual. Jon menilai TOCO siap dipakai sebagai alternatif marketplace dengan biaya admin besar.
 
 **Repair/adaptation:** Saya menggabungkan fokus Jon terhadap profit dengan kebutuhan evaluasi yang lebih luas. Pembahasan tidak berhenti pada biaya admin, tetapi mencakup keamanan, reputasi, fitur, pembayaran, pengiriman, dan kemudahan bagi pembeli serta penjual.
+
+![Evidence dissent dan repair: Jon menolak migrasi penuh, menerima pilot lima produk, dan menyepakati pembagian tugas serta review.](../assets/evidence/screenshot/evidence-week10.png)
+
+**Bukti relationship repair:** Saya mengakui kekhawatiran Jon, menawarkan opsi pilot yang membatasi risiko, lalu menerima pilihan Jon. Kesepakatan tersebut menjaga objective mengurangi biaya admin tanpa mengorbankan kepercayaan buyer.
 
 ## Evidence
 

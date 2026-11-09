@@ -18,10 +18,6 @@ Menemukan desire–action gap dan menghasilkan agreement yang feasible serta eks
 - Options dan trade-off yang dibahas.
 - Agreement dengan owner/deadline serta bukti action atau review.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 10](../examples/week-10.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
-
 ## Konteks performance
 
 **Tanggal dan setting:** Setelah percakapan Week 9 pada 5 November 2026, saya dan Jon melanjutkan diskusi melalui Messenger untuk menguji kelayakan marketplace TOCO sebagai alternatif marketplace lama.
@@ -62,7 +58,7 @@ Desire–action gap berada pada jarak antara keinginan menggunakan marketplace d
 
 ## Action evidence dan adaptation
 
-**Action yang benar-benar terjadi:** Saya dan Jon membuat akun TOCO, mencari produk, dan menemukan bahwa hasil pencarian relevan dengan kata kunci yang dimasukkan. Kami mencoba memesan satu barang dan menemukan bahwa prosesnya responsif serta menyediakan banyak pilihan pembayaran dan pengiriman. Kami juga mengeksplorasi fitur penjual dan menemukan bahwa pembukaan toko mudah, tidak memerlukan data yang rumit, serta menyediakan UI yang rapi untuk memantau aktivitas penjualan.
+**Action yang benar-benar terjadi:** Saya dan Jon membuat akun TOCO, mencari produk, dan menemukan bahwa hasil pencarian relevan dengan kata kunci yang dimasukkan. Kami mencoba memesan satu barang dan menemukan bahwa prosesnya responsif serta menyediakan banyak pilihan pembayaran dan pengiriman. Kami juga mengeksplorasi fitur penjual dan menemukan bahwa pembukaan toko mudah, tidak memerlukan data yang rumit, serta menyediakan UI yang rapi untuk memantau aktivitas penjualan. Percakapan lanjutan memperlihatkan negosiasi antara kebutuhan segera mengurangi biaya admin dan kebutuhan menguji fitur secara lengkap.
 
 **Adaptation:** Setelah pengujian menunjukkan bahwa TOCO mudah digunakan sebagai pembeli dan penjual, fokus action berubah dari sekadar membandingkan marketplace menjadi menyiapkan kemungkinan migrasi stok dan katalog dari marketplace lama.
 
@@ -77,6 +73,10 @@ Desire–action gap berada pada jarak antara keinginan menggunakan marketplace d
 
 **Evidence pendukung:** Catatan percakapan Messenger, catatan hasil pengujian, dan catatan rencana migrasi stok serta katalog.
 :::
+
+![Evidence trade-off: Jon menyatakan keberatan terhadap penundaan, dua opsi dibandingkan, dan pilot lima produk dipilih.](../assets/evidence/screenshot/evidence-week11.png)
+
+**Hasil negosiasi:** Jon memilih pilot lima produk selama tiga hari sebagai kompromi antara kecepatan mengurangi biaya admin dan risiko fitur yang belum lengkap. Saya bertanggung jawab memeriksa pembayaran/pengiriman, Jon memeriksa fitur penjual/data katalog, dan review dijadwalkan pada Jumat. Migrasi penuh hanya dilakukan apabila hasil pilot tidak menunjukkan masalah.
 
 ## Analisis komunikasi
 

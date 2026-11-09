@@ -18,10 +18,6 @@ Membangun desired state bersama target dan menghubungkannya dengan solution seca
 - Feature–benefit–value–outcome chain.
 - Risk, evidence threshold, response, dan adaptation.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 9](../examples/week-09.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
-
 ## Konteks performance
 
 **Tanggal dan setting:** Discovery interview dilakukan pada 22 September 2026 selama sekitar 30 menit melalui percakapan daring. Percakapan lanjutan untuk menggali desired state dilakukan pada 5 November 2026 melalui Messenger.
@@ -63,6 +59,8 @@ Membangun desired state bersama target dan menghubungkannya dengan solution seca
 
 **Evidence yang dibutuhkan:** Review dari penjual dan pembeli, hasil pengalaman Jon sebagai pembeli, perbandingan sistem pembayaran dan pengiriman, daftar fitur, serta catatan kemudahan penggunaan antarmuka.
 
+**Status evidence:** Threshold telah dikonfirmasi dalam percakapan: tiga review penjual, tiga review pembeli, satu transaksi kecil sebagai pembeli, dan tabel perbandingan biaya. Stop rule yang disepakati adalah tidak melanjutkan migrasi apabila terdapat masalah pembayaran atau pengiriman.
+
 ## Evidence
 
 ::: {.evidence-block}
@@ -80,7 +78,11 @@ Membangun desired state bersama target dan menghubungkannya dengan solution seca
 >
 > **Jon:** “Lihat review orang-orang yang sudah pernah memakai, baik penjual maupun pembeli. Saya juga mau mencoba menjadi pembeli dulu sebelum berjualan di situ.”
 
-Transcript discovery, consent, dan konfirmasi problem statement dari Week 5 menjadi evidence pendukung. Rencana eksplorasi fitur, antarmuka, pembayaran, dan pengiriman menjadi action berdasarkan desired state tersebut.
+Transcript discovery, consent, dan konfirmasi problem statement dari Week 5 menjadi evidence pendukung. Bukti transaksi kecil dan persetujuan threshold pada screenshot mengubah rencana eksplorasi menjadi action yang terverifikasi.
+
+![Bukti transaksi kecil, kebutuhan review penjual/pembeli, dan threshold yang disepakati.](../assets/evidence/screenshot/evidence-week9-1.png)
+
+![Bukti persetujuan threshold dan stop rule untuk pembayaran/pengiriman sebelum migrasi.](../assets/evidence/screenshot/evidence-week9-2.png)
 :::
 
 ## Analisis komunikasi
@@ -112,9 +114,9 @@ AI digunakan untuk menata hasil interview. Saya memeriksa ulang angka, batas evi
 | Objective & State | 4 | Current state dan desired state dikonfirmasi melalui percakapan langsung. |
 | Repertoire, Language & AI | 3 | Pertanyaan terbuka, value language, chain, dan penggunaan AI dijelaskan. |
 | Response & Adaptation | 4 | Jawaban Jon mengubah fokus solusi dari biaya rendah menjadi keseimbangan beberapa value. |
-| Agreement, Action & Relationship | 3 | Langkah eksplorasi marketplace sebagai pembeli dan pemeriksaan fitur disepakati. |
+| Agreement, Action & Relationship | 4 | Threshold, bukti transaksi kecil, review, tabel perbandingan, dan stop rule disepakati secara eksplisit. |
 
-**Total:** 18 / 20
+**Total:** 19 / 20
 
 ::: {.assessor-only}
 ### Assessment dosen

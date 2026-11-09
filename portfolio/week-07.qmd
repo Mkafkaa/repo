@@ -18,10 +18,6 @@ Menghubungkan solution mechanism dengan problem, benefit, dan value yang relevan
 - Interest pitch dengan evidence atau demonstration.
 - Response, state assessment, hidden concern, dan adaptation.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 7](../examples/week-07.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
-
 ## Konteks performance
 
 **Tanggal dan setting:** Discovery interview dilakukan pada 22 September 2026 selama sekitar 30 menit melalui percakapan daring. Pitch solusi dilakukan pada 5 November 2026 melalui Chat Facebook/Messenger.
@@ -67,6 +63,10 @@ Menghubungkan solution mechanism dengan problem, benefit, dan value yang relevan
 Transcript discovery dan konfirmasi problem statement dari Week 5 mendukung attention evidence. Langkah eksplorasi marketplace alternatif menjadi action setelah percakapan ini.
 :::
 
+![Evidence response dan hidden concern: Jon memprioritaskan keamanan serta kepercayaan buyer, tetapi tetap meminta biaya lebih rendah.](../assets/evidence/screenshot/evidence-week6.png)
+
+**Evidence lanjutan:** Screenshot menunjukkan Jon menyetujui pengiriman perbandingan dan ikut menilai hasil uji coba kecil. Signal tersebut mendukung state **Interest**, bukan sekadar pengakuan masalah.
+
 ## Analisis komunikasi
 
 | Elemen | Evidence dan analisis |
@@ -80,7 +80,7 @@ Transcript discovery dan konfirmasi problem statement dari Week 5 mendukung atte
 
 ## Penggunaan AI
 
-Tidak menggunakan AI. Pitch, response, hidden concern, dan adaptation berasal dari percakapan dengan Jon.
+AI digunakan untuk membantu merapikan struktur portfolio dan menghubungkan evidence dengan rubrik. Isi percakapan, respons Jon, dan keputusan action berasal dari percakapan Messenger yang ditampilkan pada screenshot; AI tidak membuat atau mengubah respons Jon.
 
 ## Feedback dan tindak lanjut
 
